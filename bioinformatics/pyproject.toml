@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dna-lab"
+version = "0.1.0"
+description = "Local DNA tools and a WES research desktop application"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+dna-lab = "dna_lab.cli:main"
+wes-lab = "wes_lab.app:main"
+
+[tool.setuptools.packages.find]
+include = ["dna_lab*", "wes_lab*"]
+
+[tool.setuptools.package-data]
+wes_lab = ["assets/*.csv", "assets/*.tsv", "assets/*.txt", "assets/*.json"]

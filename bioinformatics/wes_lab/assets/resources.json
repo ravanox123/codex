@@ -1,0 +1,9 @@
+{
+  "sfari": {
+    "source": "https://gene.sfari.org/wp-content/themes/sfari-gene/utilities/download-csv.php?api-endpoint=genes",
+    "local_snapshot": "2026-10-16",
+    "sha256": "ec3b830ab3f4e185d4d912b6e46a9bca79db39fafd107b37d8b48421be4772d2"
+  },
+  "mane": "Local SnpEff GRCh38 MANE 1.5 transcript export; comparison ignores version suffixes",
+  "assembly": "GRCh38 for bundled chromosome mappings and MANE IDs"
+}

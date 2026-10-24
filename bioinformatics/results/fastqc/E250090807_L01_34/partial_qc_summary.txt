@@ -1,0 +1,49 @@
+FastQC on complete records recovered from truncated input files. Original files unchanged. These are partial datasets with unequal read counts.
+
+E250090807_L01_34_1.partial_fastqc.zip
+	pass
+#Measure	Value
+Filename	E250090807_L01_34_1.partial.fq
+File type	Conventional base calls
+Encoding	Sanger / Illumina 1.9
+Total Sequences	49574818
+Total Bases	7.4 Gbp
+Sequence length	150
+Mean Length	150
+Median Length	150
+%GC	50
+
+PASS	Basic Statistics	E250090807_L01_34_1.partial.fq
+PASS	Per base sequence quality	E250090807_L01_34_1.partial.fq
+PASS	Per sequence quality scores	E250090807_L01_34_1.partial.fq
+WARN	Per base sequence content	E250090807_L01_34_1.partial.fq
+WARN	Per sequence GC content	E250090807_L01_34_1.partial.fq
+PASS	Per base N content	E250090807_L01_34_1.partial.fq
+PASS	Sequence Length Distribution	E250090807_L01_34_1.partial.fq
+PASS	Sequence Duplication Levels	E250090807_L01_34_1.partial.fq
+PASS	Overrepresented sequences	E250090807_L01_34_1.partial.fq
+PASS	Adapter Content	E250090807_L01_34_1.partial.fq
+
+E250090807_L01_34_2.partial_fastqc.zip
+	pass
+#Measure	Value
+Filename	E250090807_L01_34_2.partial.fq
+File type	Conventional base calls
+Encoding	Sanger / Illumina 1.9
+Total Sequences	45064271
+Total Bases	6.7 Gbp
+Sequence length	150
+Mean Length	150
+Median Length	150
+%GC	49
+
+PASS	Basic Statistics	E250090807_L01_34_2.partial.fq
+PASS	Per base sequence quality	E250090807_L01_34_2.partial.fq
+PASS	Per sequence quality scores	E250090807_L01_34_2.partial.fq
+WARN	Per base sequence content	E250090807_L01_34_2.partial.fq
+WARN	Per sequence GC content	E250090807_L01_34_2.partial.fq
+PASS	Per base N content	E250090807_L01_34_2.partial.fq
+PASS	Sequence Length Distribution	E250090807_L01_34_2.partial.fq
+PASS	Sequence Duplication Levels	E250090807_L01_34_2.partial.fq
+PASS	Overrepresented sequences	E250090807_L01_34_2.partial.fq
+PASS	Adapter Content	E250090807_L01_34_2.partial.fq

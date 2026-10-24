@@ -1,0 +1,878 @@
+VCV000372246.84 - ClinVar - NCBI
+An official website of the United States government
+Here's how you know
+Here's how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official
+                            government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you've safely
+                                connected to the .gov website. Share sensitive
+                                information only on official, secure websites.
+Log in
+Dashboard
+Publications
+Account settings
+Log out
+Primary site navigation
+Logged in as:
+Dashboard
+Publications
+Account settings
+Log in
+ClinVar Home
+About
+About ClinVar
+Statistics
+List of submitters
+Map of submitters
+Website overview
+FAQ
+Understand the Data
+Data authorities
+Preferred names
+Classification
+Review status and assertion criteria
+HGVS expressions
+Data validation
+Accessions and identifiers
+Release cycle
+Access the Data
+Web access
+How to search ClinVar
+VCV (variant) pages
+RCV (variant-condition) pages
+Downloads
+Programmatic access
+Linking to ClinVar
+Submit Data
+Submission overview
+Get started
+Submission instructions
+Expert panels and practice guidelines
+On this page
+Classification Summary
+Variant Details
+Genes
+Germline
+Conditions
+Submissions
+Citations
+Text-mined Citations
+NM_020810.3(TRMT5):c.312_315del (p.Ile105fs)
+Cite
+Following
+Follow
+⚠
+Print
+Download
+Cite this record
+Close
+National Center for Biotechnology Information. ClinVar; [VCV000372246.84], https://www.ncbi.nlm.nih.gov/clinvar/variation/VCV000372246.84 (accessed Oct. 20, 2026).
+Copy
+Germline
+Classification
+Help
+criteria provided, conflicting classifications.
+Learn more about how ClinVar calculates review status.
+Conflicting classifications of pathogenicity
+Pathogenic (4); Likely pathogenic (3); Uncertain significance (4)
+11 out of 12
+submissions contributed to this classification
+Help
+The aggregate germline classification for this variant, typically for a monogenic or Mendelian disorder as in
+the ACMG/AMP guidelines
+, or for response to a drug. This value is calculated by NCBI based on data from submitters.
+Read our rules for calculating the aggregate classification
+.
+12
+Somatic
+No data submitted for somatic clinical impact
+Somatic
+No data submitted for oncogenicity
+Variant Details
+Identifiers
+NM_020810.3(TRMT5):c.312_315del (p.Ile105fs)
+Variation ID: 372246
+Accession: VCV000372246.84
+Type and length
+Deletion,
+4 bp
+Location
+Cytogenetic:
+14q23.1
+14:
+            
+              60979583-60979586
+(GRCh38)
+[
+NCBI
+UCSC
+]
+14:
+            
+              61446301-61446304
+(GRCh37)
+[
+NCBI
+UCSC
+]
+Timeline in ClinVar
+First in ClinVar
+Help
+The date this variant first appeared in ClinVar with each type of classification.
+Last submission
+Help
+The date of the most recent submission for each type of classification for this variant.
+Last evaluated
+Help
+The most recent date that a submitter evaluated this variant for each type of classification.
+Germline
+Nov 5, 2017
+Oct 3, 2026
+Jun 30, 2026
+HGVS
+Nucleotide
+Protein
+Molecular
+consequence
+NM_020810.3:c.312_315del
+MANE Select
+Help
+Transcripts from the Matched Annotation from the NCBI and EMBL-EBI (
+MANE
+) collaboration.
+NP_065861.3:p.Ile105fs
+frameshift
+NM_020810.3:c.312_315delAATA
+MANE Select
+Help
+Transcripts from the Matched Annotation from the NCBI and EMBL-EBI (
+MANE
+) collaboration.
+NM_001350253.1:c.396_399del
+NP_001337182.1:p.Ile133fs
+frameshift
+NM_001350254.1:c.393_396del
+NP_001337183.1:p.Ile132fs
+frameshift
+NC_000014.9:g.60979584_60979587del
+NC_000014.8:g.61446302_61446305del
+NG_053119.1:g.7105_7108del
+...
+            more HGVS
+... less HGVS
+Protein change
+I105fs, 
+        
+          I132fs, 
+        
+          I133fs
+Other names
+-
+Canonical SPDI
+NC_000014.9:60979582:TATTT:T
+Global minor allele
+frequency (GMAF)
+Help
+The global minor allele frequency calculated by the 1000 Genomes Project. The minor allele at this location is indicated in parentheses and may be different from the allele represented by this VCV record.
+-
+Allele frequency
+Help
+The frequency of the allele represented by this VCV record.
+-
+Links
+ClinGen: CA7213943
+OMIM: 611023.0001
+dbSNP: rs755184077
+VarSome
+Genes
+Gene
+OMIM
+ClinGen Gene Dosage Sensitivity Curation
+Variation Viewer
+Help
+Links to Variation Viewer, a genome browser to view variation data from NCBI databases.
+Related variants
+HI score
+Help
+The haploinsufficiency score for the gene, curated by ClinGen’s Dosage Sensitivity Curation task team.
+TS score
+Help
+The triplosensitivity score for the gene, curated by ClinGen’s Dosage Sensitivity Curation task team.
+Within gene
+Help
+The number of variants in ClinVar that are contained within this gene, with a link to view the list of variants.
+All
+Help
+The number of variants in ClinVar for this gene, including smaller variants within the gene and larger CNVs that overlap or fully contain the gene.
+TRMT5
+-
+-
+GRCh38
+GRCh37
+270
+300
+Conditions - Germline
+Condition
+Help
+The condition for this variant-condition (RCV) record in ClinVar.
+Classification
+Help
+The aggregate germline classification for this variant-condition (RCV) record in ClinVar. The number of submissions that contribute to this aggregate classification is shown in parentheses.
+(# of submissions)
+Review status
+Help
+The aggregate review status for this variant-condition (RCV) record in ClinVar. This value is calculated by NCBI based on data from submitters.
+Read our rules for calculating the review status
+.
+Last evaluated
+Help
+The most recent date that a submitter evaluated this variant for the condition.
+Variation/condition record
+Help
+The RCV accession number, with most recent version number, for the variant-condition record, with a link to the RCV web page.
+Combined oxidative phosphorylation defect type 26
+Pathogenic/Likely pathogenic (5)
+criteria provided, multiple submitters, no conflicts
+Nov 27, 2024
+RCV000412579.19
+not provided
+Conflicting classifications of pathogenicity (5)
+criteria provided, conflicting classifications
+Jun 30, 2026
+RCV000513771.53
+not specified
+Uncertain significance (1)
+criteria provided, single submitter
+Dec 4, 2025
+RCV004525925.5
+TRMT5-related disorder
+Likely pathogenic (1)
+criteria provided, single submitter
+Aug 4, 2025
+RCV004758007.2
+Submissions - Germline
+Classification
+Help
+The submitted germline classification for each SCV record.
+(Last evaluated)
+Review status
+Help
+Stars represent the review status, or the level of review supporting the submitted (SCV) record. This value is calculated by NCBI based on data from the submitter.
+Read our rules for calculating the review status
+. This column also includes a link to the submitter’s assertion criteria if provided, and the collection method.
+(Assertion criteria)
+Condition
+Help
+The condition for the classification, provided by the submitter for this submitted (SCV) record. This column also includes the affected status and allele origin of individuals observed with this variant.
+Submitter
+Help
+The submitting organization for this submitted (SCV) record. This column also includes the SCV accession and version number, the date this SCV first appeared in ClinVar, and the date that this SCV was last updated in ClinVar.
+Expand all rows
+Collapse all rows
+Help
+This column includes more information supporting the classification, including citations, the comment on classification, and detailed evidence provided as observations of the variant by the submitter.
+Pathogenic
+(Jul 24, 2017)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+not provided
+Center for Pediatric Genomic Medicine, Children's Mercy Hospital and Clinics
+Accession: SCV000610714.1
+First in ClinVar: Nov 05, 2017
+Last updated: Nov 05, 2017
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+not provided
+more
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+not provided
+Platform type
+:
+Sequencing
+Platform name
+:
+Illumina
+Uncertain significance
+(Oct 24, 2022)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+Invitae Variant Classification Sherloc (09022015)
+)
+not provided
+Labcorp Genetics (formerly Invitae), Labcorp
+Accession: SCV001053996.5
+First in ClinVar: Dec 17, 2019
+Last updated: Feb 07, 2023
+Publications:
+PubMed (2)
+PubMed:
+26189817
+‚
+29021354
+Comment
+:
+show
+This sequence change creates a premature translational stop signal (p.Ile105Serfs*4) in the TRMT5 gene. It is expected to result in an absent or disrupted protein product. However, the current clinical and genetic evidence is not sufficient to establish whether loss-of-function variants in TRMT5 cause disease. This variant is present in population databases (rs755184077, gnomAD 0.3%), and has an allele count higher than expected for a pathogenic variant. This premature translational stop signal has been observed in individual(s) with features of combined oxidative phosphorylation deficiency (PMID: 26189817, 29021354). ClinVar contains an entry for this variant (Variation ID: 372246). In summary, the available evidence is currently insufficient to determine the role of this variant in disease. Therefore, it has been classified as a Variant of Uncertain Significance.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Likely pathogenic
+(Jan 01, 2023)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+CeGaT Center For Human Genetics Tuebingen Variant Classification Criteria Version 2
+)
+not provided
+CeGaT Center for Human Genetics Tuebingen
+Accession: SCV001246883.39
+First in ClinVar: May 09, 2020
+Last updated: Jul 27, 2026
+Comment
+:
+show
+TRMT5: PS4, PM4
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+more
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Number of individuals with the variant
+:
+4
+Pathogenic
+(Apr 27, 2023)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+Combined oxidative phosphorylation defect type 26
+Neurometabolic Diseases Laboratory, Bellvitge Biomedical Research Institute (IDIBELL)
+Accession: SCV003920742.1
+First in ClinVar: Nov 04, 2023
+Last updated: Nov 04, 2023
+Observation: 1
+Collection method
+:
+research
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Observation 1
+Collection method
+:
+research
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Likely pathogenic
+(May 15, 2023)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+Combined oxidative phosphorylation defect type 26
+Department of Pathology and Laboratory Medicine, Sinai Health System
+Accession: SCV006053171.1
+First in ClinVar: Apr 28, 2025
+Last updated: Apr 28, 2025
+Observation: 1
+Collection method
+:
+research
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+research
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Pathogenic
+(Nov 01, 2017)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+Combined oxidative phosphorylation defect type 26
+Payam Genetics Center, General Welfare Department of North Khorasan Province
+Accession: SCV006336754.1
+First in ClinVar: Sep 27, 2025
+Last updated: Sep 27, 2025
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+no
+more
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+no
+Number of individuals with the variant
+:
+4
+Sex
+:
+mixed
+Ethnicity/Population group
+:
+Turkmens
+Geographic origin
+:
+Iran
+Pathogenic
+(Nov 27, 2024)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+Combined oxidative phosphorylation defect type 26
+3billion
+Accession: SCV006583033.1
+First in ClinVar: Oct 25, 2025
+Last updated: Oct 25, 2025
+Publications:
+PubMed (1)
+PubMed:
+26189817
+Comment
+:
+show
+The variant is observed at an extremely low frequency in the gnomAD v4.1.0 dataset (total allele frequency: 0.090%). Predicted Consequence/Location: Frameshift: predicted to result in a loss or disruption of normal protein function through nonsense-mediated decay (NMD) or protein truncation. Multiple pathogenic variants are reported downstream of the variant. The variant has been reported to be in trans with a pathogenic variant as either compound heterozygous or homozygous in at least one similarly affected unrelated individual (PMID: 26189817). The variant has been reported at least twice as pathogenic with clinical assertions and evidence for the classification (ClinVar ID: VCV000372246 /PMID: 26189817). Therefore, this variant is classified as Pathogenic according to the recommendation of ACMG/AMP guideline.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+more
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Method
+:
+exome sequencing
+Uncertain significance
+(Dec 04, 2025)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+LabCorp Variant Classification Summary - May 2015
+)
+not specified
+Women's Health and Genetics/Laboratory Corporation of America, LabCorp
+Accession: SCV002511860.6
+First in ClinVar: May 16, 2022
+Last updated: Feb 07, 2026
+Publications:
+PubMed (4)
+PubMed:
+26189817
+‚
+29021354
+‚
+31038196
+‚
+35342985
+Comment
+:
+show
+Variant summary: TRMT5 c.312_315delAATA (p.Ile105SerfsX4) results in a premature termination codon, predicted to cause a truncation of the encoded protein or absence of the protein due to nonsense mediated decay, however current evidence is not sufficient to establish loss of function as a mechanism for disease. The tRNA methyltransferase 5 (TRMT5) gene encodes a protein involved in methylation of a specific nucleotide (position 37) adjacent to the anticodon of mitochondrial-tRNA molecules to enhance their translational efficiency/fidelity (Tarnopolsky_2017). The p.Ile105Serfs*4 frameshift mutation is upstream of the methyltransferase motif, therefore it is predicted to result in a truncated protein that is expected to be non-functional (Powell_2015). The variant allele was found at a frequency of 0.00087 in 251378 control chromosomes, predominantly at a frequency of 0.0013 within the Non-Finnish European subpopulation in the gnomAD database. As the prevalence of Combined Oxidative Phosphorylation Defect Type 26 and attributable risk of TRMT5 gene and variants cannot be estimated, this frequency does not allow conclusions about variant significance. c.312_315delAATA has been reported in the literature as a compound heterozygous genotype with other TRMT5 missense variants in trans in at least seven probands from six separate families presenting with varying clinical features, suggestive of mitochondrial disease (e.g., Powell_2015, Tarnopolsky_2017, Argente-Escrig_2022). Each of these probands were comprehensively evaluated to rule out other genetic conditions prior to whole exome sequencing (WES). It has also been reported as a non-informative genotype (zygosity/genotype not specified) in an autistic proband who underwent whole genome sequencing (e.g., Callaghan_2019) but has not been considered as a relevant correlation in the context of this evaluation. These data indicate that the variant might be associated with disease. To our knowledge, no experimental evidence demonstrating an impact on protein function has been reported. The following publications have been ascertained in the context of this evaluation (PMID: 35342985, 31038196, 26189817, 29021354). ClinVar contains an entry for this variant (Variation ID: 372246). Based on the evidence outlined above, the variant was classified as VUS-possibly pathogenic.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Uncertain significance
+(Jun 30, 2026)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+GeneDx Variant Classification Process June 2021
+)
+not provided
+GeneDx
+Accession: SCV004036831.2
+First in ClinVar: Sep 30, 2023
+Last updated: Sep 05, 2026
+Comment
+:
+show
+Frameshift variant predicted to result in protein truncation or nonsense mediated decay in a gene or region of a gene for which loss of function is not a well-established mechanism of disease; This variant is associated with the following publications: (PMID: 34426522, 31038196, 26189817, 29021354, 2544623, 35342985)
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Uncertain significance
+(Nov 05, 2024)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+not provided
+Blueprint Genetics
+Accession: SCV007796993.1
+First in ClinVar: Sep 22, 2026
+Last updated: Sep 22, 2026
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Likely pathogenic
+(Aug 04, 2025)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+TRMT5-related condition
+PreventionGenetics, part of Exact Sciences
+Accession: SCV005359678.2
+First in ClinVar: Oct 08, 2024
+Last updated: Oct 03, 2026
+Comment
+:
+show
+The TRMT5 c.312_315delAATA variant is predicted to result in a frameshift and premature protein termination (p.Ile105Serfs*4). This variant has been described in the presumably compound heterozygous state in two unrelated individuals who presented with combined oxidative phosphorylation deficiency (Powell et al. 2015. PubMed ID: 26189817), and in the compound heterozygous state in two affected sisters from a different family (Tamopolsky et al. 2017. PubMed ID: 29021354). The c.312_315del variant has a relatively high minor allele frequency (~0.33%) in at least one sub-population in a large population database, but no homozygotes were described in the same database. Frameshift variants in TRMT5 are expected to be pathogenic. This variant is classified as likely pathogenic.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Pathogenic
+(Jun 01, 2022)
+N
+Not contributing to aggregate classification
+no assertion criteria provided
+PERIPHERAL NEUROPATHY WITH VARIABLE SPASTICITY, EXERCISE INTOLERANCE, AND DEVELOPMENTAL DELAY
+OMIM
+Accession: SCV000490321.3
+First in ClinVar: Jan 07, 2017
+Last updated: Jun 05, 2022
+Publications:
+PubMed (4)
+PubMed:
+2544623
+‚
+26189817
+‚
+29021354
+‚
+35342985
+Observation: 1
+Collection method
+:
+literature only
+Allele origin
+:
+germline
+Affected status
+:
+not provided
+more
+Observation 1
+Collection method
+:
+literature only
+Allele origin
+:
+germline
+Affected status
+:
+not provided
+Comment on evidence
+:
+In 2 unrelated patients (patient 73901, previously reported by Haller et al. (1989), and patient 65205), with peripheral neuropathy with variable spasticity, exercise intolerance, and …
+(more)
+In 2 unrelated patients (patient 73901, previously reported by Haller et al. (1989), and patient 65205), with peripheral neuropathy with variable spasticity, exercise intolerance, and developmental delay (PNSED; 616539), Powell et al. (2015) identified compound heterozygous mutations in the TRMT5 gene. Both patients carried a 4-bp deletion (c.312_315del, NM_020810.3), resulting in a frameshift and premature termination (Ile105SerfsTer4) on 1 allele, and a different pathogenic mutation on the second allele: a c.872G-A transition, resulting in an arg291-to-his (R291H; 611023.0002) and a c.1156A-G transition, resulting in a met386-to-val (M386V; 611023.0003) substitution, respectively. Both missense mutations occurred at highly conserved residues. The mutations, which were found by whole-exome sequencing and confirmed by Sanger sequencing, segregated within the families according to DNA available from family members. None of the variants were present in an in-house exome database of over 5,700 samples. In the ExAC database, c.312_315del and c.872G-A were found at low frequencies (0.0009 and 0.00004, respectively). The Ile105SerfsTer4 mutation is predicted to truncate the protein upstream of the methyltransferase motif and thus be nonfunctional. A reverse-transcription primer extension (RT-PEx) assay performed on patient-derived fibroblasts and skeletal muscle tissue indicated that mt-tRNA(Leu-CUN) had decreased G37 modification compared to controls, with a more significant effect in the patient with the more severe phenotype. Downregulation of TRMT5 in HeLa cells resulted in a similar effect. In addition, neither missense mutation was able to rescue defective mitochondrial respiratory activity in a yeast knockout model, consistent with a loss of function. In 2 sisters with PNSED, Tarnopolsky et al. (2017) identified compound heterozygosity for 2 mutations in the TRMT5 gene: c.312_315del and R291H (611023.0002). The mutations, which were found by whole-exome sequencing, occurred in trans. Functional studies of the variants and studies of patient cells were not performed. In 3 unrelated patients of Southern European descent with PNSED, Argente-Escrig et al. (2022) identified compound heterozygosity for c.312_315del and a c.665T-C transition, resulting in an ile222-to-thr (I222T) substitution at a highly conserved residue in the D2 domain (611023.0004). The mutations, which were found by whole-exome sequencing and confirmed by Sanger sequencing, segregated with the disorder in all families. I222T was present once in the heterozygous state in the gnomAD database (1 of 241,828 alleles), whereas c.312_315del was found in the heterozygous state in 246 of 282,782 alleles. Functional studies of the variants and studies of patient cells were not performed.
+(less)
+Comment:
+This sequence change creates a premature translational stop signal (p.Ile105Serfs*4) in the TRMT5 gene. It is expected to result in an absent or disrupted protein product. However, the current clinical and genetic evidence is not sufficient to establish whether loss-of-function variants in TRMT5 cause disease. This variant is present in population databases (rs755184077, gnomAD 0.3%), and has an allele count higher than expected for a pathogenic variant. This premature translational stop signal has been observed in individual(s) with features of combined oxidative phosphorylation deficiency (PMID: 26189817, 29021354). ClinVar contains an entry for this variant (Variation ID: 372246). In summary, the available evidence is currently insufficient to determine the role of this variant in disease. Therefore, it has been classified as a Variant of Uncertain Significance.
+OK
+Comment:
+TRMT5: PS4, PM4
+OK
+Comment:
+The variant is observed at an extremely low frequency in the gnomAD v4.1.0 dataset (total allele frequency: 0.090%). Predicted Consequence/Location: Frameshift: predicted to result in a loss or disruption of normal protein function through nonsense-mediated decay (NMD) or protein truncation. Multiple pathogenic variants are reported downstream of the variant. The variant has been reported to be in trans with a pathogenic variant as either compound heterozygous or homozygous in at least one similarly affected unrelated individual (PMID: 26189817). The variant has been reported at least twice as pathogenic with clinical assertions and evidence for the classification (ClinVar ID: VCV000372246 /PMID: 26189817). Therefore, this variant is classified as Pathogenic according to the recommendation of ACMG/AMP guideline.
+OK
+Comment:
+Variant summary: TRMT5 c.312_315delAATA (p.Ile105SerfsX4) results in a premature termination codon, predicted to cause a truncation of the encoded protein or absence of the protein due to nonsense mediated decay, however current evidence is not sufficient to establish loss of function as a mechanism for disease. The tRNA methyltransferase 5 (TRMT5) gene encodes a protein involved in methylation of a specific nucleotide (position 37) adjacent to the anticodon of mitochondrial-tRNA molecules to enhance their translational efficiency/fidelity (Tarnopolsky_2017). The p.Ile105Serfs*4 frameshift mutation is upstream of the methyltransferase motif, therefore it is predicted to result in a truncated protein that is expected to be non-functional (Powell_2015). The variant allele was found at a frequency of 0.00087 in 251378 control chromosomes, predominantly at a frequency of 0.0013 within the Non-Finnish European subpopulation in the gnomAD database. As the prevalence of Combined Oxidative Phosphorylation Defect Type 26 and attributable risk of TRMT5 gene and variants cannot be estimated, this frequency does not allow conclusions about variant significance. c.312_315delAATA has been reported in the literature as a compound heterozygous genotype with other TRMT5 missense variants in trans in at least seven probands from six separate families presenting with varying clinical features, suggestive of mitochondrial disease (e.g., Powell_2015, Tarnopolsky_2017, Argente-Escrig_2022). Each of these probands were comprehensively evaluated to rule out other genetic conditions prior to whole exome sequencing (WES). It has also been reported as a non-informative genotype (zygosity/genotype not specified) in an autistic proband who underwent whole genome sequencing (e.g., Callaghan_2019) but has not been considered as a relevant correlation in the context of this evaluation. These data indicate that the variant might be associated with disease. To our knowledge, no experimental evidence demonstrating an impact on protein function has been reported. The following publications have been ascertained in the context of this evaluation (PMID: 35342985, 31038196, 26189817, 29021354). ClinVar contains an entry for this variant (Variation ID: 372246). Based on the evidence outlined above, the variant was classified as VUS-possibly pathogenic.
+OK
+Comment:
+Frameshift variant predicted to result in protein truncation or nonsense mediated decay in a gene or region of a gene for which loss of function is not a well-established mechanism of disease; This variant is associated with the following publications: (PMID: 34426522, 31038196, 26189817, 29021354, 2544623, 35342985)
+OK
+Comment:
+The TRMT5 c.312_315delAATA variant is predicted to result in a frameshift and premature protein termination (p.Ile105Serfs*4). This variant has been described in the presumably compound heterozygous state in two unrelated individuals who presented with combined oxidative phosphorylation deficiency (Powell et al. 2015. PubMed ID: 26189817), and in the compound heterozygous state in two affected sisters from a different family (Tamopolsky et al. 2017. PubMed ID: 29021354). The c.312_315del variant has a relatively high minor allele frequency (~0.33%) in at least one sub-population in a large population database, but no homozygotes were described in the same database. Frameshift variants in TRMT5 are expected to be pathogenic. This variant is classified as likely pathogenic.
+OK
+Citations for germline classification of this variant
+Help
+Title
+Author
+Journal
+Year
+Link
+A novel TRMT5 mutation causes a complex inherited neuropathy syndrome: The role of nerve pathology in defining a demyelinating neuropathy.
+Argente-Escrig H
+Neuropathology and applied neurobiology
+2022
+PMID:
+35342985
+Whole genome sequencing and variant discovery in the ASPIRE autism spectrum disorder cohort.
+Callaghan DB
+Clinical genetics
+2019
+PMID:
+31038196
+TRMT5 mutations are associated with features of complex hereditary spastic paraparesis.
+Tarnopolsky MA
+Neurology
+2017
+PMID:
+29021354
+TRMT5 Mutations Cause a Defect in Post-transcriptional Modification of Mitochondrial tRNA Associated with Multiple Respiratory-Chain Deficiencies.
+Powell CA
+American journal of human genetics
+2015
+PMID:
+26189817
+Exercise intolerance, lactic acidosis, and abnormal cardiopulmonary regulation in exercise associated with adult skeletal muscle cytochrome c oxidase deficiency.
+Haller RG
+The Journal of clinical investigation
+1989
+PMID:
+2544623
+Text-mined citations for rs755184077
+...
+Help
+These citations are identified by LitVar using
+    the rs number, so they may include citations for more than one variant
+    at this location. Please review the LitVar results carefully for your
+    variant of interest.
+Record last updated Oct 04, 2026
+This date represents the last time this VCV record was updated. The 
+                        update may be due to an update to one of the included submitted 
+                        records (SCVs), or due to an update that ClinVar made to the variant 
+                        such as adding HGVS expressions or a rs number. So this date may be 
+                        different from the date of the “most recent submission” reported at the 
+                        top of this page.
+Help
+Modify your search
+Search (all fields optional)
+Clear all
+Variant
+Gene
+Genomic Location
+GRCh38
+GRCh37
+More search options
+Disease
+Other Terms
+Advanced Search
+Clear all
+Search
+Follow NCBI
+Twitter
+Facebook
+LinkedIn
+GitHub
+Connect with NLM
+Twitter
+SM-Facebook
+SM-Youtube
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+Help
+Accessibility
+Careers
+NLM
+NIH
+HHS
+USA.gov

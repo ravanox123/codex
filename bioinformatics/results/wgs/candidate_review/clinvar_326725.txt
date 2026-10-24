@@ -1,0 +1,639 @@
+VCV000326725.17 - ClinVar - NCBI
+An official website of the United States government
+Here's how you know
+Here's how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official
+                            government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you've safely
+                                connected to the .gov website. Share sensitive
+                                information only on official, secure websites.
+Log in
+Dashboard
+Publications
+Account settings
+Log out
+Primary site navigation
+Logged in as:
+Dashboard
+Publications
+Account settings
+Log in
+ClinVar Home
+About
+About ClinVar
+Statistics
+List of submitters
+Map of submitters
+Website overview
+FAQ
+Understand the Data
+Data authorities
+Preferred names
+Classification
+Review status and assertion criteria
+HGVS expressions
+Data validation
+Accessions and identifiers
+Release cycle
+Access the Data
+Web access
+How to search ClinVar
+VCV (variant) pages
+RCV (variant-condition) pages
+Downloads
+Programmatic access
+Linking to ClinVar
+Submit Data
+Submission overview
+Get started
+Submission instructions
+Expert panels and practice guidelines
+On this page
+Classification Summary
+Variant Details
+Genes
+Germline
+Conditions
+Submissions
+Somatic
+Conditions
+Submissions
+Text-mined Citations
+NM_015559.3(SETBP1):c.540+7422_540+7423insTCTT
+Cite
+Following
+Follow
+⚠
+Print
+Download
+Cite this record
+Close
+National Center for Biotechnology Information. ClinVar; [VCV000326725.17], https://www.ncbi.nlm.nih.gov/clinvar/variation/VCV000326725.17 (accessed Oct. 20, 2026).
+Copy
+Germline
+Classification
+Help
+criteria provided, multiple submitters, no conflicts.
+Learn more about how ClinVar calculates review status.
+Benign
+Benign (5)
+5 out of 5
+submissions contributed to this classification
+Help
+The aggregate germline classification for this variant, typically for a monogenic or Mendelian disorder as in
+the ACMG/AMP guidelines
+, or for response to a drug. This value is calculated by NCBI based on data from submitters.
+Read our rules for calculating the aggregate classification
+.
+5
+Somatic
+Clinical impact
+Help
+criteria provided, single submitter.
+Learn more about how ClinVar calculates review status.
+Tier III Unknown for Leukemia
+This classification is based on
+the single submission
+received
+Help
+The aggregate somatic clinical impact for this variant for one or more tumor types, using
+the AMP/ASCO/CAP terminology
+. This value is calculated by NCBI based on data from submitters.
+Read our rules for calculating the aggregate classification
+.
+1
+Somatic
+No data submitted for oncogenicity
+Variant Details
+Identifiers
+NM_015559.3(SETBP1):c.540+7422_540+7423insTCTT
+Variation ID: 326725
+Accession: VCV000326725.17
+Type and length
+Insertion,
+4 bp
+Location
+Cytogenetic:
+18q12.3
+18:
+            
+              44876705-44876706
+(GRCh38)
+[
+NCBI
+UCSC
+]
+18:
+            
+              42456670-42456671
+(GRCh37)
+[
+NCBI
+UCSC
+]
+Timeline in ClinVar
+First in ClinVar
+Help
+The date this variant first appeared in ClinVar with each type of classification.
+Last submission
+Help
+The date of the most recent submission for each type of classification for this variant.
+Last evaluated
+Help
+The most recent date that a submitter evaluated this variant for each type of classification.
+Germline
+Dec 6, 2016
+Jan 24, 2026
+Jul 17, 2025
+Somatic - Clinical impact
+Jul 19, 2026
+Jul 19, 2026
+May 2, 2026
+HGVS
+Nucleotide
+Protein
+Molecular
+consequence
+NM_015559.3:c.540+7422_540+7423insTCTT
+MANE Select
+Help
+Transcripts from the Matched Annotation from the NCBI and EMBL-EBI (
+MANE
+) collaboration.
+intron variant
+NM_001130110.2:c.681_682insTCTT
+NP_001123582.1:p.Thr228fs
+frameshift
+NC_000018.10:g.44876705_44876706insTCTT
+NC_000018.9:g.42456670_42456671insTCTT
+NG_027527.2:g.201533_201534insTCTT
+LRG_1150:g.201533_201534insTCTT
+LRG_1150t1:c.540+7422_540+7423insTCTT
+...
+            more HGVS
+... less HGVS
+Protein change
+T228fs
+Other names
+-
+Canonical SPDI
+NC_000018.10:44876705::TCTT
+Global minor allele
+frequency (GMAF)
+Help
+The global minor allele frequency calculated by the 1000 Genomes Project. The minor allele at this location is indicated in parentheses and may be different from the allele represented by this VCV record.
+0.49381 (TCTT)
+Allele frequency
+Help
+The frequency of the allele represented by this VCV record.
+1000 Genomes Project 30x 0.49532
+The Genome Aggregation Database (gnomAD) 0.54222
+1000 Genomes Project 0.49381
+NHLBI Exome Sequencing Project (ESP) Exome Variant Server 0.53440
+The Genome Aggregation Database (gnomAD) 0.53741
+Exome Aggregation Consortium (ExAC) 0.51458
+Links
+ClinGen: CA8945437
+dbSNP: rs3085861
+VarSome
+Genes
+Gene
+OMIM
+ClinGen Gene Dosage Sensitivity Curation
+Variation Viewer
+Help
+Links to Variation Viewer, a genome browser to view variation data from NCBI databases.
+Related variants
+HI score
+Help
+The haploinsufficiency score for the gene, curated by ClinGen’s Dosage Sensitivity Curation task team.
+TS score
+Help
+The triplosensitivity score for the gene, curated by ClinGen’s Dosage Sensitivity Curation task team.
+Within gene
+Help
+The number of variants in ClinVar that are contained within this gene, with a link to view the list of variants.
+All
+Help
+The number of variants in ClinVar for this gene, including smaller variants within the gene and larger CNVs that overlap or fully contain the gene.
+SETBP1
+Sufficient evidence for dosage pathogenicity
+No evidence available
+GRCh38
+GRCh37
+1943
+1996
+Conditions - Germline
+Condition
+Help
+The condition for this variant-condition (RCV) record in ClinVar.
+Classification
+Help
+The aggregate germline classification for this variant-condition (RCV) record in ClinVar. The number of submissions that contribute to this aggregate classification is shown in parentheses.
+(# of submissions)
+Review status
+Help
+The aggregate review status for this variant-condition (RCV) record in ClinVar. This value is calculated by NCBI based on data from submitters.
+Read our rules for calculating the review status
+.
+Last evaluated
+Help
+The most recent date that a submitter evaluated this variant for the condition.
+Variation/condition record
+Help
+The RCV accession number, with most recent version number, for the variant-condition record, with a link to the RCV web page.
+Schinzel-Giedion syndrome
+Benign (1)
+criteria provided, single submitter
+May 28, 2019
+RCV000326176.7
+not specified
+Benign (2)
+criteria provided, multiple submitters, no conflicts
+Jul 15, 2024
+RCV000454687.6
+not provided
+Benign (2)
+criteria provided, multiple submitters, no conflicts
+Jul 17, 2025
+RCV001660675.5
+Submissions - Germline
+Classification
+Help
+The submitted germline classification for each SCV record.
+(Last evaluated)
+Review status
+Help
+Stars represent the review status, or the level of review supporting the submitted (SCV) record. This value is calculated by NCBI based on data from the submitter.
+Read our rules for calculating the review status
+. This column also includes a link to the submitter’s assertion criteria if provided, and the collection method.
+(Assertion criteria)
+Condition
+Help
+The condition for the classification, provided by the submitter for this submitted (SCV) record. This column also includes the affected status and allele origin of individuals observed with this variant.
+Submitter
+Help
+The submitting organization for this submitted (SCV) record. This column also includes the SCV accession and version number, the date this SCV first appeared in ClinVar, and the date that this SCV was last updated in ClinVar.
+Expand all rows
+Collapse all rows
+Help
+This column includes more information supporting the classification, including citations, the comment on classification, and detailed evidence provided as observations of the variant by the submitter.
+Benign
+(Mar 29, 2016)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+LMM Criteria
+)
+not specified
+Laboratory for Molecular Medicine, Mass General Brigham Personalized Medicine
+Accession: SCV000540320.1
+First in ClinVar: Apr 09, 2017
+Last updated: Apr 09, 2017
+Comment
+:
+show
+Variant identified in a genome or exome case(s) and assessed due to predicted null impact of the variant or pathogenic assertions in the literature or databases. Disclaimer: This variant has not undergone full assessment. The following are preliminary notes: Frequency in ESP (all): 3542/6628=53.43%
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+more
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Method
+:
+Genome/Exome Filtration
+Benign
+(May 28, 2019)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+Mendelics Assertion Criteria 2017
+)
+Schinzel-Giedion syndrome
+Mendelics
+Accession: SCV001140880.1
+First in ClinVar: Jan 09, 2020
+Last updated: Jan 09, 2020
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+unknown
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+unknown
+Affected status
+:
+unknown
+Benign
+(Nov 19, 2019)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+GeneDx Variant Classification Process June 2021
+)
+not provided
+GeneDx
+Accession: SCV001873504.1
+First in ClinVar: Sep 19, 2021
+Last updated: Sep 19, 2021
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Benign
+(Jul 15, 2024)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+not specified
+Unidad de Genómica Garrahan, Hospital de Pediatría Garrahan
+Accession: SCV005087508.2
+First in ClinVar: Jul 23, 2024
+Last updated: Apr 13, 2025
+Comment
+:
+show
+This variant is classified as Benign based on local population frequency. This variant was detected in 63% of patients studied in a panel designed for Epileptic and Developmental Encephalopathy and Progressive Myoclonus Epilepsy. Number of patients: 59. Only high quality variants are reported.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+no
+more
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+no
+Number of individuals with the variant
+:
+59
+Age
+:
+<18 years
+Sex
+:
+mixed
+Benign
+(Jul 17, 2025)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ARUP Molecular Germline Variant Investigation Process 2024
+)
+not provided
+ARUP Laboratories, Molecular Genetics and Genomics, ARUP Laboratories
+Accession: SCV004564043.3
+First in ClinVar: Feb 20, 2024
+Last updated: Jan 24, 2026
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Comment:
+Variant identified in a genome or exome case(s) and assessed due to predicted null impact of the variant or pathogenic assertions in the literature or databases. Disclaimer: This variant has not undergone full assessment. The following are preliminary notes: Frequency in ESP (all): 3542/6628=53.43%
+OK
+Comment:
+This variant is classified as Benign based on local population frequency. This variant was detected in 63% of patients studied in a panel designed for Epileptic and Developmental Encephalopathy and Progressive Myoclonus Epilepsy. Number of patients: 59. Only high quality variants are reported.
+OK
+Comment:
+Classification rationale per AMP/ASCO/CAP 2017 Guidelines (PMID:27993330): Tier III - Variant of Unknown Clinical Significance. Variant: NM_001130110.2:c.681_682insTCTT (p.Thr228Leufs*?) in SETBP1, a 4-nucleotide insertion causing a frameshift predicted to result in a truncated or nonsense-mediated-decay-targeted transcript (HIGH predicted impact, loss-of-function-type alteration). Biological context: SETBP1 is a recognized oncogene in myeloid neoplasms including chronic myelomonocytic leukemia (CMML), atypical CML, and juvenile myelomonocytic leukemia. However, the well-characterized oncogenic SETBP1 alterations are recurrent missense substitutions clustered in the SKI-homologous degron domain (codons 868-871; e.g., p.Asp868Asn, p.Gly870Ser, p.Ile871Thr) that act through a gain-of-function mechanism by impairing SETBP1 degradation and stabilizing the protein. The present variant lies N-terminal at codon 228, far outside this canonical hotspot, and a frameshift/loss-of-function event in this region has not been established as an oncogenic driver. It therefore does not match the known gain-of-function mutational pattern that supports a diagnostic or prognostic role in myeloid neoplasia. Observation: detected by whole-genome sequencing (WGS) in heterozygous state in the tumor sample of patient AL050 diagnosed with CMML. Population data: variant is absent from gnomAD population databases, consistent with a rare/somatic event but not by itself sufficient to establish oncogenicity. Functional evidence: no published functional studies are available for this specific variant; the biological consequence of an N-terminal SETBP1 truncation is unknown. Literature/database evidence: this variant is not reported as a recurrent somatic event in COSMIC, cBioPortal, or peer-reviewed CMML case series at the time of submission. Evidence level: insufficient evidence for Tier I or Tier II classification - no FDA-approved or guideline-endorsed clinical action is tied to N-terminal SETBP1 truncations, and no consensus literature supports a diagnostic, prognostic, or therapeutic role for this specific variant. Classification of Tier III - Unknown is assigned because, although the variant lies in a gene of clear relevance to CMML, the position and predicted effect do not match the established gain-of-function oncogenic pattern, and current evidence is insufficient to determine its clinical impact.
+OK
+Citations for germline classification of this variant
+Help
+There are no citations for germline classification of this variant in ClinVar. If you know of citations for this variation, please consider submitting that information to ClinVar.
+Conditions - Somatic
+Tumor type
+Help
+The tumor type for this variant-condition (RCV) record in ClinVar.
+Clinical impact (# of submissions)
+Help
+The aggregate somatic clinical impact for this variant-condition (RCV) record in ClinVar. The number of submissions that contribute to the aggregate somatic clinical impact is shown in parentheses. The corresponding review status for the RCV record is indicated by stars.
+Read our rules for calculating the review status
+.
+Oncogenicity
+Help
+The aggregate oncogenicity classification for this variant-condition (RCV) record in ClinVar. The number of submissions that contribute to the aggregate oncogenicity classification is shown in parentheses. The corresponding review status for the RCV record is indicated by stars.
+Read our rules for calculating the review status
+.
+Last evaluated
+Help
+The most recent date that a submitter evaluated this variant for the tumor type.
+Variation/condition record
+Help
+The most recent date that a submitter evaluated this variant for the tumor type.
+Leukemia
+Tier III Unknown
+                                     
+                                     
+                                    
+                                        (1)
+May 2, 2026
+RCV006713407.1
+Submissions - Somatic
+Clinical impact
+Help
+The submitted somatic clinical impact for each SCV record.
+(Last evaluated)
+Review Status
+Help
+Stars represent the review status, or the level of review supporting the submitted (SCV) record. This value is calculated by NCBI based on data from the submitter.
+Read our rules for calculating the review status
+. This column also includes a link to the submitter’s assertion criteria if provided, and the collection method.
+(Assertion criteria)
+Tumor type
+Help
+The tumor type for the classification, provided by the submitter for this submitted (SCV) record. This column also includes the affected status and allele origin of individuals observed with this variant.
+Submitter
+Help
+The submitting organization for this submitted (SCV) record. This column also includes the SCV accession and version number, the date this SCV first appeared in ClinVar, and the date that this SCV was last updated in ClinVar.
+Expand all rows
+Help
+This column includes more information supporting the somatic clinical impact, including citations, the comment on classification, and detailed evidence provided as observations of the variant by the submitter.
+Tier III Unknown
+(May 02, 2026)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(AMP/ASCO/CAP Guidelines, 2017)
+Leukemia
+Clinical Genetics Laboratory, Hai Phong University of Medicine and Pharmacy
+Accession: SCV007615620.1
+First In ClinVar: Jul 19, 2026
+Last updated: Jul 19, 2026
+Comment
+:
+show
+Classification rationale per AMP/ASCO/CAP 2017 Guidelines (PMID:27993330): Tier III - Variant of Unknown Clinical Significance. Variant: NM_001130110.2:c.681_682insTCTT (p.Thr228Leufs*?) in SETBP1, a 4-nucleotide insertion causing a frameshift predicted to result in a truncated or nonsense-mediated-decay-targeted transcript (HIGH predicted impact, loss-of-function-type alteration). Biological context: SETBP1 is a recognized oncogene in myeloid neoplasms including chronic myelomonocytic leukemia (CMML), atypical CML, and juvenile myelomonocytic leukemia. However, the well-characterized oncogenic SETBP1 alterations are recurrent missense substitutions clustered in the SKI-homologous degron domain (codons 868-871; e.g., p.Asp868Asn, p.Gly870Ser, p.Ile871Thr) that act through a gain-of-function mechanism by impairing SETBP1 degradation and stabilizing the protein. The present variant lies N-terminal at codon 228, far outside this canonical hotspot, and a frameshift/loss-of-function event in this region has not been established as an oncogenic driver. It therefore does not match the known gain-of-function mutational pattern that supports a diagnostic or prognostic role in myeloid neoplasia. Observation: detected by whole-genome sequencing (WGS) in heterozygous state in the tumor sample of patient AL050 diagnosed with CMML. Population data: variant is absent from gnomAD population databases, consistent with a rare/somatic event but not by itself sufficient to establish oncogenicity. Functional evidence: no published functional studies are available for this specific variant; the biological consequence of an N-terminal SETBP1 truncation is unknown. Literature/database evidence: this variant is not reported as a recurrent somatic event in COSMIC, cBioPortal, or peer-reviewed CMML case series at the time of submission. Evidence level: insufficient evidence for Tier I or Tier II classification - no FDA-approved or guideline-endorsed clinical action is tied to N-terminal SETBP1 truncations, and no consensus literature supports a diagnostic, prognostic, or therapeutic role for this specific variant. Classification of Tier III - Unknown is assigned because, although the variant lies in a gene of clear relevance to CMML, the position and predicted effect do not match the established gain-of-function oncogenic pattern, and current evidence is insufficient to determine its clinical impact.
+(less)
+Observation: 1
+Collection method
+:
+research
+Allele origin
+:
+somatic
+Affected status
+:
+yes
+Observation 1
+Collection method
+:
+research
+Allele origin
+:
+somatic
+Affected status
+:
+yes
+Comment:
+Variant identified in a genome or exome case(s) and assessed due to predicted null impact of the variant or pathogenic assertions in the literature or databases. Disclaimer: This variant has not undergone full assessment. The following are preliminary notes: Frequency in ESP (all): 3542/6628=53.43%
+OK
+Comment:
+This variant is classified as Benign based on local population frequency. This variant was detected in 63% of patients studied in a panel designed for Epileptic and Developmental Encephalopathy and Progressive Myoclonus Epilepsy. Number of patients: 59. Only high quality variants are reported.
+OK
+Comment:
+Classification rationale per AMP/ASCO/CAP 2017 Guidelines (PMID:27993330): Tier III - Variant of Unknown Clinical Significance. Variant: NM_001130110.2:c.681_682insTCTT (p.Thr228Leufs*?) in SETBP1, a 4-nucleotide insertion causing a frameshift predicted to result in a truncated or nonsense-mediated-decay-targeted transcript (HIGH predicted impact, loss-of-function-type alteration). Biological context: SETBP1 is a recognized oncogene in myeloid neoplasms including chronic myelomonocytic leukemia (CMML), atypical CML, and juvenile myelomonocytic leukemia. However, the well-characterized oncogenic SETBP1 alterations are recurrent missense substitutions clustered in the SKI-homologous degron domain (codons 868-871; e.g., p.Asp868Asn, p.Gly870Ser, p.Ile871Thr) that act through a gain-of-function mechanism by impairing SETBP1 degradation and stabilizing the protein. The present variant lies N-terminal at codon 228, far outside this canonical hotspot, and a frameshift/loss-of-function event in this region has not been established as an oncogenic driver. It therefore does not match the known gain-of-function mutational pattern that supports a diagnostic or prognostic role in myeloid neoplasia. Observation: detected by whole-genome sequencing (WGS) in heterozygous state in the tumor sample of patient AL050 diagnosed with CMML. Population data: variant is absent from gnomAD population databases, consistent with a rare/somatic event but not by itself sufficient to establish oncogenicity. Functional evidence: no published functional studies are available for this specific variant; the biological consequence of an N-terminal SETBP1 truncation is unknown. Literature/database evidence: this variant is not reported as a recurrent somatic event in COSMIC, cBioPortal, or peer-reviewed CMML case series at the time of submission. Evidence level: insufficient evidence for Tier I or Tier II classification - no FDA-approved or guideline-endorsed clinical action is tied to N-terminal SETBP1 truncations, and no consensus literature supports a diagnostic, prognostic, or therapeutic role for this specific variant. Classification of Tier III - Unknown is assigned because, although the variant lies in a gene of clear relevance to CMML, the position and predicted effect do not match the established gain-of-function oncogenic pattern, and current evidence is insufficient to determine its clinical impact.
+OK
+Citations for somatic classification of this variant
+Help
+There are no citations for somatic classification of this variant in ClinVar. If you know of citations for this variation, please consider submitting that information to ClinVar.
+Text-mined citations for rs3085861
+...
+Help
+These citations are identified by LitVar using
+    the rs number, so they may include citations for more than one variant
+    at this location. Please review the LitVar results carefully for your
+    variant of interest.
+Record last updated Jul 27, 2026
+This date represents the last time this VCV record was updated. The 
+                        update may be due to an update to one of the included submitted 
+                        records (SCVs), or due to an update that ClinVar made to the variant 
+                        such as adding HGVS expressions or a rs number. So this date may be 
+                        different from the date of the “most recent submission” reported at the 
+                        top of this page.
+Help
+Modify your search
+Search (all fields optional)
+Clear all
+Variant
+Gene
+Genomic Location
+GRCh38
+GRCh37
+More search options
+Disease
+Other Terms
+Advanced Search
+Clear all
+Search
+Follow NCBI
+Twitter
+Facebook
+LinkedIn
+GitHub
+Connect with NLM
+Twitter
+SM-Facebook
+SM-Youtube
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+Help
+Accessibility
+Careers
+NLM
+NIH
+HHS
+USA.gov

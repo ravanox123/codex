@@ -1,0 +1,46 @@
+00:00:00 SnpEff version SnpEff 5.4c (build 2026-02-23 07:25), by Pablo Cingolani
+00:00:00 Command: 'download'
+00:00:00 Reading configuration file 'snpEff.config'. Genome: 'GRCh38.115'
+00:00:00 Looking for config file: '/home/ravanox/codex/bioinformatics/snpEff.config'
+00:00:00 Reading config file: /home/ravanox/codex/bioinformatics/tools/variants-env/share/snpeff-5.4.0c-0/snpEff.config
+00:00:00 done
+00:00:00 Downloading database for 'GRCh38.115'
+00:00:00 Downloading from 'https://snpeff-public.s3.amazonaws.com/databases/v5_4/snpEff_v5_4_GRCh38.115.zip' to local file '/tmp/snpEff_v5_4_GRCh38.115.zip'
+00:00:00 Connecting to https://snpeff-public.s3.amazonaws.com/databases/v5_4/snpEff_v5_4_GRCh38.115.zip
+00:00:01 Connecting to https://snpeff-public.s3.amazonaws.com/databases/v5_4/snpEff_v5_4_GRCh38.115.zip, using proxy: false
+00:00:02 Local file name: '/tmp/snpEff_v5_4_GRCh38.115.zip'
+.......................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................00:11:43 
+00:11:43 Download finished. Total 807209320 bytes.
+00:11:43 Extracting file 'data/GRCh38.115/pwms.bin'
+00:11:43 Creating local directory: '/home/ravanox/codex/bioinformatics/data/snpeff/GRCh38.115'
+00:11:43 Extracting file 'data/GRCh38.115/sequence.10.bin'
+00:11:43 Extracting file 'data/GRCh38.115/sequence.11.bin'
+00:11:43 Extracting file 'data/GRCh38.115/sequence.12.bin'
+00:11:43 Extracting file 'data/GRCh38.115/sequence.13.bin'
+00:11:43 Extracting file 'data/GRCh38.115/sequence.14.bin'
+00:11:43 Extracting file 'data/GRCh38.115/sequence.15.bin'
+00:11:43 Extracting file 'data/GRCh38.115/sequence.16.bin'
+00:11:43 Extracting file 'data/GRCh38.115/sequence.17.bin'
+00:11:43 Extracting file 'data/GRCh38.115/sequence.18.bin'
+00:11:43 Extracting file 'data/GRCh38.115/sequence.19.bin'
+00:11:43 Extracting file 'data/GRCh38.115/sequence.1.bin'
+00:11:43 Extracting file 'data/GRCh38.115/sequence.20.bin'
+00:11:44 Extracting file 'data/GRCh38.115/sequence.21.bin'
+00:11:44 Extracting file 'data/GRCh38.115/sequence.22.bin'
+00:11:44 Extracting file 'data/GRCh38.115/sequence.2.bin'
+00:11:44 Extracting file 'data/GRCh38.115/sequence.3.bin'
+00:11:44 Extracting file 'data/GRCh38.115/sequence.4.bin'
+00:11:44 Extracting file 'data/GRCh38.115/sequence.5.bin'
+00:11:44 Extracting file 'data/GRCh38.115/sequence.6.bin'
+00:11:44 Extracting file 'data/GRCh38.115/sequence.7.bin'
+00:11:44 Extracting file 'data/GRCh38.115/sequence.8.bin'
+00:11:44 Extracting file 'data/GRCh38.115/sequence.9.bin'
+00:11:44 Extracting file 'data/GRCh38.115/sequence.bin'
+00:11:44 Extracting file 'data/GRCh38.115/sequence.X.bin'
+00:11:44 Extracting file 'data/GRCh38.115/sequence.Y.bin'
+00:11:44 Extracting file 'data/GRCh38.115/snpEffectPredictor.bin'
+00:11:46 Extracting file 'data/GRCh38.115/cytoBand.txt.gz'
+00:11:46 Unzip: OK
+00:11:46 Deleted local file '/tmp/snpEff_v5_4_GRCh38.115.zip'
+00:11:46 Done
+00:11:46 Done.

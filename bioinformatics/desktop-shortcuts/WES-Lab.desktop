@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=WES Lab
+Comment=Local WES variant research, autism gene review, graphs and coverage
+Exec=/home/ravanox/codex/bioinformatics/scripts/start_wes_lab.sh
+Path=/home/ravanox/codex/bioinformatics
+Icon=/home/ravanox/codex/bioinformatics/desktop-shortcuts/icons/WES-Lab.svg
+Terminal=false
+Categories=Science;Biology;

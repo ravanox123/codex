@@ -1,0 +1,340 @@
+VCV002672423.22 - ClinVar - NCBI
+An official website of the United States government
+Here's how you know
+Here's how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official
+                            government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you've safely
+                                connected to the .gov website. Share sensitive
+                                information only on official, secure websites.
+Log in
+Dashboard
+Publications
+Account settings
+Log out
+Primary site navigation
+Logged in as:
+Dashboard
+Publications
+Account settings
+Log in
+ClinVar Home
+About
+About ClinVar
+Statistics
+List of submitters
+Map of submitters
+Website overview
+FAQ
+Understand the Data
+Data authorities
+Preferred names
+Classification
+Review status and assertion criteria
+HGVS expressions
+Data validation
+Accessions and identifiers
+Release cycle
+Access the Data
+Web access
+How to search ClinVar
+VCV (variant) pages
+RCV (variant-condition) pages
+Downloads
+Programmatic access
+Linking to ClinVar
+Submit Data
+Submission overview
+Get started
+Submission instructions
+Expert panels and practice guidelines
+On this page
+Classification Summary
+Variant Details
+Genes
+Germline
+Conditions
+Submissions
+Text-mined Citations
+NC_000010.11:g.133568329dup
+Cite
+Following
+Follow
+⚠
+Print
+Download
+Cite this record
+Close
+National Center for Biotechnology Information. ClinVar; [VCV002672423.22], https://www.ncbi.nlm.nih.gov/clinvar/variation/VCV002672423.22 (accessed Oct. 20, 2026).
+Copy
+Germline
+Classification
+Help
+criteria provided, single submitter.
+Learn more about how ClinVar calculates review status.
+Likely benign
+Likely benign (1)
+This classification is based on
+the single submission
+received
+Help
+The aggregate germline classification for this variant, typically for a monogenic or Mendelian disorder as in
+the ACMG/AMP guidelines
+, or for response to a drug. This value is calculated by NCBI based on data from submitters.
+Read our rules for calculating the aggregate classification
+.
+1
+Somatic
+No data submitted for somatic clinical impact
+Somatic
+No data submitted for oncogenicity
+Variant Details
+Identifiers
+NC_000010.11:g.133568329dup
+Variation ID: 2672423
+Accession: VCV002672423.22
+Type and length
+Duplication,
+1 bp
+Location
+Cytogenetic:
+10q26.3
+10:
+            
+              133568326-133568327
+(GRCh38)
+[
+NCBI
+UCSC
+]
+10:
+            
+              135381830-135381831
+(GRCh37)
+[
+NCBI
+UCSC
+]
+Timeline in ClinVar
+First in ClinVar
+Help
+The date this variant first appeared in ClinVar with each type of classification.
+Last submission
+Help
+The date of the most recent submission for each type of classification for this variant.
+Last evaluated
+Help
+The most recent date that a submitter evaluated this variant for each type of classification.
+Germline
+Dec 25, 2023
+Jul 27, 2026
+Nov 1, 2023
+HGVS
+Nucleotide
+Protein
+Molecular
+consequence
+NC_000010.11:g.133568329dup
+NC_000010.10:g.135381833dup
+NG_052008.1:g.4949dup
+Protein change
+-
+Other names
+-
+Canonical SPDI
+NC_000010.11:133568326:CCC:CCCC
+Global minor allele
+frequency (GMAF)
+Help
+The global minor allele frequency calculated by the 1000 Genomes Project. The minor allele at this location is indicated in parentheses and may be different from the allele represented by this VCV record.
+0.00260 (CCCC)
+Allele frequency
+Help
+The frequency of the allele represented by this VCV record.
+-
+Links
+ClinGen: CA5768482
+dbSNP: rs550676478
+VarSome
+Genes
+Gene
+OMIM
+ClinGen Gene Dosage Sensitivity Curation
+Variation Viewer
+Help
+Links to Variation Viewer, a genome browser to view variation data from NCBI databases.
+Related variants
+HI score
+Help
+The haploinsufficiency score for the gene, curated by ClinGen’s Dosage Sensitivity Curation task team.
+TS score
+Help
+The triplosensitivity score for the gene, curated by ClinGen’s Dosage Sensitivity Curation task team.
+Within gene
+Help
+The number of variants in ClinVar that are contained within this gene, with a link to view the list of variants.
+All
+Help
+The number of variants in ClinVar for this gene, including smaller variants within the gene and larger CNVs that overlap or fully contain the gene.
+SYCE1
+-
+-
+GRCh38
+GRCh37
+91
+265
+Conditions - Germline
+Condition
+Help
+The condition for this variant-condition (RCV) record in ClinVar.
+Classification
+Help
+The aggregate germline classification for this variant-condition (RCV) record in ClinVar. The number of submissions that contribute to this aggregate classification is shown in parentheses.
+(# of submissions)
+Review status
+Help
+The aggregate review status for this variant-condition (RCV) record in ClinVar. This value is calculated by NCBI based on data from submitters.
+Read our rules for calculating the review status
+.
+Last evaluated
+Help
+The most recent date that a submitter evaluated this variant for the condition.
+Variation/condition record
+Help
+The RCV accession number, with most recent version number, for the variant-condition record, with a link to the RCV web page.
+not provided
+Likely benign (1)
+criteria provided, single submitter
+Nov 1, 2023
+RCV003456730.22
+Submissions - Germline
+Classification
+Help
+The submitted germline classification for each SCV record.
+(Last evaluated)
+Review status
+Help
+Stars represent the review status, or the level of review supporting the submitted (SCV) record. This value is calculated by NCBI based on data from the submitter.
+Read our rules for calculating the review status
+. This column also includes a link to the submitter’s assertion criteria if provided, and the collection method.
+(Assertion criteria)
+Condition
+Help
+The condition for the classification, provided by the submitter for this submitted (SCV) record. This column also includes the affected status and allele origin of individuals observed with this variant.
+Submitter
+Help
+The submitting organization for this submitted (SCV) record. This column also includes the SCV accession and version number, the date this SCV first appeared in ClinVar, and the date that this SCV was last updated in ClinVar.
+Expand all rows
+Collapse all rows
+Help
+This column includes more information supporting the classification, including citations, the comment on classification, and detailed evidence provided as observations of the variant by the submitter.
+Likely benign
+(Nov 01, 2023)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+CeGaT Center For Human Genetics Tuebingen Variant Classification Criteria Version 2
+)
+not provided
+CeGaT Center for Human Genetics Tuebingen
+Accession: SCV004184089.22
+First in ClinVar: Dec 24, 2023
+Last updated: Jul 27, 2026
+Comment
+:
+show
+SYCE1: BS2
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+more
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Number of individuals with the variant
+:
+1
+Comment:
+SYCE1: BS2
+OK
+Citations for germline classification of this variant
+Help
+There are no citations for germline classification of this variant in ClinVar. If you know of citations for this variation, please consider submitting that information to ClinVar.
+Text-mined citations for rs550676478
+...
+Help
+These citations are identified by LitVar using
+    the rs number, so they may include citations for more than one variant
+    at this location. Please review the LitVar results carefully for your
+    variant of interest.
+Record last updated Jul 27, 2026
+This date represents the last time this VCV record was updated. The 
+                        update may be due to an update to one of the included submitted 
+                        records (SCVs), or due to an update that ClinVar made to the variant 
+                        such as adding HGVS expressions or a rs number. So this date may be 
+                        different from the date of the “most recent submission” reported at the 
+                        top of this page.
+Help
+Modify your search
+Search (all fields optional)
+Clear all
+Variant
+Gene
+Genomic Location
+GRCh38
+GRCh37
+More search options
+Disease
+Other Terms
+Advanced Search
+Clear all
+Search
+Follow NCBI
+Twitter
+Facebook
+LinkedIn
+GitHub
+Connect with NLM
+Twitter
+SM-Facebook
+SM-Youtube
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+Help
+Accessibility
+Careers
+NLM
+NIH
+HHS
+USA.gov

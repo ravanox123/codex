@@ -1,0 +1,10 @@
+Approximate WES targets: 352082 merged exon intervals; 267,585,545 bp including 100bp flanks. These are annotation-derived targets, not the capture-kit BED.
+2026-10-19T10:35:20+04:00 Waiting for duplicate marking and compatible reference resources
+2026-10-19T10:35:20+04:00 Preparing WES exon targets (capture-kit BED unavailable)
+2026-10-19T10:35:34+04:00 Calling WES exon-region SNPs and small indels (HaplotypeCaller)
+2026-10-19T11:02:43+04:00 Normalizing and filtering variant calls; retaining failed calls with labels
+Lines   total/split/joined/realigned/mismatch_removed/dup_removed/skipped:	96505/669/0/345/0/0/0
+2026-10-19T11:02:58+04:00 Annotating ClinVar evidence, 1000 Genomes frequencies and Ensembl gene effects
+[W::bcf_hdr_check_sanity] SB should be declared as Number=4
+[W::bcf_hdr_check_sanity] SB should be declared as Type=Integer
+Incorrect number of values (1) for the AF tag at CM000663.2:31670567

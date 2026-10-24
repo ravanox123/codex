@@ -1,0 +1,29 @@
+WARNING: Unknown module: jide.common specified to --add-exports
+WARNING: Unknown module: jide.common specified to --add-exports
+WARNING: Unknown module: jide.common specified to --add-exports
+WARNING: Unknown module: jide.common specified to --add-exports
+WARNING: Unknown module: jide.common specified to --add-exports
+WARNING: package com.sun.java.swing.plaf.windows not in java.desktop
+WARNING: package sun.awt.windows not in java.desktop
+WARNING: Unknown module: jide.common specified to --add-exports
+WARNING: Unknown module: jide.common specified to --add-exports
+INFO [Oct 20,2026 11:36] [Main] Loading: /home/ravanox/codex/bioinformatics/results/wgs/igv_review/571566.xml
+INFO [Oct 20,2026 11:36] [Main] Startup  IGV Version 2.19.8 06/05/2026 12:24 PM
+INFO [Oct 20,2026 11:36] [Main] Java 21.0.4 (build 21.0.4+7-LTS) 2024-07-16
+INFO [Oct 20,2026 11:36] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Oct 20,2026 11:36] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-21.0.4+7   
+INFO [Oct 20,2026 11:36] [Main] OS: Linux 6.19.10-300.fc44.x86_64 amd64
+INFO [Oct 20,2026 11:36] [Main] IGV Directory: /home/ravanox/codex/bioinformatics/results/wgs/igv_review/profile/igv
+INFO [Oct 20,2026 11:36] [OAuthUtils] Loading Google oAuth properties
+INFO [Oct 20,2026 11:36] [CommandListener] Listening on port 46285
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+INFO [Oct 20,2026 11:37] [GenomeManager] Loading genome: /home/ravanox/codex/bioinformatics/data/reference/GRCh38.fna
+INFO [Oct 20,2026 11:37] [TrackLoader] Loading resource:  /home/ravanox/codex/bioinformatics/results/wgs/571566.recal.bam
+INFO [Oct 20,2026 11:37] [TrackLoader] Loading resource:  /home/ravanox/codex/bioinformatics/results/wgs/quality_review/571566.quality_accepted.vcf.gz
+INFO [Oct 20,2026 11:37] [TrackLoader] Loading resource:  /home/ravanox/codex/bioinformatics/results/wgs/quality_review/571566.needs_quality_review.vcf.gz
+INFO [Oct 20,2026 11:37] [TrackLoader] Loading resource:  /home/ravanox/codex/bioinformatics/results/wgs/igv_review/review_sites.bed
+INFO [Oct 20,2026 11:37] [CommandListener] goto CM000679.2:74863814-74864014
+INFO [Oct 20,2026 11:37] [CommandListener] snapshotDirectory /home/ravanox/codex/bioinformatics/results/wgs/igv_review
+INFO [Oct 20,2026 11:37] [CommandListener] snapshot FDXR-read-review.png

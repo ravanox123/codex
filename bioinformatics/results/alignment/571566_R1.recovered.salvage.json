@@ -1,0 +1,7 @@
+{
+  "source": "data/fastq/571566_R1.fq.gz",
+  "output": "results/alignment/571566_R1.recovered.fq",
+  "complete_records": 7022975,
+  "stop_reason": "Compressed file ended before the end-of-stream marker was reached",
+  "scope": "Partial input only; missing reads are not recovered."
+}

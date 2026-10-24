@@ -1,0 +1,115 @@
+{
+  "built_utc": "2026-10-20T04:29:38.717309+00:00",
+  "files": [
+    {
+      "path": "results/wgs/571566.sfari_priority_review.tsv",
+      "sha256": "c68396228f2bc44336b18aa89edb33a4234be30cdea9a67025bef3553ebc7e96",
+      "mtime_utc": "2026-10-20T04:22:04.606159+00:00"
+    },
+    {
+      "path": "data/reference/mane.features.tsv",
+      "sha256": "8d61c035f37d240180b923bb2ad52e1e09f9d844726548112b56c8735b756cb7",
+      "mtime_utc": "2026-10-16T08:04:20.953072+00:00"
+    },
+    {
+      "path": "results/wgs/candidate_review/details.json",
+      "sha256": "425520a64e3a4d8495e41bc7602dce9b09e1b2a15d28ac457885e0e2ecc338b4",
+      "mtime_utc": "2026-10-20T04:23:26.303357+00:00"
+    },
+    {
+      "path": "results/wgs/candidate_review/read_support.json",
+      "sha256": "913a6b87eba050bf6cc2c0e6486304ecd5b9cf7af85ddcd1d9904b9dbe915ac6",
+      "mtime_utc": "2026-10-20T04:26:48.962085+00:00"
+    },
+    {
+      "path": "results/wgs/candidate_review/clinvar_1091039.html",
+      "sha256": "f3ccb31f2ec0a71ae00931d7cc48bb89f9229cdab66604d5a90a3204d4200584",
+      "mtime_utc": "2026-10-20T04:25:25.703415+00:00"
+    },
+    {
+      "path": "results/wgs/candidate_review/clinvar_1252227.html",
+      "sha256": "2e3d3db2305082b38276312193bbd84d3170a71ce4e96160db2d4593bc1a9643",
+      "mtime_utc": "2026-10-20T04:25:27.056448+00:00"
+    },
+    {
+      "path": "results/wgs/candidate_review/clinvar_13589.html",
+      "sha256": "c96d9af3bcfaba3ae97be735fe038b149746dbcf001268f9c8aa50ba352068ce",
+      "mtime_utc": "2026-10-20T04:25:16.979193+00:00"
+    },
+    {
+      "path": "results/wgs/candidate_review/clinvar_1385415.html",
+      "sha256": "ae0abb9fe27c4a23ac7f95501a484b8e62728ecd39d2ae37c8f5ef3c72029861",
+      "mtime_utc": "2026-10-20T04:25:18.324390+00:00"
+    },
+    {
+      "path": "results/wgs/candidate_review/clinvar_1601386.html",
+      "sha256": "343819bba5e4c8a1446351827b00bbbe758fdb97976ef2b202134ea91f077164",
+      "mtime_utc": "2026-10-20T04:25:14.120575+00:00"
+    },
+    {
+      "path": "results/wgs/candidate_review/clinvar_1686168.html",
+      "sha256": "53995b352d147a22b4654dde1c87d59b37a8976ae54544ef7500c1a9d9ab90d3",
+      "mtime_utc": "2026-10-20T04:25:32.293376+00:00"
+    },
+    {
+      "path": "results/wgs/candidate_review/clinvar_2672423.html",
+      "sha256": "7270e520e195c4e3f39061d16e614e470643d2186a5653536102692fcf209fa8",
+      "mtime_utc": "2026-10-20T04:25:24.422377+00:00"
+    },
+    {
+      "path": "results/wgs/candidate_review/clinvar_3060277.html",
+      "sha256": "4f28d58524f856262ec43f7c27ddc6d20bb6dffd0af8eb4b97c072d8e46f0669",
+      "mtime_utc": "2026-10-20T04:25:34.919494+00:00"
+    },
+    {
+      "path": "results/wgs/candidate_review/clinvar_326725.html",
+      "sha256": "0ce38215a15361b0f9098441d4b706bc27b572977186d8090a282f519076e3bf",
+      "mtime_utc": "2026-10-20T04:25:33.626358+00:00"
+    },
+    {
+      "path": "results/wgs/candidate_review/clinvar_365052.html",
+      "sha256": "01d62a734bd6a2bdd405d9670fb0bc4e8b4f01957f79308a78e3214a4521fc01",
+      "mtime_utc": "2026-10-20T04:25:19.589423+00:00"
+    },
+    {
+      "path": "results/wgs/candidate_review/clinvar_368925.html",
+      "sha256": "569d127ff15033c84480409dae9755d3eb6ab31626094a5f8412920d844f354a",
+      "mtime_utc": "2026-10-20T04:25:22.116299+00:00"
+    },
+    {
+      "path": "results/wgs/candidate_review/clinvar_440216.html",
+      "sha256": "242313882389b04da153bf0961356d43f7e4c815b030ca012e6ff3c4ae6ccdc7",
+      "mtime_utc": "2026-10-20T04:25:23.285966+00:00"
+    },
+    {
+      "path": "results/wgs/candidate_review/clinvar_477890.html",
+      "sha256": "72c8088b3add202894076485b62c6b40e97c40db81f16aeca7350d9d8e43b050",
+      "mtime_utc": "2026-10-20T04:25:20.713418+00:00"
+    },
+    {
+      "path": "results/wgs/candidate_review/clinvar_48427.html",
+      "sha256": "77e662b2f9a9655e26467366fae64759345a08f9c786c4d6afaa0b158816b8f9",
+      "mtime_utc": "2026-10-20T04:25:12.806036+00:00"
+    },
+    {
+      "path": "results/wgs/candidate_review/clinvar_51231.html",
+      "sha256": "d95a368b6d0ffc34fc721471ac3f18c568cd377e2ae5f1be94c6d2b44e53244a",
+      "mtime_utc": "2026-10-20T04:25:28.615320+00:00"
+    },
+    {
+      "path": "results/wgs/candidate_review/clinvar_808107.html",
+      "sha256": "2914bbb1857ee4a299a0ad923e5344e469dea430bfc5d277f1ea5566de58f7b2",
+      "mtime_utc": "2026-10-20T04:25:31.164379+00:00"
+    },
+    {
+      "path": "results/wgs/candidate_review/clinvar_809956.html",
+      "sha256": "f51f517d0a61153bc23f16d80378f98487fea3f88dc56a013dc65f70bca36234",
+      "mtime_utc": "2026-10-20T04:25:15.478306+00:00"
+    },
+    {
+      "path": "results/wgs/candidate_review/clinvar_983002.html",
+      "sha256": "7b6d36df3285dcf7486248b57abd1d2f58e4a988d4f8cf7ab36fc8799006cd6d",
+      "mtime_utc": "2026-10-20T04:25:29.997383+00:00"
+    }
+  ]
+}

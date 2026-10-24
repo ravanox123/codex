@@ -1,0 +1,138 @@
+{
+  "schema_version": 1,
+  "id": "b8021a58e316466ca8357458b7303eda",
+  "name": "571566",
+  "notes": "",
+  "created_at": "2026-10-20 10:25:21",
+  "updated_at": "2026-10-21 09:54:08",
+  "files": [
+    {
+      "id": "0e206ee52ae54109839a6def668a9692",
+      "name": "571566.annotated.vcf.gz",
+      "path": "/home/ravanox/codex/bioinformatics/results/wgs/571566.annotated.vcf.gz",
+      "storage": "linked",
+      "kind": "VCF / BCF",
+      "size": 24944447,
+      "mtime_ns": 1792470112777203835,
+      "added_at": "2026-10-20 10:25:22",
+      "source": "Source VCF for analysis",
+      "sha256": null,
+      "checksum_verified": false
+    },
+    {
+      "id": "99815b5ae0394f4aad91ba3eca604698",
+      "name": "571566.recal.bam",
+      "path": "/home/ravanox/codex/bioinformatics/results/wgs/571566.recal.bam",
+      "storage": "linked",
+      "kind": "BAM / CRAM",
+      "size": 4308322948,
+      "mtime_ns": 1792139687057100323,
+      "added_at": "2026-10-20 10:25:22",
+      "source": "Linked local file; not copied",
+      "sha256": null,
+      "checksum_verified": false
+    },
+    {
+      "id": "e89021aded49481eba21bb4d5a575122",
+      "name": "571566.annotated.vcf.gz.tbi",
+      "path": "/home/ravanox/codex/bioinformatics/results/wgs/571566.annotated.vcf.gz.tbi",
+      "storage": "linked",
+      "kind": "Variant index",
+      "size": 355849,
+      "mtime_ns": 1792470114050199028,
+      "added_at": "2026-10-20 10:25:22",
+      "source": "Linked local file; not copied",
+      "sha256": null,
+      "checksum_verified": false
+    },
+    {
+      "id": "611f7b4fe16d490aa074517b44585029",
+      "name": "REVIEW.md",
+      "path": "/home/ravanox/codex/bioinformatics/results/wgs/exome_review/REVIEW.md",
+      "storage": "linked",
+      "kind": "Report",
+      "size": 6965,
+      "mtime_ns": 1792475177225626896,
+      "added_at": "2026-10-20 10:25:22",
+      "source": "Linked local file; not copied",
+      "sha256": null,
+      "checksum_verified": false
+    },
+    {
+      "id": "b74d2bf19df741e88a99452c8ba08447",
+      "name": "CLINICAL_HANDOFF.md",
+      "path": "/home/ravanox/codex/bioinformatics/results/wgs/exome_review/CLINICAL_HANDOFF.md",
+      "storage": "linked",
+      "kind": "Report",
+      "size": 2099,
+      "mtime_ns": 1792475177227626893,
+      "added_at": "2026-10-20 10:25:22",
+      "source": "Linked local file; not copied",
+      "sha256": null,
+      "checksum_verified": false
+    },
+    {
+      "id": "875c28a77f2b4aecaa9edb6caceba789",
+      "name": "571566.recal.bai",
+      "path": "/home/ravanox/codex/bioinformatics/results/wgs/571566.recal.bai",
+      "storage": "linked",
+      "kind": "Alignment index",
+      "size": 6490944,
+      "mtime_ns": 1792139687057100323,
+      "added_at": "2026-10-20 10:27:00",
+      "source": "Linked local file; not copied",
+      "sha256": null,
+      "checksum_verified": false
+    },
+    {
+      "id": "99946443cf0e452fb14dae7fa411e2b3",
+      "name": "571566_clinical_handoff.zip",
+      "path": "/home/ravanox/codex/bioinformatics/results/wgs/571566_clinical_handoff.zip",
+      "storage": "linked",
+      "kind": "Other",
+      "size": 28326,
+      "mtime_ns": 1792482565795661216,
+      "added_at": "2026-10-20 11:49:25",
+      "source": "Linked local file; not copied",
+      "sha256": null,
+      "checksum_verified": false
+    },
+    {
+      "id": "2ea13f15800b42b3ac3aef1e2fff3aec",
+      "name": "START_HERE.html",
+      "path": "/home/ravanox/codex/bioinformatics/results/wgs/clinical_handoff/START_HERE.html",
+      "storage": "linked",
+      "kind": "Report",
+      "size": 9942,
+      "mtime_ns": 1792482565750962187,
+      "added_at": "2026-10-20 11:49:25",
+      "source": "Linked local file; not copied",
+      "sha256": null,
+      "checksum_verified": false
+    },
+    {
+      "id": "82c3a9f2da6148718abc1dd47a8a3f7f",
+      "name": "clinical_history_form.csv",
+      "path": "/home/ravanox/codex/bioinformatics/results/wgs/clinical_handoff/clinical_history_form.csv",
+      "storage": "linked",
+      "kind": "Other",
+      "size": 1388,
+      "mtime_ns": 1792482565755319769,
+      "added_at": "2026-10-20 11:49:26",
+      "source": "Linked local file; not copied",
+      "sha256": null,
+      "checksum_verified": false
+    }
+  ],
+  "analyses": [
+    {
+      "id": "3f52b825fca34471a4efc1fa5a540147",
+      "path": "/home/ravanox/codex/bioinformatics/results/wes_lab/571566",
+      "sample": "571566",
+      "build": "GRCh38",
+      "label": "571566",
+      "created_at": "2026-10-20 10:25:22"
+    }
+  ],
+  "active_analysis": "3f52b825fca34471a4efc1fa5a540147"
+}

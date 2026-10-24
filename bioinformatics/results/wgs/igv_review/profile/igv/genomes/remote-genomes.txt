@@ -1,0 +1,1 @@
+GRCh38.fna	/home/ravanox/codex/bioinformatics/data/reference/GRCh38.fna	/home/ravanox/codex/bioinformatics/data/reference/GRCh38.fna

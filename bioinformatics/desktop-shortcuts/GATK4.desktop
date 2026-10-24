@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=GATK4
+Comment=Open GATK4 in a configured terminal
+Exec=/usr/bin/ptyxis --new-window -- /usr/bin/env BIO_TOOL=gatk /usr/bin/bash --rcfile /home/ravanox/codex/bioinformatics/desktop-shortcuts/tool-shell.bash -i
+Icon=/home/ravanox/codex/bioinformatics/desktop-shortcuts/icons/GATK4.svg
+Terminal=false
+Categories=Science;

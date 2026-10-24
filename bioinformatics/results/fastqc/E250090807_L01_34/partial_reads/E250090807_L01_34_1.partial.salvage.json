@@ -1,0 +1,7 @@
+{
+  "source": "/run/media/ravanox/FEDORA-WS-L/E250090807_L01_34_1.fq.gz",
+  "output": "results/fastqc/E250090807_L01_34/partial_reads/E250090807_L01_34_1.partial.fq",
+  "complete_records": 49574818,
+  "stop_reason": "Compressed file ended before the end-of-stream marker was reached",
+  "scope": "Partial input only; missing reads are not recovered."
+}

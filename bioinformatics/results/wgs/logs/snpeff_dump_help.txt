@@ -1,0 +1,9 @@
+snpEff version SnpEff 5.4c (build 2026-02-23 07:25), by Pablo Cingolani
+Usage: snpEff dump [options] genome_version
+	-bed                    : Dump in BED format (implies -0)
+	-chr <string>           : Prepend 'string' to chromosome name (e.g. 'chr1' instead of '1')
+	-txt                    : Dump as a TXT table (implies -1)
+
+Generic options:
+	-0                      : Output zero-based coordinates. 
+	-1                      : Output one-based coordinates

@@ -1,0 +1,27 @@
+Writing to results/wgs/tmp/resource-sortjMb7c4
+[W::bcf_hdr_check_sanity] SB should be declared as Number=4
+[W::bcf_hdr_check_sanity] SB should be declared as Type=Integer
+[W::bcf_hdr_check_sanity] SB should be declared as Number=4
+[W::bcf_hdr_check_sanity] SB should be declared as Type=Integer
+{"resource": "data/reference/1000G_phase1.snps.high_confidence.hg38.vcf.gz", "retained": 28565336, "excluded_unmatched_contigs": 0}
+Lines   total/split/joined/realigned/mismatch_removed/dup_removed/skipped:	28565336/0/0/0/0/0/0
+Merging 14 temporary files
+Done
+Cleaning
+Writing to results/wgs/tmp/resource-sortfkUSFx
+[W::bcf_hdr_check_sanity] SB should be declared as Number=4
+[W::bcf_hdr_check_sanity] SB should be declared as Type=Integer
+[W::bcf_hdr_check_sanity] SB should be declared as Number=4
+[W::bcf_hdr_check_sanity] SB should be declared as Type=Integer
+{"resource": "data/reference/Mills_and_1000G_gold_standard.indels.hg38.vcf.gz", "retained": 1271815, "excluded_unmatched_contigs": 0}
+Lines   total/split/joined/realigned/mismatch_removed/dup_removed/skipped:	1271815/0/0/2066/0/0/0
+Merging 1 temporary files
+Done
+Cleaning
+Writing to results/wgs/tmp/resource-sortaSSNit
+{"resource": "data/reference/clinvar.GRCh38.vcf.gz", "retained": 4594763, "excluded_unmatched_contigs": 1}
+Lines   total/split/joined/realigned/mismatch_removed/dup_removed/skipped:	4594763/0/0/0/0/0/0
+Merging 6 temporary files
+Done
+Cleaning
+scripts/prepare_wgs_resources.sh: line 17: ne: command not found

@@ -1,0 +1,594 @@
+VCV000477890.22 - ClinVar - NCBI
+An official website of the United States government
+Here's how you know
+Here's how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official
+                            government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you've safely
+                                connected to the .gov website. Share sensitive
+                                information only on official, secure websites.
+Log in
+Dashboard
+Publications
+Account settings
+Log out
+Primary site navigation
+Logged in as:
+Dashboard
+Publications
+Account settings
+Log in
+ClinVar Home
+About
+About ClinVar
+Statistics
+List of submitters
+Map of submitters
+Website overview
+FAQ
+Understand the Data
+Data authorities
+Preferred names
+Classification
+Review status and assertion criteria
+HGVS expressions
+Data validation
+Accessions and identifiers
+Release cycle
+Access the Data
+Web access
+How to search ClinVar
+VCV (variant) pages
+RCV (variant-condition) pages
+Downloads
+Programmatic access
+Linking to ClinVar
+Submit Data
+Submission overview
+Get started
+Submission instructions
+Expert panels and practice guidelines
+On this page
+Classification Summary
+Variant Details
+Genes
+Germline
+Conditions
+Submissions
+Text-mined Citations
+NM_017617.5(NOTCH1):c.2191C>T (p.Arg731Trp)
+Cite
+Following
+Follow
+⚠
+Print
+Download
+Cite this record
+Close
+National Center for Biotechnology Information. ClinVar; [VCV000477890.22], https://www.ncbi.nlm.nih.gov/clinvar/variation/VCV000477890.22 (accessed Oct. 20, 2026).
+Copy
+Germline
+Classification
+Help
+criteria provided, conflicting classifications.
+Learn more about how ClinVar calculates review status.
+Conflicting classifications of pathogenicity
+Uncertain significance (5); Benign (1); Likely benign (1)
+7 out of 7
+submissions contributed to this classification
+Help
+The aggregate germline classification for this variant, typically for a monogenic or Mendelian disorder as in
+the ACMG/AMP guidelines
+, or for response to a drug. This value is calculated by NCBI based on data from submitters.
+Read our rules for calculating the aggregate classification
+.
+7
+Somatic
+No data submitted for somatic clinical impact
+Somatic
+No data submitted for oncogenicity
+Variant Details
+Identifiers
+NM_017617.5(NOTCH1):c.2191C>T (p.Arg731Trp)
+Variation ID: 477890
+Accession: VCV000477890.22
+Type and length
+single nucleotide variant,
+1 bp
+Location
+Cytogenetic:
+9q34.3
+9:
+            
+            136514526
+(GRCh38)
+[
+NCBI
+UCSC
+]
+9:
+            
+            139408978
+(GRCh37)
+[
+NCBI
+UCSC
+]
+Timeline in ClinVar
+First in ClinVar
+Help
+The date this variant first appeared in ClinVar with each type of classification.
+Last submission
+Help
+The date of the most recent submission for each type of classification for this variant.
+Last evaluated
+Help
+The most recent date that a submitter evaluated this variant for each type of classification.
+Germline
+Apr 14, 2018
+Sep 22, 2026
+Nov 5, 2025
+HGVS
+Nucleotide
+Protein
+Molecular
+consequence
+NM_017617.5:c.2191C>T
+MANE Select
+Help
+Transcripts from the Matched Annotation from the NCBI and EMBL-EBI (
+MANE
+) collaboration.
+NP_060087.3:p.Arg731Trp
+missense
+NC_000009.12:g.136514526G>A
+NC_000009.11:g.139408978G>A
+NG_007458.1:g.36261C>T
+LRG_1122:g.36261C>T
+LRG_1122t1:c.2191C>T
+LRG_1122p1:p.Arg731Trp
+...
+            more HGVS
+... less HGVS
+Protein change
+R731W
+Other names
+-
+Canonical SPDI
+NC_000009.12:136514525:G:A
+Global minor allele
+frequency (GMAF)
+Help
+The global minor allele frequency calculated by the 1000 Genomes Project. The minor allele at this location is indicated in parentheses and may be different from the allele represented by this VCV record.
+0.00020 (A)
+Allele frequency
+Help
+The frequency of the allele represented by this VCV record.
+The Genome Aggregation Database (gnomAD), exomes 0.00004
+Exome Aggregation Consortium (ExAC) 0.00011
+The Genome Aggregation Database (gnomAD) 0.00014
+The Genome Aggregation Database (gnomAD) 0.00016
+Trans-Omics for Precision Medicine (TOPMed) 0.00017
+1000 Genomes Project 0.00020
+NHLBI Exome Sequencing Project (ESP) Exome Variant Server 0.00024
+1000 Genomes Project 30x 0.00031
+Links
+ClinGen: CA5341462
+dbSNP: rs199666126
+VarSome
+Genes
+Gene
+OMIM
+ClinGen Gene Dosage Sensitivity Curation
+Variation Viewer
+Help
+Links to Variation Viewer, a genome browser to view variation data from NCBI databases.
+Related variants
+HI score
+Help
+The haploinsufficiency score for the gene, curated by ClinGen’s Dosage Sensitivity Curation task team.
+TS score
+Help
+The triplosensitivity score for the gene, curated by ClinGen’s Dosage Sensitivity Curation task team.
+Within gene
+Help
+The number of variants in ClinVar that are contained within this gene, with a link to view the list of variants.
+All
+Help
+The number of variants in ClinVar for this gene, including smaller variants within the gene and larger CNVs that overlap or fully contain the gene.
+NOTCH1
+Sufficient evidence for dosage pathogenicity
+No evidence available
+GRCh38
+GRCh37
+4559
+4890
+Conditions - Germline
+Condition
+Help
+The condition for this variant-condition (RCV) record in ClinVar.
+Classification
+Help
+The aggregate germline classification for this variant-condition (RCV) record in ClinVar. The number of submissions that contribute to this aggregate classification is shown in parentheses.
+(# of submissions)
+Review status
+Help
+The aggregate review status for this variant-condition (RCV) record in ClinVar. This value is calculated by NCBI based on data from submitters.
+Read our rules for calculating the review status
+.
+Last evaluated
+Help
+The most recent date that a submitter evaluated this variant for the condition.
+Variation/condition record
+Help
+The RCV accession number, with most recent version number, for the variant-condition record, with a link to the RCV web page.
+Adams-Oliver syndrome 5
+Conflicting classifications of pathogenicity (2)
+criteria provided, conflicting classifications
+Nov 5, 2025
+RCV000557195.20
+not provided
+Uncertain significance (2)
+criteria provided, multiple submitters, no conflicts
+Apr 9, 2025
+RCV001731786.12
+Familial thoracic aortic aneurysm and aortic dissection
+Uncertain significance (1)
+criteria provided, single submitter
+Apr 13, 2025
+RCV002315045.11
+Aortic valve disease 1
+Uncertain significance (1)
+criteria provided, single submitter
+Mar 15, 2022
+RCV002270680.8
+not specified
+Likely benign (1)
+criteria provided, single submitter
+Sep 18, 2024
+RCV006813080.1
+Submissions - Germline
+Classification
+Help
+The submitted germline classification for each SCV record.
+(Last evaluated)
+Review status
+Help
+Stars represent the review status, or the level of review supporting the submitted (SCV) record. This value is calculated by NCBI based on data from the submitter.
+Read our rules for calculating the review status
+. This column also includes a link to the submitter’s assertion criteria if provided, and the collection method.
+(Assertion criteria)
+Condition
+Help
+The condition for the classification, provided by the submitter for this submitted (SCV) record. This column also includes the affected status and allele origin of individuals observed with this variant.
+Submitter
+Help
+The submitting organization for this submitted (SCV) record. This column also includes the SCV accession and version number, the date this SCV first appeared in ClinVar, and the date that this SCV was last updated in ClinVar.
+Expand all rows
+Collapse all rows
+Help
+This column includes more information supporting the classification, including citations, the comment on classification, and detailed evidence provided as observations of the variant by the submitter.
+Uncertain significance
+(Nov 06, 2023)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+GeneDx Variant Classification Process June 2021
+)
+not provided
+GeneDx
+Accession: SCV001983137.4
+First in ClinVar: Oct 30, 2021
+Last updated: Sep 29, 2024
+Comment
+:
+show
+Has not been previously published as pathogenic or benign to our knowledge; In silico analysis supports that this missense variant has a deleterious effect on protein structure/function
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Uncertain significance
+(Apr 13, 2025)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+Ambry Variant Classification Scheme 2023
+)
+Familial thoracic aortic aneurysm and aortic dissection
+Ambry Genetics
+Accession: SCV000739421.7
+First in ClinVar: Apr 14, 2018
+Last updated: Jul 13, 2025
+Comment
+:
+show
+The p.R731W variant (also known as c.2191C>T), located in coding exon 13 of the NOTCH1 gene, results from a C to T substitution at nucleotide position 2191. The arginine at codon 731 is replaced by tryptophan, an amino acid with dissimilar properties. This variant was previously reported in the SNPDatabase as rs199666126. Based on data from ExAC, the T allele has an overall frequency of approximately 0.01% (4/29280). Based on data from the NHLBI Exome Sequencing Project (ESP), the T allele has an overall frequency of approximately 0.02% (3/12400) total alleles studied, having been observed in 0.07% (3/4064) African American alleles. This amino acid position is not well conserved in available vertebrate species. In addition, the in silico prediction for this alteration is inconclusive. Since supporting evidence is limited at this time, the clinical significance of this variant remains unclear.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Benign
+(Nov 05, 2025)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+Invitae Variant Classification Sherloc (09022015)
+)
+Adams-Oliver syndrome 5
+Labcorp Genetics (formerly Invitae), Labcorp
+Accession: SCV000659392.9
+First in ClinVar: Dec 26, 2017
+Last updated: Mar 07, 2026
+Publications:
+PubMed (1)
+PubMed:
+28492532
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Uncertain significance
+(Mar 15, 2022)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+Adams-Oliver syndrome 5
+Genome-Nilou Lab
+Accession: SCV002553576.1
+First in ClinVar: Jul 30, 2022
+Last updated: Jul 30, 2022
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+no
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+no
+Uncertain significance
+(Mar 15, 2022)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+Aortic valve disease 1
+Genome-Nilou Lab
+Accession: SCV002553577.1
+First in ClinVar: Jul 30, 2022
+Last updated: Jul 30, 2022
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+no
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+no
+Uncertain Significance
+(Apr 09, 2025)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ARUP Molecular Germline Variant Investigation Process 2024
+)
+not provided
+ARUP Laboratories, Molecular Genetics and Genomics, ARUP Laboratories
+Accession: SCV007330368.1
+First in ClinVar: Jan 24, 2026
+Last updated: Jan 24, 2026
+Comment
+:
+show
+The NOTCH1 c.2191C>T; p.Arg731Trp variant (rs199666126), to our knowledge, is not reported in the medical literature but is reported in ClinVar (Variation ID: 477890). This variant is found in the African/African-American population with an allele frequency of 0.038% (8/21,048 alleles) in the Genome Aggregation Database (v2.1.1). Computational analyses are uncertain whether this variant is neutral or deleterious (REVEL: 0.485). Due to limited information, the clinical significance of this variant is uncertain at this time.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Likely benign
+(Sep 18, 2024)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+Not specified
+Blueprint Genetics
+Accession: SCV007739188.1
+First in ClinVar: Sep 22, 2026
+Last updated: Sep 22, 2026
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Comment:
+Has not been previously published as pathogenic or benign to our knowledge; In silico analysis supports that this missense variant has a deleterious effect on protein structure/function
+OK
+Comment:
+The p.R731W variant (also known as c.2191C>T), located in coding exon 13 of the NOTCH1 gene, results from a C to T substitution at nucleotide position 2191. The arginine at codon 731 is replaced by tryptophan, an amino acid with dissimilar properties. This variant was previously reported in the SNPDatabase as rs199666126. Based on data from ExAC, the T allele has an overall frequency of approximately 0.01% (4/29280). Based on data from the NHLBI Exome Sequencing Project (ESP), the T allele has an overall frequency of approximately 0.02% (3/12400) total alleles studied, having been observed in 0.07% (3/4064) African American alleles. This amino acid position is not well conserved in available vertebrate species. In addition, the in silico prediction for this alteration is inconclusive. Since supporting evidence is limited at this time, the clinical significance of this variant remains unclear.
+OK
+Comment:
+The NOTCH1 c.2191C>T; p.Arg731Trp variant (rs199666126), to our knowledge, is not reported in the medical literature but is reported in ClinVar (Variation ID: 477890). This variant is found in the African/African-American population with an allele frequency of 0.038% (8/21,048 alleles) in the Genome Aggregation Database (v2.1.1). Computational analyses are uncertain whether this variant is neutral or deleterious (REVEL: 0.485). Due to limited information, the clinical significance of this variant is uncertain at this time.
+OK
+Citations for germline classification of this variant
+Help
+There are no citations for germline classification of this variant in ClinVar. If you know of citations for this variation, please consider submitting that information to ClinVar.
+Text-mined citations for rs199666126
+...
+Help
+These citations are identified by LitVar using
+    the rs number, so they may include citations for more than one variant
+    at this location. Please review the LitVar results carefully for your
+    variant of interest.
+Record last updated Sep 27, 2026
+This date represents the last time this VCV record was updated. The 
+                        update may be due to an update to one of the included submitted 
+                        records (SCVs), or due to an update that ClinVar made to the variant 
+                        such as adding HGVS expressions or a rs number. So this date may be 
+                        different from the date of the “most recent submission” reported at the 
+                        top of this page.
+Help
+Modify your search
+Search (all fields optional)
+Clear all
+Variant
+Gene
+Genomic Location
+GRCh38
+GRCh37
+More search options
+Disease
+Other Terms
+Advanced Search
+Clear all
+Search
+Follow NCBI
+Twitter
+Facebook
+LinkedIn
+GitHub
+Connect with NLM
+Twitter
+SM-Facebook
+SM-Youtube
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+Help
+Accessibility
+Careers
+NLM
+NIH
+HHS
+USA.gov

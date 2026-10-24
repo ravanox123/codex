@@ -1,0 +1,1004 @@
+VCV000403351.10 - ClinVar - NCBI
+An official website of the United States government
+Here's how you know
+Here's how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official
+                            government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you've safely
+                                connected to the .gov website. Share sensitive
+                                information only on official, secure websites.
+Log in
+Dashboard
+Publications
+Account settings
+Log out
+Primary site navigation
+Logged in as:
+Dashboard
+Publications
+Account settings
+Log in
+ClinVar Home
+About
+About ClinVar
+Statistics
+List of submitters
+Map of submitters
+Website overview
+FAQ
+Understand the Data
+Data authorities
+Preferred names
+Classification
+Review status and assertion criteria
+HGVS expressions
+Data validation
+Accessions and identifiers
+Release cycle
+Access the Data
+Web access
+How to search ClinVar
+VCV (variant) pages
+RCV (variant-condition) pages
+Downloads
+Programmatic access
+Linking to ClinVar
+Submit Data
+Submission overview
+Get started
+Submission instructions
+Expert panels and practice guidelines
+On this page
+Classification Summary
+Variant Details
+Genes
+Germline
+Conditions
+Submissions
+Functional Data
+Text-mined Citations
+NM_004577.4(PSPH):c.275+1del
+Cite
+Following
+Follow
+⚠
+Print
+Download
+Cite this record
+Close
+National Center for Biotechnology Information. ClinVar; [VCV000403351.10], https://www.ncbi.nlm.nih.gov/clinvar/variation/VCV000403351.10 (accessed Oct. 20, 2026).
+Copy
+Germline
+Classification
+Help
+criteria provided, conflicting classifications.
+Learn more about how ClinVar calculates review status.
+Conflicting classifications of pathogenicity
+Uncertain significance (1); Likely benign (1)
+2 out of 19
+submissions contributed to this classification
+Help
+The aggregate germline classification for this variant, typically for a monogenic or Mendelian disorder as in
+the ACMG/AMP guidelines
+, or for response to a drug. This value is calculated by NCBI based on data from submitters.
+Read our rules for calculating the aggregate classification
+.
+4
+Somatic
+No data submitted for somatic clinical impact
+Somatic
+No data submitted for oncogenicity
+Functional data are available for this variant
+Variant Details
+Identifiers
+NM_004577.4(PSPH):c.275+1del
+Variation ID: 403351
+Accession: VCV000403351.10
+Type and length
+Deletion,
+1 bp
+Location
+Cytogenetic:
+7p11.2
+7:
+            
+            56019599
+(GRCh38)
+[
+NCBI
+UCSC
+]
+7:
+            
+            56087292
+(GRCh37)
+[
+NCBI
+UCSC
+]
+Timeline in ClinVar
+First in ClinVar
+Help
+The date this variant first appeared in ClinVar with each type of classification.
+Last submission
+Help
+The date of the most recent submission for each type of classification for this variant.
+Last evaluated
+Help
+The most recent date that a submitter evaluated this variant for each type of classification.
+Germline
+Apr 9, 2017
+Apr 28, 2025
+Aug 22, 2023
+HGVS
+Nucleotide
+Protein
+Molecular
+consequence
+NM_004577.4:c.275+1del
+MANE Select
+Help
+Transcripts from the Matched Annotation from the NCBI and EMBL-EBI (
+MANE
+) collaboration.
+splice donor
+NM_004577.4:c.275del
+MANE Select
+Help
+Transcripts from the Matched Annotation from the NCBI and EMBL-EBI (
+MANE
+) collaboration.
+NM_001370503.1:c.275+1del
+splice donor
+NM_001370504.1:c.275+1del
+splice donor
+NM_001370505.1:c.275+1del
+splice donor
+NM_001370506.1:c.275+1del
+splice donor
+NM_001370507.1:c.275+1del
+splice donor
+NM_001370508.1:c.275+1del
+splice donor
+NM_001370509.1:c.275+1del
+splice donor
+NM_001370510.1:c.275+1del
+splice donor
+NM_001370511.1:c.275+1del
+splice donor
+NM_001370512.1:c.275+1del
+splice donor
+NM_001370513.1:c.275+1del
+splice donor
+NM_001370514.1:c.275+1del
+splice donor
+NM_001370515.1:c.275+1del
+splice donor
+NM_001370516.1:c.275+1del
+splice donor
+NM_001370517.1:c.275+1del
+splice donor
+NM_001370518.1:c.275+1del
+splice donor
+NM_001370519.1:c.275+1del
+splice donor
+NM_001370520.1:c.275+1del
+splice donor
+NM_001370521.1:c.275+1del
+splice donor
+NM_001370522.1:c.275+1del
+splice donor
+NC_000007.14:g.56019600del
+NC_000007.13:g.56087293del
+NG_011473.1:g.36977del
+...
+            more HGVS
+... less HGVS
+Protein change
+-
+Other names
+NC_000007.13:g.56087293del
+Canonical SPDI
+NC_000007.14:56019598:CC:C
+Global minor allele
+frequency (GMAF)
+Help
+The global minor allele frequency calculated by the 1000 Genomes Project. The minor allele at this location is indicated in parentheses and may be different from the allele represented by this VCV record.
+-
+Allele frequency
+Help
+The frequency of the allele represented by this VCV record.
+-
+Links
+ClinGen: CA4268723
+dbSNP: rs139106189
+VarSome
+Genes
+Gene
+OMIM
+ClinGen Gene Dosage Sensitivity Curation
+Variation Viewer
+Help
+Links to Variation Viewer, a genome browser to view variation data from NCBI databases.
+Related variants
+HI score
+Help
+The haploinsufficiency score for the gene, curated by ClinGen’s Dosage Sensitivity Curation task team.
+TS score
+Help
+The triplosensitivity score for the gene, curated by ClinGen’s Dosage Sensitivity Curation task team.
+Within gene
+Help
+The number of variants in ClinVar that are contained within this gene, with a link to view the list of variants.
+All
+Help
+The number of variants in ClinVar for this gene, including smaller variants within the gene and larger CNVs that overlap or fully contain the gene.
+PSPH
+Gene associated with autosomal recessive phenotype
+No evidence available
+GRCh38
+GRCh37
+198
+233
+Conditions - Germline
+Condition
+Help
+The condition for this variant-condition (RCV) record in ClinVar.
+Classification
+Help
+The aggregate germline classification for this variant-condition (RCV) record in ClinVar. The number of submissions that contribute to this aggregate classification is shown in parentheses.
+(# of submissions)
+Review status
+Help
+The aggregate review status for this variant-condition (RCV) record in ClinVar. This value is calculated by NCBI based on data from submitters.
+Read our rules for calculating the review status
+.
+Last evaluated
+Help
+The most recent date that a submitter evaluated this variant for the condition.
+Variation/condition record
+Help
+The RCV accession number, with most recent version number, for the variant-condition record, with a link to the RCV web page.
+not specified
+Likely benign (2)
+criteria provided, single submitter
+Mar 29, 2016
+RCV000454600.6
+not provided
+Likely benign (1)
+no assertion criteria provided
+-
+RCV001573262.1
+Neurometabolic disorder due to serine deficiency
+Uncertain significance (1)
+criteria provided, single submitter
+Aug 22, 2023
+RCV005355791.1
+Submissions - Germline
+Classification
+Help
+The submitted germline classification for each SCV record.
+(Last evaluated)
+Review status
+Help
+Stars represent the review status, or the level of review supporting the submitted (SCV) record. This value is calculated by NCBI based on data from the submitter.
+Read our rules for calculating the review status
+. This column also includes a link to the submitter’s assertion criteria if provided, and the collection method.
+(Assertion criteria)
+Condition
+Help
+The condition for the classification, provided by the submitter for this submitted (SCV) record. This column also includes the affected status and allele origin of individuals observed with this variant.
+Submitter
+Help
+The submitting organization for this submitted (SCV) record. This column also includes the SCV accession and version number, the date this SCV first appeared in ClinVar, and the date that this SCV was last updated in ClinVar.
+Expand all rows
+Collapse all rows
+Help
+This column includes more information supporting the classification, including citations, the comment on classification, and detailed evidence provided as observations of the variant by the submitter.
+Likely benign
+(Mar 29, 2016)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+LMM Criteria
+)
+not specified
+Laboratory for Molecular Medicine, Mass General Brigham Personalized Medicine
+Accession: SCV000540131.1
+First in ClinVar: Apr 09, 2017
+Last updated: Apr 09, 2017
+Comment
+:
+show
+Variant identified in a genome or exome case(s) and assessed due to predicted null impact of the variant or pathogenic assertions in the literature or databases. Disclaimer: This variant has not undergone full assessment. The following are preliminary notes: Gene has been reported in 3-phosphoserine phosphatase deficiency and developmental delay. Limited evidence for role in disease an LOF variants.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+more
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Method
+:
+Genome/Exome Filtration
+Uncertain significance
+(Aug 22, 2023)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+neurometabolic disorder due to serine deficiency
+Department of Pathology and Laboratory Medicine, Sinai Health System
+Accession: SCV005916495.1
+First in ClinVar: Apr 28, 2025
+Last updated: Apr 28, 2025
+Observation: 1
+Collection method
+:
+research
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+research
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Likely benign
+(-)
+N
+Not contributing to aggregate classification
+no assertion criteria provided
+not provided
+Laboratory of Diagnostic Genome Analysis, Leiden University Medical Center (LUMC)
+Study: VKGL Data-share Consensus
+Accession: SCV001798854.1
+First in ClinVar: Aug 21, 2021
+Last updated: Aug 21, 2021
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Benign
+(-)
+N
+Not contributing to aggregate classification
+no assertion criteria provided
+not specified
+Diagnostic Laboratory, Department of Genetics, University Medical Center Groningen
+Study: VKGL Data-share Consensus
+Accession: SCV001743524.3
+First in ClinVar: Jul 07, 2021
+Last updated: Sep 08, 2021
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Comment:
+Variant identified in a genome or exome case(s) and assessed due to predicted null impact of the variant or pathogenic assertions in the literature or databases. Disclaimer: This variant has not undergone full assessment. The following are preliminary notes: Gene has been reported in 3-phosphoserine phosphatase deficiency and developmental delay. Limited evidence for role in disease an LOF variants.
+OK
+Citations for germline classification of this variant
+Help
+There are no citations for germline classification of this variant in ClinVar. If you know of citations for this variation, please consider submitting that information to ClinVar.
+Submissions - Functional Data
+functionally abnormal
+--
+skipped exon,
+retained intron
+assessed by
+RNAseq
+Result:
+junction spanning - exon skipping (p=0.0),junction spanning - intron inclusion (p=0.0),junction spanning - intron inclusion with mutation (p=0.003),read abundance - intron inclusion (p=0.0)
+Modifies a natural donor site at NC_000007.13:g.56087292 from 10.25 to 5.74 bits. Significant p-values: junction spanning - exon skipping (30 reads, p=0.0), junction spanning - intron inclusion (18 reads, p=0.0), junction spanning - intron inclusion with mutation (1 reads, p=0.003), read abundance - intron inclusion (81 reads, p=0.0). Computations were originally performed using genomic coordinates. This variant was mapped to an appropriate current MANE database designation or, if not present in this source, to the longest relevant transcript in the Biocommons Universal Transcript Archive using the hgvs Python package. The original genomic coordinate was based on GRCh37 and was submitted as an "Alternate designation". Modifications of Figure 2 of PMID:31275557 for ClinVar: a) "strongly corroborating Veridical p-value" refers to "junction-spanning" evidence types; b) add the text "and natural site < 300 nucleotides away?" to "Ri,final > nearest natural site Ri"; c) "Aberrant" and "Likely aberrant" classifications are now both defined as "Functionally abnormal" (analogous to ACMG/AMP reporting); d) "Allele-specific alternative splicing" classification now defined as "Function uncertain" (based on results for similar variants in PMID: 32211018); e) average heterozygosity based-criteria no longer contribute to classification.
+Citation:
+PubMed: 31275557
+Dr. Peter K. Rogan Lab, Western University
+Accession:
+SCV006577359.1
+Submitted:
+2025-10-09
+Assay description:
+In the sample (TCGA-GC-A3RB), the counts of splice junction spanning reads and abundance of the transcript adjacent to this mutation were compared with RNASeq data from matched tissues and tumors lacking the same mutation using Veridical (PMID:24741438)
+Disease context:
+Malignant tumor of urinary bladder
+Transcript:
+NM_004577.4:c.275del
+Molecular phenotype measured:
+splicing
+Cell line:
+TCGA-GC-A3RB
+Tissue:
+Bladder Urothelial Carcinoma (BLCA)
+Collection method:
+in vitro
+Species:
+human
+Number of controls:
+369
+functionally abnormal
+--
+skipped exon,
+retained intron
+assessed by
+RNAseq
+Result:
+junction spanning - exon skipping (p=0.0001),junction spanning - intron inclusion (p=0.0),junction spanning - intron inclusion with mutation (p=0.003),read abundance - intron inclusion (p=0.0)
+Modifies a natural donor site at NC_000007.13:g.56087292 from 10.25 to 5.74 bits. Significant p-values: junction spanning - exon skipping (14 reads, p=0.0001), junction spanning - intron inclusion (25 reads, p=0.0), junction spanning - intron inclusion with mutation (1 reads, p=0.003), read abundance - intron inclusion (62 reads, p=0.0). Computations were originally performed using genomic coordinates. This variant was mapped to an appropriate current MANE database designation or, if not present in this source, to the longest relevant transcript in the Biocommons Universal Transcript Archive using the hgvs Python package. The original genomic coordinate was based on GRCh37 and was submitted as an "Alternate designation". Modifications of Figure 2 of PMID:31275557 for ClinVar: a) "strongly corroborating Veridical p-value" refers to "junction-spanning" evidence types; b) add the text "and natural site < 300 nucleotides away?" to "Ri,final > nearest natural site Ri"; c) "Aberrant" and "Likely aberrant" classifications are now both defined as "Functionally abnormal" (analogous to ACMG/AMP reporting); d) "Allele-specific alternative splicing" classification now defined as "Function uncertain" (based on results for similar variants in PMID: 32211018); e) average heterozygosity based-criteria no longer contribute to classification.
+Citation:
+PubMed: 31275557
+Dr. Peter K. Rogan Lab, Western University
+Accession:
+SCV006577360.1
+Submitted:
+2025-10-09
+Assay description:
+In the sample (TCGA-4Z-AA86), the counts of splice junction spanning reads and abundance of the transcript adjacent to this mutation were compared with RNASeq data from matched tissues and tumors lacking the same mutation using Veridical (PMID:24741438)
+Disease context:
+Malignant tumor of urinary bladder
+Transcript:
+NM_004577.4:c.275del
+Molecular phenotype measured:
+splicing
+Cell line:
+TCGA-4Z-AA86
+Tissue:
+Bladder Urothelial Carcinoma (BLCA)
+Collection method:
+in vitro
+Species:
+human
+Number of controls:
+369
+functionally abnormal
+--
+skipped exon
+assessed by
+RNAseq
+Result:
+junction spanning - exon skipping (p=0.0273)
+Modifies a natural donor site at NC_000007.13:g.56087292 from 10.25 to 5.74 bits. Significant p-values: junction spanning - exon skipping (10 reads, p=0.0273). Computations were originally performed using genomic coordinates. This variant was mapped to an appropriate current MANE database designation or, if not present in this source, to the longest relevant transcript in the Biocommons Universal Transcript Archive using the hgvs Python package. The original genomic coordinate was based on GRCh37 and was submitted as an "Alternate designation". Modifications of Figure 2 of PMID:31275557 for ClinVar: a) "strongly corroborating Veridical p-value" refers to "junction-spanning" evidence types; b) add the text "and natural site < 300 nucleotides away?" to "Ri,final > nearest natural site Ri"; c) "Aberrant" and "Likely aberrant" classifications are now both defined as "Functionally abnormal" (analogous to ACMG/AMP reporting); d) "Allele-specific alternative splicing" classification now defined as "Function uncertain" (based on results for similar variants in PMID: 32211018); e) average heterozygosity based-criteria no longer contribute to classification.
+Citation:
+PubMed: 31275557
+Dr. Peter K. Rogan Lab, Western University
+Accession:
+SCV006577361.1
+Submitted:
+2025-10-09
+Assay description:
+In the sample (TCGA-C8-A1HF), the counts of splice junction spanning reads and abundance of the transcript adjacent to this mutation were compared with RNASeq data from matched tissues and tumors lacking the same mutation using Veridical (PMID:24741438)
+Disease context:
+Familial cancer of breast
+Transcript:
+NM_004577.4:c.275del
+Molecular phenotype measured:
+splicing
+Cell line:
+TCGA-C8-A1HF
+Tissue:
+Breast Invasive Carcinoma (BRCA)
+Collection method:
+in vitro
+Species:
+human
+Number of controls:
+1310
+functionally abnormal
+--
+skipped exon
+assessed by
+RNAseq
+Result:
+junction spanning - exon skipping (p=0.0244)
+Modifies a natural donor site at NC_000007.13:g.56087292 from 10.25 to 5.74 bits. Significant p-values: junction spanning - exon skipping (43 reads, p=0.0244). Computations were originally performed using genomic coordinates. This variant was mapped to an appropriate current MANE database designation or, if not present in this source, to the longest relevant transcript in the Biocommons Universal Transcript Archive using the hgvs Python package. The original genomic coordinate was based on GRCh37 and was submitted as an "Alternate designation". Modifications of Figure 2 of PMID:31275557 for ClinVar: a) "strongly corroborating Veridical p-value" refers to "junction-spanning" evidence types; b) add the text "and natural site < 300 nucleotides away?" to "Ri,final > nearest natural site Ri"; c) "Aberrant" and "Likely aberrant" classifications are now both defined as "Functionally abnormal" (analogous to ACMG/AMP reporting); d) "Allele-specific alternative splicing" classification now defined as "Function uncertain" (based on results for similar variants in PMID: 32211018); e) average heterozygosity based-criteria no longer contribute to classification.
+Citation:
+PubMed: 31275557
+Dr. Peter K. Rogan Lab, Western University
+Accession:
+SCV006577362.1
+Submitted:
+2025-10-09
+Assay description:
+In the sample (TCGA-02-2485), the counts of splice junction spanning reads and abundance of the transcript adjacent to this mutation were compared with RNASeq data from matched tissues and tumors lacking the same mutation using Veridical (PMID:24741438)
+Disease context:
+Glioma susceptibility 1
+Transcript:
+NM_004577.4:c.275del
+Molecular phenotype measured:
+splicing
+Cell line:
+TCGA-02-2485
+Tissue:
+Glioblastoma Multiforme (GBM)
+Collection method:
+in vitro
+Species:
+human
+Number of controls:
+168
+functionally abnormal
+--
+skipped exon,
+retained intron
+assessed by
+RNAseq
+Result:
+junction spanning - exon skipping (p=0.0298),junction spanning - intron inclusion (p=0.0001),read abundance - intron inclusion (p=0.0056)
+Modifies a natural donor site at NC_000007.13:g.56087292 from 10.25 to 5.74 bits. Significant p-values: junction spanning - exon skipping (7 reads, p=0.0298), junction spanning - intron inclusion (11 reads, p=0.0001), read abundance - intron inclusion (20 reads, p=0.0056). Computations were originally performed using genomic coordinates. This variant was mapped to an appropriate current MANE database designation or, if not present in this source, to the longest relevant transcript in the Biocommons Universal Transcript Archive using the hgvs Python package. The original genomic coordinate was based on GRCh37 and was submitted as an "Alternate designation". Modifications of Figure 2 of PMID:31275557 for ClinVar: a) "strongly corroborating Veridical p-value" refers to "junction-spanning" evidence types; b) add the text "and natural site < 300 nucleotides away?" to "Ri,final > nearest natural site Ri"; c) "Aberrant" and "Likely aberrant" classifications are now both defined as "Functionally abnormal" (analogous to ACMG/AMP reporting); d) "Allele-specific alternative splicing" classification now defined as "Function uncertain" (based on results for similar variants in PMID: 32211018); e) average heterozygosity based-criteria no longer contribute to classification.
+Citation:
+PubMed: 31275557
+Dr. Peter K. Rogan Lab, Western University
+Accession:
+SCV006577363.1
+Submitted:
+2025-10-09
+Assay description:
+In the sample (TCGA-B8-A54E), the counts of splice junction spanning reads and abundance of the transcript adjacent to this mutation were compared with RNASeq data from matched tissues and tumors lacking the same mutation using Veridical (PMID:24741438)
+Disease context:
+Clear cell carcinoma of kidney
+Transcript:
+NM_004577.4:c.275del
+Molecular phenotype measured:
+splicing
+Cell line:
+TCGA-B8-A54E
+Tissue:
+Kidney Renal Clear Cell Carcinoma (KIRC)
+Collection method:
+in vitro
+Species:
+human
+Number of controls:
+205
+functionally abnormal
+--
+skipped exon,
+retained intron
+assessed by
+RNAseq
+Result:
+junction spanning - exon skipping (p=0.0043),junction spanning - intron inclusion (p=0.0016)
+Modifies a natural donor site at NC_000007.13:g.56087292 from 10.25 to 5.74 bits. Significant p-values: junction spanning - exon skipping (10 reads, p=0.0043), junction spanning - intron inclusion (17 reads, p=0.0016). Computations were originally performed using genomic coordinates. This variant was mapped to an appropriate current MANE database designation or, if not present in this source, to the longest relevant transcript in the Biocommons Universal Transcript Archive using the hgvs Python package. The original genomic coordinate was based on GRCh37 and was submitted as an "Alternate designation". Modifications of Figure 2 of PMID:31275557 for ClinVar: a) "strongly corroborating Veridical p-value" refers to "junction-spanning" evidence types; b) add the text "and natural site < 300 nucleotides away?" to "Ri,final > nearest natural site Ri"; c) "Aberrant" and "Likely aberrant" classifications are now both defined as "Functionally abnormal" (analogous to ACMG/AMP reporting); d) "Allele-specific alternative splicing" classification now defined as "Function uncertain" (based on results for similar variants in PMID: 32211018); e) average heterozygosity based-criteria no longer contribute to classification.
+Citation:
+PubMed: 31275557
+Dr. Peter K. Rogan Lab, Western University
+Accession:
+SCV006577364.1
+Submitted:
+2025-10-09
+Assay description:
+In the sample (TCGA-BQ-5884), the counts of splice junction spanning reads and abundance of the transcript adjacent to this mutation were compared with RNASeq data from matched tissues and tumors lacking the same mutation using Veridical (PMID:24741438)
+Disease context:
+Papillary renal cell carcinoma type 1
+Transcript:
+NM_004577.4:c.275del
+Molecular phenotype measured:
+splicing
+Cell line:
+TCGA-BQ-5884
+Tissue:
+Kidney Renal Papillary Cell Carcinoma (KIRP)
+Collection method:
+in vitro
+Species:
+human
+Number of controls:
+305
+functionally abnormal
+--
+retained intron
+assessed by
+RNAseq
+Result:
+read abundance - intron inclusion (p=0.0303)
+Modifies a natural donor site at NC_000007.13:g.56087292 from 10.25 to 5.74 bits. Significant p-values: read abundance - intron inclusion (22 reads, p=0.0303). Computations were originally performed using genomic coordinates. This variant was mapped to an appropriate current MANE database designation or, if not present in this source, to the longest relevant transcript in the Biocommons Universal Transcript Archive using the hgvs Python package. The original genomic coordinate was based on GRCh37 and was submitted as an "Alternate designation". Modifications of Figure 2 of PMID:31275557 for ClinVar: a) "strongly corroborating Veridical p-value" refers to "junction-spanning" evidence types; b) add the text "and natural site < 300 nucleotides away?" to "Ri,final > nearest natural site Ri"; c) "Aberrant" and "Likely aberrant" classifications are now both defined as "Functionally abnormal" (analogous to ACMG/AMP reporting); d) "Allele-specific alternative splicing" classification now defined as "Function uncertain" (based on results for similar variants in PMID: 32211018); e) average heterozygosity based-criteria no longer contribute to classification.
+Citation:
+PubMed: 31275557
+Dr. Peter K. Rogan Lab, Western University
+Accession:
+SCV006577365.1
+Submitted:
+2025-10-09
+Assay description:
+In the sample (TCGA-A4-A5DU), the counts of splice junction spanning reads and abundance of the transcript adjacent to this mutation were compared with RNASeq data from matched tissues and tumors lacking the same mutation using Veridical (PMID:24741438)
+Disease context:
+Papillary renal cell carcinoma type 1
+Transcript:
+NM_004577.4:c.275del
+Molecular phenotype measured:
+splicing
+Cell line:
+TCGA-A4-A5DU
+Tissue:
+Kidney Renal Papillary Cell Carcinoma (KIRP)
+Collection method:
+in vitro
+Species:
+human
+Number of controls:
+305
+functionally abnormal
+--
+retained intron
+assessed by
+RNAseq
+Result:
+junction spanning - intron inclusion (p=0.0287)
+Modifies a natural donor site at NC_000007.13:g.56087292 from 10.25 to 5.74 bits. Significant p-values: junction spanning - intron inclusion (11 reads, p=0.0287). Computations were originally performed using genomic coordinates. This variant was mapped to an appropriate current MANE database designation or, if not present in this source, to the longest relevant transcript in the Biocommons Universal Transcript Archive using the hgvs Python package. The original genomic coordinate was based on GRCh37 and was submitted as an "Alternate designation". Modifications of Figure 2 of PMID:31275557 for ClinVar: a) "strongly corroborating Veridical p-value" refers to "junction-spanning" evidence types; b) add the text "and natural site < 300 nucleotides away?" to "Ri,final > nearest natural site Ri"; c) "Aberrant" and "Likely aberrant" classifications are now both defined as "Functionally abnormal" (analogous to ACMG/AMP reporting); d) "Allele-specific alternative splicing" classification now defined as "Function uncertain" (based on results for similar variants in PMID: 32211018); e) average heterozygosity based-criteria no longer contribute to classification.
+Citation:
+PubMed: 31275557
+Dr. Peter K. Rogan Lab, Western University
+Accession:
+SCV006577366.1
+Submitted:
+2025-10-09
+Assay description:
+In the sample (TCGA-GL-8500), the counts of splice junction spanning reads and abundance of the transcript adjacent to this mutation were compared with RNASeq data from matched tissues and tumors lacking the same mutation using Veridical (PMID:24741438)
+Disease context:
+Papillary renal cell carcinoma type 1
+Transcript:
+NM_004577.4:c.275del
+Molecular phenotype measured:
+splicing
+Cell line:
+TCGA-GL-8500
+Tissue:
+Kidney Renal Papillary Cell Carcinoma (KIRP)
+Collection method:
+in vitro
+Species:
+human
+Number of controls:
+305
+functionally abnormal
+--
+retained intron
+assessed by
+RNAseq
+Result:
+junction spanning - intron inclusion with mutation (p=0.0241)
+Modifies a natural donor site at NC_000007.13:g.56087292 from 10.25 to 5.74 bits. Significant p-values: junction spanning - intron inclusion with mutation (1 reads, p=0.0241). Computations were originally performed using genomic coordinates. This variant was mapped to an appropriate current MANE database designation or, if not present in this source, to the longest relevant transcript in the Biocommons Universal Transcript Archive using the hgvs Python package. The original genomic coordinate was based on GRCh37 and was submitted as an "Alternate designation". Modifications of Figure 2 of PMID:31275557 for ClinVar: a) "strongly corroborating Veridical p-value" refers to "junction-spanning" evidence types; b) add the text "and natural site < 300 nucleotides away?" to "Ri,final > nearest natural site Ri"; c) "Aberrant" and "Likely aberrant" classifications are now both defined as "Functionally abnormal" (analogous to ACMG/AMP reporting); d) "Allele-specific alternative splicing" classification now defined as "Function uncertain" (based on results for similar variants in PMID: 32211018); e) average heterozygosity based-criteria no longer contribute to classification.
+Citation:
+PubMed: 31275557
+Dr. Peter K. Rogan Lab, Western University
+Accession:
+SCV006577368.1
+Submitted:
+2025-10-09
+Assay description:
+In the sample (TCGA-A4-8098), the counts of splice junction spanning reads and abundance of the transcript adjacent to this mutation were compared with RNASeq data from matched tissues and tumors lacking the same mutation using Veridical (PMID:24741438)
+Disease context:
+Papillary renal cell carcinoma type 1
+Transcript:
+NM_004577.4:c.275del
+Molecular phenotype measured:
+splicing
+Cell line:
+TCGA-A4-8098
+Tissue:
+Kidney Renal Papillary Cell Carcinoma (KIRP)
+Collection method:
+in vitro
+Species:
+human
+Number of controls:
+305
+functionally abnormal
+--
+retained intron
+assessed by
+RNAseq
+Result:
+junction spanning - intron inclusion with mutation (p=0.0)
+Modifies a natural donor site at NC_000007.13:g.56087292 from 10.25 to 5.74 bits. Significant p-values: junction spanning - intron inclusion with mutation (3 reads, p=0.0). Computations were originally performed using genomic coordinates. This variant was mapped to an appropriate current MANE database designation or, if not present in this source, to the longest relevant transcript in the Biocommons Universal Transcript Archive using the hgvs Python package. The original genomic coordinate was based on GRCh37 and was submitted as an "Alternate designation". Modifications of Figure 2 of PMID:31275557 for ClinVar: a) "strongly corroborating Veridical p-value" refers to "junction-spanning" evidence types; b) add the text "and natural site < 300 nucleotides away?" to "Ri,final > nearest natural site Ri"; c) "Aberrant" and "Likely aberrant" classifications are now both defined as "Functionally abnormal" (analogous to ACMG/AMP reporting); d) "Allele-specific alternative splicing" classification now defined as "Function uncertain" (based on results for similar variants in PMID: 32211018); e) average heterozygosity based-criteria no longer contribute to classification.
+Citation:
+PubMed: 31275557
+Dr. Peter K. Rogan Lab, Western University
+Accession:
+SCV006577369.1
+Submitted:
+2025-10-09
+Assay description:
+In the sample (TCGA-DW-5561), the counts of splice junction spanning reads and abundance of the transcript adjacent to this mutation were compared with RNASeq data from matched tissues and tumors lacking the same mutation using Veridical (PMID:24741438)
+Disease context:
+Papillary renal cell carcinoma type 1
+Transcript:
+NM_004577.4:c.275del
+Molecular phenotype measured:
+splicing
+Cell line:
+TCGA-DW-5561
+Tissue:
+Kidney Renal Papillary Cell Carcinoma (KIRP)
+Collection method:
+in vitro
+Species:
+human
+Number of controls:
+305
+functionally abnormal
+--
+skipped exon,
+retained intron
+assessed by
+RNAseq
+Result:
+junction spanning - exon skipping (p=0.0161),read abundance - intron inclusion (p=0.0005)
+Modifies a natural donor site at NC_000007.13:g.56087292 from 10.25 to 5.74 bits. Significant p-values: junction spanning - exon skipping (8 reads, p=0.0161), read abundance - intron inclusion (38 reads, p=0.0005). Computations were originally performed using genomic coordinates. This variant was mapped to an appropriate current MANE database designation or, if not present in this source, to the longest relevant transcript in the Biocommons Universal Transcript Archive using the hgvs Python package. The original genomic coordinate was based on GRCh37 and was submitted as an "Alternate designation". Modifications of Figure 2 of PMID:31275557 for ClinVar: a) "strongly corroborating Veridical p-value" refers to "junction-spanning" evidence types; b) add the text "and natural site < 300 nucleotides away?" to "Ri,final > nearest natural site Ri"; c) "Aberrant" and "Likely aberrant" classifications are now both defined as "Functionally abnormal" (analogous to ACMG/AMP reporting); d) "Allele-specific alternative splicing" classification now defined as "Function uncertain" (based on results for similar variants in PMID: 32211018); e) average heterozygosity based-criteria no longer contribute to classification.
+Citation:
+PubMed: 31275557
+Dr. Peter K. Rogan Lab, Western University
+Accession:
+SCV006577370.1
+Submitted:
+2025-10-09
+Assay description:
+In the sample (TCGA-B9-4115), the counts of splice junction spanning reads and abundance of the transcript adjacent to this mutation were compared with RNASeq data from matched tissues and tumors lacking the same mutation using Veridical (PMID:24741438)
+Disease context:
+Papillary renal cell carcinoma type 1
+Transcript:
+NM_004577.4:c.275del
+Molecular phenotype measured:
+splicing
+Cell line:
+TCGA-B9-4115
+Tissue:
+Kidney Renal Papillary Cell Carcinoma (KIRP)
+Collection method:
+in vitro
+Species:
+human
+Number of controls:
+305
+functionally abnormal
+--
+skipped exon
+assessed by
+RNAseq
+Result:
+junction spanning - exon skipping (p=0.0101)
+Modifies a natural donor site at NC_000007.13:g.56087292 from 10.25 to 5.74 bits. Significant p-values: junction spanning - exon skipping (10 reads, p=0.0101). Computations were originally performed using genomic coordinates. This variant was mapped to an appropriate current MANE database designation or, if not present in this source, to the longest relevant transcript in the Biocommons Universal Transcript Archive using the hgvs Python package. The original genomic coordinate was based on GRCh37 and was submitted as an "Alternate designation". Modifications of Figure 2 of PMID:31275557 for ClinVar: a) "strongly corroborating Veridical p-value" refers to "junction-spanning" evidence types; b) add the text "and natural site < 300 nucleotides away?" to "Ri,final > nearest natural site Ri"; c) "Aberrant" and "Likely aberrant" classifications are now both defined as "Functionally abnormal" (analogous to ACMG/AMP reporting); d) "Allele-specific alternative splicing" classification now defined as "Function uncertain" (based on results for similar variants in PMID: 32211018); e) average heterozygosity based-criteria no longer contribute to classification.
+Citation:
+PubMed: 31275557
+Dr. Peter K. Rogan Lab, Western University
+Accession:
+SCV006577371.1
+Submitted:
+2025-10-09
+Assay description:
+In the sample (TCGA-EB-A3XC), the counts of splice junction spanning reads and abundance of the transcript adjacent to this mutation were compared with RNASeq data from matched tissues and tumors lacking the same mutation using Veridical (PMID:24741438)
+Disease context:
+Melanoma
+Transcript:
+NM_004577.4:c.275del
+Molecular phenotype measured:
+splicing
+Cell line:
+TCGA-EB-A3XC
+Tissue:
+Skin Cutaneous Melanoma (SKCM)
+Collection method:
+in vitro
+Species:
+human
+Number of controls:
+557
+functionally abnormal
+--
+retained intron
+assessed by
+RNAseq
+Result:
+junction spanning - intron inclusion with mutation (p=0.0288)
+Modifies a natural donor site at NC_000007.13:g.56087292 from 10.25 to 5.74 bits. Significant p-values: junction spanning - intron inclusion with mutation (3 reads, p=0.0288). Computations were originally performed using genomic coordinates. This variant was mapped to an appropriate current MANE database designation or, if not present in this source, to the longest relevant transcript in the Biocommons Universal Transcript Archive using the hgvs Python package. The original genomic coordinate was based on GRCh37 and was submitted as an "Alternate designation". Modifications of Figure 2 of PMID:31275557 for ClinVar: a) "strongly corroborating Veridical p-value" refers to "junction-spanning" evidence types; b) add the text "and natural site < 300 nucleotides away?" to "Ri,final > nearest natural site Ri"; c) "Aberrant" and "Likely aberrant" classifications are now both defined as "Functionally abnormal" (analogous to ACMG/AMP reporting); d) "Allele-specific alternative splicing" classification now defined as "Function uncertain" (based on results for similar variants in PMID: 32211018); e) average heterozygosity based-criteria no longer contribute to classification.
+Citation:
+PubMed: 31275557
+Dr. Peter K. Rogan Lab, Western University
+Accession:
+SCV006577372.1
+Submitted:
+2025-10-09
+Assay description:
+In the sample (TCGA-CD-8526), the counts of splice junction spanning reads and abundance of the transcript adjacent to this mutation were compared with RNASeq data from matched tissues and tumors lacking the same mutation using Veridical (PMID:24741438)
+Disease context:
+Gastric cancer
+Transcript:
+NM_004577.4:c.275del
+Molecular phenotype measured:
+splicing
+Cell line:
+TCGA-CD-8526
+Tissue:
+Stomach Adenocarcinoma (STAD)
+Collection method:
+in vitro
+Species:
+human
+Number of controls:
+660
+functionally abnormal
+--
+skipped exon,
+retained intron
+assessed by
+RNAseq
+Result:
+junction spanning - exon skipping (p=0.0002),junction spanning - intron inclusion (p=0.0),junction spanning - intron inclusion with mutation (p=0.0004),read abundance - intron inclusion (p=0.0)
+Modifies a natural donor site at NC_000007.13:g.56087292 from 10.25 to 5.74 bits. Significant p-values: junction spanning - exon skipping (28 reads, p=0.0002), junction spanning - intron inclusion (25 reads, p=0.0), junction spanning - intron inclusion with mutation (6 reads, p=0.0004), read abundance - intron inclusion (200 reads, p=0.0). Computations were originally performed using genomic coordinates. This variant was mapped to an appropriate current MANE database designation or, if not present in this source, to the longest relevant transcript in the Biocommons Universal Transcript Archive using the hgvs Python package. The original genomic coordinate was based on GRCh37 and was submitted as an "Alternate designation". Modifications of Figure 2 of PMID:31275557 for ClinVar: a) "strongly corroborating Veridical p-value" refers to "junction-spanning" evidence types; b) add the text "and natural site < 300 nucleotides away?" to "Ri,final > nearest natural site Ri"; c) "Aberrant" and "Likely aberrant" classifications are now both defined as "Functionally abnormal" (analogous to ACMG/AMP reporting); d) "Allele-specific alternative splicing" classification now defined as "Function uncertain" (based on results for similar variants in PMID: 32211018); e) average heterozygosity based-criteria no longer contribute to classification.
+Citation:
+PubMed: 31275557
+Dr. Peter K. Rogan Lab, Western University
+Accession:
+SCV006577373.1
+Submitted:
+2025-10-09
+Assay description:
+In the sample (TCGA-L5-A4OF), the counts of splice junction spanning reads and abundance of the transcript adjacent to this mutation were compared with RNASeq data from matched tissues and tumors lacking the same mutation using Veridical (PMID:24741438)
+Disease context:
+Malignant tumor of esophagus
+Transcript:
+NM_004577.4:c.275del
+Molecular phenotype measured:
+splicing
+Cell line:
+TCGA-L5-A4OF
+Tissue:
+Esophageal Carcinoma (ESCA)
+Collection method:
+in vitro
+Species:
+human
+Number of controls:
+276
+functionally abnormal
+--
+retained intron
+assessed by
+RNAseq
+Result:
+junction spanning - intron inclusion (p=0.0073),read abundance - intron inclusion (p=0.0442)
+Modifies a natural donor site at NC_000007.13:g.56087292 from 10.25 to 5.74 bits. Significant p-values: junction spanning - intron inclusion (13 reads, p=0.0073), read abundance - intron inclusion (72 reads, p=0.0442). Computations were originally performed using genomic coordinates. This variant was mapped to an appropriate current MANE database designation or, if not present in this source, to the longest relevant transcript in the Biocommons Universal Transcript Archive using the hgvs Python package. The original genomic coordinate was based on GRCh37 and was submitted as an "Alternate designation". Modifications of Figure 2 of PMID:31275557 for ClinVar: a) "strongly corroborating Veridical p-value" refers to "junction-spanning" evidence types; b) add the text "and natural site < 300 nucleotides away?" to "Ri,final > nearest natural site Ri"; c) "Aberrant" and "Likely aberrant" classifications are now both defined as "Functionally abnormal" (analogous to ACMG/AMP reporting); d) "Allele-specific alternative splicing" classification now defined as "Function uncertain" (based on results for similar variants in PMID: 32211018); e) average heterozygosity based-criteria no longer contribute to classification.
+Citation:
+PubMed: 31275557
+Dr. Peter K. Rogan Lab, Western University
+Accession:
+SCV006577374.1
+Submitted:
+2025-10-09
+Assay description:
+In the sample (TCGA-LN-A49U), the counts of splice junction spanning reads and abundance of the transcript adjacent to this mutation were compared with RNASeq data from matched tissues and tumors lacking the same mutation using Veridical (PMID:24741438)
+Disease context:
+Malignant tumor of esophagus
+Transcript:
+NM_004577.4:c.275del
+Molecular phenotype measured:
+splicing
+Cell line:
+TCGA-LN-A49U
+Tissue:
+Esophageal Carcinoma (ESCA)
+Collection method:
+in vitro
+Species:
+human
+Number of controls:
+276
+Text-mined citations for rs139106189
+...
+Help
+These citations are identified by LitVar using
+    the rs number, so they may include citations for more than one variant
+    at this location. Please review the LitVar results carefully for your
+    variant of interest.
+Record last updated Sep 13, 2026
+This date represents the last time this VCV record was updated. The 
+                        update may be due to an update to one of the included submitted 
+                        records (SCVs), or due to an update that ClinVar made to the variant 
+                        such as adding HGVS expressions or a rs number. So this date may be 
+                        different from the date of the “most recent submission” reported at the 
+                        top of this page.
+Help
+Modify your search
+Search (all fields optional)
+Clear all
+Variant
+Gene
+Genomic Location
+GRCh38
+GRCh37
+More search options
+Disease
+Other Terms
+Advanced Search
+Clear all
+Search
+Follow NCBI
+Twitter
+Facebook
+LinkedIn
+GitHub
+Connect with NLM
+Twitter
+SM-Facebook
+SM-Youtube
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+Help
+Accessibility
+Careers
+NLM
+NIH
+HHS
+USA.gov

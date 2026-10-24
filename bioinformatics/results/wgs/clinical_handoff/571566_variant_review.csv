@@ -1,0 +1,9 @@
+Sample,Gene,Genome build,Chromosome,Position,REF,ALT,Coding variant,Protein variant,Genotype,Depth,Genotype quality,REF/ALT reads,ALT fraction,Quality result,Quality failure reasons,Quality warnings,Retained pathogenicity label,Visual review,Review note,Review updated
+571566,DNAH14,GRCh38,1,225240648,C,T,c.6574C>T,p.Gln2192Ter,0/1,34,99,"19,15",0.44118,ACCEPTED,,,Single research assertion — DNAH14,Unreviewed,,
+571566,WNT10A,GRCh38,2,218889989,C,T,NM_025216.3:c.382C>T,p.Arg128Ter,1/1,66,99,"1,65",0.98485,ACCEPTED,,,P/LP — WNT10A,Unreviewed,,
+571566,DOLK,GRCh38,9,128945903,AG,A,c.1400delC,p.Pro467fs,0/1,90,99,"47,43",0.47778,ACCEPTED,,no_independent_read_recount,Unclassified — DOLK,Unreviewed,,
+571566,VWF,GRCh38,12,6034812,C,T,NM_000552.5:c.2561G>A,p.Arg854Gln,0/1,87,99,"48,39",0.44828,ACCEPTED,,,"Pathogenic, recessive — VWF",Unreviewed,,
+571566,TRMT5,GRCh38,14,60979582,CTATT,C,c.312_315del,p.Ile105fs,0/1,78,99,"36,42",0.53846,ACCEPTED,,no_independent_read_recount,Conflicting — TRMT5,Unreviewed,,
+571566,FDXR,GRCh38,17,74863914,G,A,NM_024417.5:c.1156C>T,p.Arg386Trp,1/1,36,67,"1,35",0.97222,ACCEPTED,,,P/LP — FDXR,Unreviewed,,
+571566,CNN2,GRCh38,19,1037757,G,A,,p.Gly263Ser,0/1,70,99,"55,15",0.21429,NEEDS_REVIEW,heterozygous_balance_outside_0.25_0.75;independent_ALT_MQ40_reads_below_5,,Unreliable call — CNN2,Unreviewed,,
+571566,CNN2,GRCh38,19,1037767,G,A,,p.Arg266Gln,0/1,69,99,"56,13",0.18841,NEEDS_REVIEW,heterozygous_balance_outside_0.25_0.75;independent_ALT_MQ40_reads_below_5,,Unreliable call — CNN2,Unreviewed,,

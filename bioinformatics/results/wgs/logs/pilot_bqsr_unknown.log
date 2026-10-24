@@ -1,0 +1,66 @@
+Using GATK jar /home/ravanox/codex/bioinformatics/tools/gatk-4.7.0.0/gatk-package-4.7.0.0-local.jar
+Running:
+    java -Dsamjdk.use_async_io_read_samtools=false -Dsamjdk.use_async_io_write_samtools=true -Dsamjdk.use_async_io_write_tribble=false -Dsamjdk.compression_level=2 -Xmx1500m -XX:ParallelGCThreads=2 -jar /home/ravanox/codex/bioinformatics/tools/gatk-4.7.0.0/gatk-package-4.7.0.0-local.jar BaseRecalibrator -R data/reference/GRCh38.fna -I results/wgs/571566.markdup.bam -L CM000684.2:20000000-20100000 --default-platform UNKNOWN --known-sites data/reference/Mills_and_1000G_gold_standard.indels.hg38.matched.vcf.gz -O results/wgs/qc/pilot.recalibration.unknown_platform.table
+12:01:23.907 INFO  NativeLibraryLoader - Loading libgkl_compression.so from jar:file:/home/ravanox/codex/bioinformatics/tools/gatk-4.7.0.0/gatk-package-4.7.0.0-local.jar!/com/intel/gkl/native/libgkl_compression.so
+WARNING: A restricted method in java.lang.System has been called
+WARNING: java.lang.System::load has been called by com.intel.gkl.NativeLibraryLoader in an unnamed module (file:/home/ravanox/codex/bioinformatics/tools/gatk-4.7.0.0/gatk-package-4.7.0.0-local.jar)
+WARNING: Use --enable-native-access=ALL-UNNAMED to avoid a warning for callers in this module
+WARNING: Restricted methods will be blocked in a future release unless native access is enabled
+
+12:01:24.345 INFO  BaseRecalibrator - ------------------------------------------------------------
+12:01:24.348 INFO  BaseRecalibrator - The Genome Analysis Toolkit (GATK) v4.7.0.0
+12:01:24.348 INFO  BaseRecalibrator - For support and documentation go to https://software.broadinstitute.org/gatk/
+12:01:24.348 INFO  BaseRecalibrator - Executing as ravanox@fedora on Linux v6.19.10-300.fc44.x86_64 amd64
+12:01:24.348 INFO  BaseRecalibrator - Java runtime: OpenJDK 64-Bit Server VM v25.0.2+10
+12:01:24.348 INFO  BaseRecalibrator - Start Date/Time: October 16, 2026, 12:01:23 PM GMT+04:00
+12:01:24.349 INFO  BaseRecalibrator - ------------------------------------------------------------
+12:01:24.349 INFO  BaseRecalibrator - ------------------------------------------------------------
+12:01:24.349 INFO  BaseRecalibrator - HTSJDK Version: 5.0.0
+12:01:24.349 INFO  BaseRecalibrator - Picard Version: 3.5.0
+12:01:24.350 INFO  BaseRecalibrator - Built for Spark Version: 3.5.0
+12:01:24.350 INFO  BaseRecalibrator - HTSJDK Defaults.COMPRESSION_LEVEL : 2
+12:01:24.351 INFO  BaseRecalibrator - HTSJDK Defaults.USE_ASYNC_IO_READ_FOR_SAMTOOLS : false
+12:01:24.351 INFO  BaseRecalibrator - HTSJDK Defaults.USE_ASYNC_IO_WRITE_FOR_SAMTOOLS : true
+12:01:24.351 INFO  BaseRecalibrator - HTSJDK Defaults.USE_ASYNC_IO_WRITE_FOR_TRIBBLE : false
+12:01:24.351 INFO  BaseRecalibrator - Deflater: IntelDeflater
+12:01:24.351 INFO  BaseRecalibrator - Inflater: IntelInflater
+12:01:24.351 INFO  BaseRecalibrator - GCS max retries/reopens: 20
+12:01:24.351 INFO  BaseRecalibrator - Requester pays: disabled
+12:01:24.352 INFO  BaseRecalibrator - Initializing engine
+12:01:24.652 INFO  FeatureManager - Using codec VCFCodec to read file file:///home/ravanox/codex/bioinformatics/data/reference/Mills_and_1000G_gold_standard.indels.hg38.matched.vcf.gz
+12:01:24.809 INFO  IntervalArgumentCollection - Processing 100001 bp from intervals
+12:01:24.817 INFO  BaseRecalibrator - Done initializing engine
+12:01:24.818 WARN  BaseRecalibrator - This tool has only been well tested on ILLUMINA-based sequencing data. For other data use at your own risk.
+12:01:24.822 INFO  BaseRecalibrationEngine - The covariates being used here: 
+12:01:24.822 INFO  BaseRecalibrationEngine - 	ReadGroupCovariate
+12:01:24.822 INFO  BaseRecalibrationEngine - 	QualityScoreCovariate
+12:01:24.822 INFO  BaseRecalibrationEngine - 	ContextCovariate
+12:01:24.822 INFO  BaseRecalibrationEngine - 	CycleCovariate
+12:01:24.833 INFO  ProgressMeter - Starting traversal
+12:01:24.833 INFO  ProgressMeter -        Current Locus  Elapsed Minutes       Reads Processed     Reads/Minute
+12:01:24.964 WARN  Utils - **********************************************************************
+12:01:24.964 WARN  Utils - * WARNING:
+12:01:24.964 WARN  Utils - * 
+12:01:24.964 WARN  Utils - * The input .bam file contains reads with no platform information.
+12:01:24.965 WARN  Utils - * Defaulting to platform = UNKNOWN. First observed at read with name
+12:01:24.965 WARN  Utils - * = AE01240701003:9:4P251214064US293244A2:L00:R022C021:0076:4110
+12:01:24.965 WARN  Utils - **********************************************************************
+12:01:25.369 INFO  BaseRecalibrator - 5 read(s) filtered by: MappingQualityNotZeroReadFilter 
+0 read(s) filtered by: MappingQualityAvailableReadFilter 
+0 read(s) filtered by: MappedReadFilter 
+0 read(s) filtered by: NotSecondaryAlignmentReadFilter 
+1094 read(s) filtered by: NotDuplicateReadFilter 
+0 read(s) filtered by: PassesVendorQualityCheckReadFilter 
+0 read(s) filtered by: WellformedReadFilter 
+1099 total reads filtered out of 4161 reads processed
+12:01:25.371 INFO  ProgressMeter -  CM000684.2:20094620              0.0                  3062         342122.9
+12:01:25.371 INFO  ProgressMeter - Traversal complete. Processed 3062 total reads in 0.0 minutes.
+12:01:25.374 INFO  BaseRecalibrator - Calculating quantized quality scores...
+12:01:25.391 INFO  BaseRecalibrator - Writing recalibration report...
+12:01:25.890 INFO  BaseRecalibrator - ...done!
+12:01:25.892 INFO  BaseRecalibrator - BaseRecalibrator was able to recalibrate 3062 reads
+12:01:25.892 INFO  BaseRecalibrator - Shutting down engine
+[October 16, 2026, 12:01:25 PM GMT+04:00] org.broadinstitute.hellbender.tools.walkers.bqsr.BaseRecalibrator done. Elapsed time: 0.04 minutes.
+Runtime.totalMemory()=120586240
+Tool returned:
+SUCCESS

@@ -1,0 +1,6 @@
+{
+  "measured_genes": 19229,
+  "genes_ge90percent_at20x": 17055,
+  "genes_below90percent_at20x": 2174,
+  "genes_with_zero_at20x": 1004
+}

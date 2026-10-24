@@ -1,0 +1,30 @@
+{
+  "counts": {
+    "total": 97174,
+    "NEEDS_REVIEW": 40645,
+    "original_PASS": 73378,
+    "original_PASS_now_review": 16849,
+    "ACCEPTED": 56529
+  },
+  "failure_reason_counts_nonexclusive": {
+    "original_filter:SNPQuality;LowGenotypeSupport": 2919,
+    "DP_below_20": 35750,
+    "GQ_below_30": 12728,
+    "MQ_below_40": 3149,
+    "original_filter:SNPQuality": 4619,
+    "original_filter:LowGenotypeSupport": 15909,
+    "ALT_reads_below_5": 14602,
+    "SOR_above_3": 4383,
+    "heterozygous_balance_outside_0.25_0.75": 5438,
+    "homozygous_or_haploid_ALT_fraction_below_0.90": 125,
+    "QD_below_2": 745,
+    "original_filter:IndelQuality": 349,
+    "unsupported_or_placeholder_allele": 110,
+    "FS_above_60": 1,
+    "independent_ALT_MQ40_reads_below_5": 2,
+    "missing_or_invalid_AD": 2
+  },
+  "independent_read_check_loci": 7,
+  "source_sha256": "93191469fef5822cfb44e214f14b0afbe6876cb7a4aa6c99727e5460d6ed18d5",
+  "script_sha256": "45b5ee1b596c74e10a6011834d4b96db19bc2ac66c4e6868f9a26e4415051ae7"
+}

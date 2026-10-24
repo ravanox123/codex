@@ -1,0 +1,676 @@
+VCV000464181.17 - ClinVar - NCBI
+An official website of the United States government
+Here's how you know
+Here's how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official
+                            government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you've safely
+                                connected to the .gov website. Share sensitive
+                                information only on official, secure websites.
+Log in
+Dashboard
+Publications
+Account settings
+Log out
+Primary site navigation
+Logged in as:
+Dashboard
+Publications
+Account settings
+Log in
+ClinVar Home
+About
+About ClinVar
+Statistics
+List of submitters
+Map of submitters
+Website overview
+FAQ
+Understand the Data
+Data authorities
+Preferred names
+Classification
+Review status and assertion criteria
+HGVS expressions
+Data validation
+Accessions and identifiers
+Release cycle
+Access the Data
+Web access
+How to search ClinVar
+VCV (variant) pages
+RCV (variant-condition) pages
+Downloads
+Programmatic access
+Linking to ClinVar
+Submit Data
+Submission overview
+Get started
+Submission instructions
+Expert panels and practice guidelines
+On this page
+Classification Summary
+Variant Details
+Genes
+Germline
+Conditions
+Submissions
+Citations
+Text-mined Citations
+NM_025216.3(WNT10A):c.382C>T (p.Arg128Ter)
+Cite
+Following
+Follow
+⚠
+Print
+Download
+Cite this record
+Close
+National Center for Biotechnology Information. ClinVar; [VCV000464181.17], https://www.ncbi.nlm.nih.gov/clinvar/variation/VCV000464181.17 (accessed Oct. 20, 2026).
+Copy
+Germline
+Classification
+Help
+criteria provided, multiple submitters, no conflicts.
+Learn more about how ClinVar calculates review status.
+Pathogenic/Likely pathogenic
+Pathogenic (6); Likely pathogenic (1)
+7 out of 7
+submissions contributed to this classification
+Help
+The aggregate germline classification for this variant, typically for a monogenic or Mendelian disorder as in
+the ACMG/AMP guidelines
+, or for response to a drug. This value is calculated by NCBI based on data from submitters.
+Read our rules for calculating the aggregate classification
+.
+7
+Somatic
+No data submitted for somatic clinical impact
+Somatic
+No data submitted for oncogenicity
+Variant Details
+Identifiers
+NM_025216.3(WNT10A):c.382C>T (p.Arg128Ter)
+Variation ID: 464181
+Accession: VCV000464181.17
+Type and length
+single nucleotide variant,
+1 bp
+Location
+Cytogenetic:
+2q35
+2:
+            
+            218889989
+(GRCh38)
+[
+NCBI
+UCSC
+]
+2:
+            
+            219754711
+(GRCh37)
+[
+NCBI
+UCSC
+]
+Timeline in ClinVar
+First in ClinVar
+Help
+The date this variant first appeared in ClinVar with each type of classification.
+Last submission
+Help
+The date of the most recent submission for each type of classification for this variant.
+Last evaluated
+Help
+The most recent date that a submitter evaluated this variant for each type of classification.
+Germline
+Oct 10, 2018
+Oct 3, 2026
+Jul 30, 2026
+HGVS
+Nucleotide
+Protein
+Molecular
+consequence
+NM_025216.3:c.382C>T
+MANE Select
+Help
+Transcripts from the Matched Annotation from the NCBI and EMBL-EBI (
+MANE
+) collaboration.
+NP_079492.2:p.Arg128Ter
+nonsense
+NC_000002.12:g.218889989C>T
+NC_000002.11:g.219754711C>T
+NG_012179.1:g.14457C>T
+Protein change
+R128*
+Other names
+-
+Canonical SPDI
+NC_000002.12:218889988:C:T
+Global minor allele
+frequency (GMAF)
+Help
+The global minor allele frequency calculated by the 1000 Genomes Project. The minor allele at this location is indicated in parentheses and may be different from the allele represented by this VCV record.
+-
+Allele frequency
+Help
+The frequency of the allele represented by this VCV record.
+Exome Aggregation Consortium (ExAC) 0.00002
+The Genome Aggregation Database (gnomAD), exomes 0.00002
+Trans-Omics for Precision Medicine (TOPMed) 0.00002
+Links
+dbSNP: rs762739726
+ClinGen: CA2113906
+VarSome
+Genes
+Gene
+OMIM
+ClinGen Gene Dosage Sensitivity Curation
+Variation Viewer
+Help
+Links to Variation Viewer, a genome browser to view variation data from NCBI databases.
+Related variants
+HI score
+Help
+The haploinsufficiency score for the gene, curated by ClinGen’s Dosage Sensitivity Curation task team.
+TS score
+Help
+The triplosensitivity score for the gene, curated by ClinGen’s Dosage Sensitivity Curation task team.
+Within gene
+Help
+The number of variants in ClinVar that are contained within this gene, with a link to view the list of variants.
+All
+Help
+The number of variants in ClinVar for this gene, including smaller variants within the gene and larger CNVs that overlap or fully contain the gene.
+WNT10A
+-
+-
+GRCh38
+GRCh37
+625
+669
+Conditions - Germline
+Condition
+Help
+The condition for this variant-condition (RCV) record in ClinVar.
+Classification
+Help
+The aggregate germline classification for this variant-condition (RCV) record in ClinVar. The number of submissions that contribute to this aggregate classification is shown in parentheses.
+(# of submissions)
+Review status
+Help
+The aggregate review status for this variant-condition (RCV) record in ClinVar. This value is calculated by NCBI based on data from submitters.
+Read our rules for calculating the review status
+.
+Last evaluated
+Help
+The most recent date that a submitter evaluated this variant for the condition.
+Variation/condition record
+Help
+The RCV accession number, with most recent version number, for the variant-condition record, with a link to the RCV web page.
+Odonto-onycho-dermal dysplasia
+Tooth agenesis, selective, 4
+Pathogenic (1)
+criteria provided, single submitter
+May 7, 2024
+RCV000551493.11
+not provided
+Pathogenic (1)
+criteria provided, single submitter
+Jul 31, 2025
+RCV000760328.4
+Odonto-onycho-dermal dysplasia
+Schöpf-Schulz-Passarge syndrome
+Tooth agenesis, selective, 4
+Likely pathogenic (1)
+criteria provided, single submitter
+Oct 31, 2018
+RCV000763071.2
+Schöpf-Schulz-Passarge syndrome
+Pathogenic (1)
+criteria provided, single submitter
+Mar 6, 2025
+RCV001829582.2
+Ectodermal dysplasia
+Pathogenic (1)
+criteria provided, single submitter
+May 28, 2026
+RCV006738254.1
+WNT10A-related disorder
+Pathogenic (2)
+criteria provided, multiple submitters, no conflicts
+Jul 30, 2026
+RCV006945248.2
+Submissions - Germline
+Classification
+Help
+The submitted germline classification for each SCV record.
+(Last evaluated)
+Review status
+Help
+Stars represent the review status, or the level of review supporting the submitted (SCV) record. This value is calculated by NCBI based on data from the submitter.
+Read our rules for calculating the review status
+. This column also includes a link to the submitter’s assertion criteria if provided, and the collection method.
+(Assertion criteria)
+Condition
+Help
+The condition for the classification, provided by the submitter for this submitted (SCV) record. This column also includes the affected status and allele origin of individuals observed with this variant.
+Submitter
+Help
+The submitting organization for this submitted (SCV) record. This column also includes the SCV accession and version number, the date this SCV first appeared in ClinVar, and the date that this SCV was last updated in ClinVar.
+Expand all rows
+Collapse all rows
+Help
+This column includes more information supporting the classification, including citations, the comment on classification, and detailed evidence provided as observations of the variant by the submitter.
+Likely pathogenic
+(Oct 31, 2018)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+Tooth agenesis, selective, 4
+Schöpf-Schulz-Passarge syndrome
+Odonto-onycho-dermal dysplasia
+Fulgent Genetics, Fulgent Genetics
+Accession: SCV000893581.1
+First in ClinVar: Mar 31, 2019
+Last updated: Mar 31, 2019
+Publications:
+PubMed (1)
+PubMed:
+25741868
+DOI: 10.1038/gim.2015.30
+DOI: 10.1038/gim.2015.30
+pmc: 4544753
+pmc: 4544753
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+unknown
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+unknown
+Affected status
+:
+unknown
+Pathogenic
+(Jul 31, 2025)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+GeneDx Variant Classification Process June 2021
+)
+not provided
+GeneDx
+Accession: SCV000890184.4
+First in ClinVar: Mar 19, 2019
+Last updated: Aug 23, 2025
+Comment
+:
+show
+Observed with a second pathogenic variant in the WNT10A gene in patients with features of WNT10A-related echodetermal dysplasia in published literature however phase of the variants was not specified in these reports (PMID: 20163410, 23167694) (PMID: 20163410, 23167694, 31468502); Nonsense variant predicted to result in protein truncation or nonsense mediated decay in a gene for which loss of function is a known mechanism of disease; Not observed at significant frequency in large population cohorts (gnomAD); This variant is associated with the following publications: (PMID: 25525159, 23167694, 30569517, 20163410, 31468502)
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Pathogenic
+(May 07, 2024)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+Invitae Variant Classification Sherloc (09022015)
+)
+Tooth agenesis, selective, 4
+Odonto-onycho-dermal dysplasia
+Explanation for multiple conditions: Uncertain.
+The variant was classified for several related diseases, possibly a spectrum of disease; the variant may be associated with one or more the diseases.
+Labcorp Genetics (formerly Invitae), Labcorp
+Accession: SCV000638466.10
+First in ClinVar: Dec 26, 2017
+Last updated: Feb 23, 2026
+Publications:
+PubMed (6)
+PubMed:
+17847007
+‚
+20163410
+‚
+22581971
+‚
+23167694
+‚
+25629078
+‚
+28492532
+Comment
+:
+show
+This sequence change creates a premature translational stop signal (p.Arg128*) in the WNT10A gene. It is expected to result in an absent or disrupted protein product. Loss-of-function variants in WNT10A are known to be pathogenic (PMID: 17847007, 22581971, 25629078). This variant is present in population databases (rs762739726, gnomAD 0.004%). This premature translational stop signal has been observed in individual(s) with odonto-onycho-dermal dysplasia or non-syndromic tooth agenesis (PMID: 20163410, 23167694). ClinVar contains an entry for this variant (Variation ID: 464181). For these reasons, this variant has been classified as Pathogenic.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Pathogenic
+(Mar 06, 2025)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+Natera Variant Classification Schema (03/2026)
+)
+Schopf-Schulz-Passarge syndrome
+Natera, Inc.
+Accession: SCV002078820.2
+First in ClinVar: Feb 13, 2022
+Last updated: Apr 04, 2026
+Publications:
+PubMed (1)
+PubMed:
+20163410
+Comment
+:
+show
+The c.382C>T variant in WNT10A is a nonsense variant predicted to introduce a stop codon at amino acid 128. This variant is expected to result in nonsense mediated decay, truncation, or a dysfunctional protein product. This variant is rare in the general population with a frequency below the threshold expected for the associated phenotype(s). This variant has been observed in one or more individuals affected with the associated recessive disease, as either homozygous or compound heterozygous with a second variant (PMID: 20163410). Given the available evidence, this variant is classified as Pathogenic.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Pathogenic
+(May 28, 2026)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACGS Best Practice Guidelines for Variant Classification in Rare Disease 2024 v1.2
+)
+Ectodermal dysplasia
+Genetics Laboratory, Great Ormond Street Hospital NHS Foundation Trust, North Thames Genomic Laboratory Hub
+Accession: SCV007651175.1
+First in ClinVar: Aug 04, 2026
+Last updated: Aug 04, 2026
+Comment
+:
+show
+PM2_moderate, PVS1_very-strong, PM3_moderate
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Pathogenic
+(Apr 11, 2022)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+WNT10A-related disorders
+Blueprint Genetics
+Accession: SCV007920795.1
+First in ClinVar: Sep 22, 2026
+Last updated: Sep 22, 2026
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+more
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Number of individuals with the variant
+:
+5
+Test name
+:
+Ectodermal Dysplasia Panel, Whole Exome
+Pathogenic
+(Jul 30, 2026)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+WNT10A-related condition
+PreventionGenetics, part of Exact Sciences
+Accession: SCV008027073.1
+First in ClinVar: Oct 03, 2026
+Last updated: Oct 03, 2026
+Comment
+:
+show
+The WNT10A c.382C>T variant is predicted to result in premature protein termination (p.Arg128*). This variant has been reported in individuals with WNT10-related disorders (van Geel et al. 2010. PubMed ID: 20163410; Mostowska et al. 2012. PubMed ID: 23167694). This variant is reported in 0.0035% of alleles in individuals of European (Non-Finnish) descent in gnomAD. Nonsense variants in WNT10A are expected to be pathogenic. This variant is interpreted as pathogenic.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Comment:
+Observed with a second pathogenic variant in the WNT10A gene in patients with features of WNT10A-related echodetermal dysplasia in published literature however phase of the variants was not specified in these reports (PMID: 20163410, 23167694) (PMID: 20163410, 23167694, 31468502); Nonsense variant predicted to result in protein truncation or nonsense mediated decay in a gene for which loss of function is a known mechanism of disease; Not observed at significant frequency in large population cohorts (gnomAD); This variant is associated with the following publications: (PMID: 25525159, 23167694, 30569517, 20163410, 31468502)
+OK
+Comment:
+This sequence change creates a premature translational stop signal (p.Arg128*) in the WNT10A gene. It is expected to result in an absent or disrupted protein product. Loss-of-function variants in WNT10A are known to be pathogenic (PMID: 17847007, 22581971, 25629078). This variant is present in population databases (rs762739726, gnomAD 0.004%). This premature translational stop signal has been observed in individual(s) with odonto-onycho-dermal dysplasia or non-syndromic tooth agenesis (PMID: 20163410, 23167694). ClinVar contains an entry for this variant (Variation ID: 464181). For these reasons, this variant has been classified as Pathogenic.
+OK
+Comment:
+The c.382C>T variant in WNT10A is a nonsense variant predicted to introduce a stop codon at amino acid 128. This variant is expected to result in nonsense mediated decay, truncation, or a dysfunctional protein product. This variant is rare in the general population with a frequency below the threshold expected for the associated phenotype(s). This variant has been observed in one or more individuals affected with the associated recessive disease, as either homozygous or compound heterozygous with a second variant (PMID: 20163410). Given the available evidence, this variant is classified as Pathogenic.
+OK
+Comment:
+PM2_moderate, PVS1_very-strong, PM3_moderate
+OK
+Comment:
+The WNT10A c.382C>T variant is predicted to result in premature protein termination (p.Arg128*). This variant has been reported in individuals with WNT10-related disorders (van Geel et al. 2010. PubMed ID: 20163410; Mostowska et al. 2012. PubMed ID: 23167694). This variant is reported in 0.0035% of alleles in individuals of European (Non-Finnish) descent in gnomAD. Nonsense variants in WNT10A are expected to be pathogenic. This variant is interpreted as pathogenic.
+OK
+Citations for germline classification of this variant
+Help
+Title
+Author
+Journal
+Year
+Link
+Taurodontism, variations in tooth number, and misshapened crowns in Wnt10a null mice and human kindreds.
+Yang J
+Molecular genetics & genomic medicine
+2015
+PMID:
+25629078
+Nucleotide variants of genes encoding components of the Wnt signalling pathway and the risk of non-syndromic tooth agenesis.
+Mostowska A
+Clinical genetics
+2013
+PMID:
+23167694
+Mutations in WNT10A are present in more than half of isolated hypodontia cases.
+van den Boogaard MJ
+Journal of medical genetics
+2012
+PMID:
+22581971
+Phenotypic variability associated with WNT10A nonsense mutations.
+Van Geel M
+The British journal of dermatology
+2010
+PMID:
+20163410
+Mutation in WNT10A is associated with an autosomal recessive ectodermal dysplasia: the odonto-onycho-dermal dysplasia.
+Adaimy L
+American journal of human genetics
+2007
+PMID:
+17847007
+Text-mined citations for rs762739726
+...
+Help
+These citations are identified by LitVar using
+    the rs number, so they may include citations for more than one variant
+    at this location. Please review the LitVar results carefully for your
+    variant of interest.
+Record last updated Oct 04, 2026
+This date represents the last time this VCV record was updated. The 
+                        update may be due to an update to one of the included submitted 
+                        records (SCVs), or due to an update that ClinVar made to the variant 
+                        such as adding HGVS expressions or a rs number. So this date may be 
+                        different from the date of the “most recent submission” reported at the 
+                        top of this page.
+Help
+Modify your search
+Search (all fields optional)
+Clear all
+Variant
+Gene
+Genomic Location
+GRCh38
+GRCh37
+More search options
+Disease
+Other Terms
+Advanced Search
+Clear all
+Search
+Follow NCBI
+Twitter
+Facebook
+LinkedIn
+GitHub
+Connect with NLM
+Twitter
+SM-Facebook
+SM-Youtube
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+Help
+Accessibility
+Careers
+NLM
+NIH
+HHS
+USA.gov

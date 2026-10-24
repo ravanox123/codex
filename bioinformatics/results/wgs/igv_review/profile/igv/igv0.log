@@ -1,0 +1,124 @@
+INFO [Oct 20,2026 10:50] [Main] Startup  IGV Version 2.19.8 06/05/2026 12:24 PM
+INFO [Oct 20,2026 10:50] [Main] Java 25.0.2 (build 25.0.2+10) 2026-01-20
+INFO [Oct 20,2026 10:50] [Main] Java Vendor: Red Hat, Inc. https://www.redhat.com/
+INFO [Oct 20,2026 10:50] [Main] JVM: OpenJDK 64-Bit Server VM (Red_Hat-25.0.2.0.10-2)   
+INFO [Oct 20,2026 10:50] [Main] OS: Linux 6.19.10-300.fc44.x86_64 amd64
+INFO [Oct 20,2026 10:50] [Main] IGV Directory: /home/ravanox/codex/bioinformatics/results/wgs/igv_review/profile/igv
+SEVERE [Oct 20,2026 10:50] [DefaultExceptionHandler] Unhandled exception
+SEVERE [Oct 20,2026 10:50] [DefaultExceptionHandler] java.awt.HeadlessException: 
+No X11 DISPLAY variable was set,
+or no headful library support was found,
+but this program performed an operation which requires it.
+	at java.desktop/java.awt.GraphicsEnvironment.checkHeadless(GraphicsEnvironment.java:158)
+	at java.desktop/java.awt.Window.<init>(Window.java:518)
+	at java.desktop/java.awt.Frame.<init>(Frame.java:428)
+	at java.desktop/java.awt.Frame.<init>(Frame.java:393)
+	at java.desktop/javax.swing.JFrame.<init>(JFrame.java:180)
+	at org.igv/org.broad.igv.ui.Main.lambda$main$0(Main.java:110)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:323)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:723)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:702)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+INFO [Oct 20,2026 10:50] [Main] Startup  IGV Version 2.19.8 06/05/2026 12:24 PM
+INFO [Oct 20,2026 10:50] [Main] Java 25.0.2 (build 25.0.2+10) 2026-01-20
+INFO [Oct 20,2026 10:50] [Main] Java Vendor: Red Hat, Inc. https://www.redhat.com/
+INFO [Oct 20,2026 10:50] [Main] JVM: OpenJDK 64-Bit Server VM (Red_Hat-25.0.2.0.10-2)   
+INFO [Oct 20,2026 10:50] [Main] OS: Linux 6.19.10-300.fc44.x86_64 amd64
+INFO [Oct 20,2026 10:50] [Main] IGV Directory: /home/ravanox/codex/bioinformatics/results/wgs/igv_review/profile/igv
+SEVERE [Oct 20,2026 10:50] [DefaultExceptionHandler] Unhandled exception
+SEVERE [Oct 20,2026 10:50] [DefaultExceptionHandler] java.awt.HeadlessException: 
+No X11 DISPLAY variable was set,
+or no headful library support was found,
+but this program performed an operation which requires it.
+	at java.desktop/java.awt.GraphicsEnvironment.checkHeadless(GraphicsEnvironment.java:158)
+	at java.desktop/java.awt.Window.<init>(Window.java:518)
+	at java.desktop/java.awt.Frame.<init>(Frame.java:428)
+	at java.desktop/java.awt.Frame.<init>(Frame.java:393)
+	at java.desktop/javax.swing.JFrame.<init>(JFrame.java:180)
+	at org.igv/org.broad.igv.ui.Main.lambda$main$0(Main.java:110)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:323)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:723)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:702)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+INFO [Oct 20,2026 10:50] [Main] Startup  IGV Version 2.19.8 06/05/2026 12:24 PM
+INFO [Oct 20,2026 10:50] [Main] Java 25.0.2 (build 25.0.2+10) 2026-01-20
+INFO [Oct 20,2026 10:50] [Main] Java Vendor: Red Hat, Inc. https://www.redhat.com/
+INFO [Oct 20,2026 10:50] [Main] JVM: OpenJDK 64-Bit Server VM (Red_Hat-25.0.2.0.10-2)   
+INFO [Oct 20,2026 10:50] [Main] OS: Linux 6.19.10-300.fc44.x86_64 amd64
+INFO [Oct 20,2026 10:50] [Main] IGV Directory: /home/ravanox/codex/bioinformatics/results/wgs/igv_review/profile/igv
+SEVERE [Oct 20,2026 10:50] [DefaultExceptionHandler] Unhandled exception
+SEVERE [Oct 20,2026 10:50] [DefaultExceptionHandler] java.awt.HeadlessException: 
+No X11 DISPLAY variable was set,
+or no headful library support was found,
+but this program performed an operation which requires it.
+	at java.desktop/java.awt.GraphicsEnvironment.checkHeadless(GraphicsEnvironment.java:158)
+	at java.desktop/java.awt.Window.<init>(Window.java:518)
+	at java.desktop/java.awt.Frame.<init>(Frame.java:428)
+	at java.desktop/java.awt.Frame.<init>(Frame.java:393)
+	at java.desktop/javax.swing.JFrame.<init>(JFrame.java:180)
+	at org.igv/org.broad.igv.ui.Main.lambda$main$0(Main.java:110)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:323)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:723)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:702)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+INFO [Oct 20,2026 10:52] [Main] Startup  IGV Version 2.19.8 06/05/2026 12:24 PM
+INFO [Oct 20,2026 10:52] [Main] Java 21.0.4 (build 21.0.4+7-LTS) 2024-07-16
+INFO [Oct 20,2026 10:52] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Oct 20,2026 10:52] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-21.0.4+7   
+INFO [Oct 20,2026 10:52] [Main] OS: Linux 6.19.10-300.fc44.x86_64 amd64
+INFO [Oct 20,2026 10:52] [Main] IGV Directory: /home/ravanox/codex/bioinformatics/results/wgs/igv_review/profile/igv
+INFO [Oct 20,2026 10:52] [OAuthUtils] Loading Google oAuth properties
+INFO [Oct 20,2026 10:52] [CommandListener] Listening on port 55929
+INFO [Oct 20,2026 10:52] [CommandListener] goto CM000679.2:74863814-74864014
+SEVERE [Oct 20,2026 10:52] [DefaultExceptionHandler] Unhandled exception
+SEVERE [Oct 20,2026 10:52] [DefaultExceptionHandler] java.lang.NullPointerException: Cannot invoke "org.broad.igv.feature.genome.Genome.getHomeChromosome()" because the return value of "org.broad.igv.feature.genome.GenomeManager.getCurrentGenome()" is null
+	at org.igv/org.broad.igv.ui.commandbar.IGVCommandBar.searchByLocus(IGVCommandBar.java:295)
+	at org.igv/org.broad.igv.ui.IGV.goToLocus(IGV.java:1099)
+	at org.igv/org.broad.igv.batch.CommandExecutor.goto1(CommandExecutor.java:1009)
+	at org.igv/org.broad.igv.batch.CommandExecutor.execute(CommandExecutor.java:120)
+	at org.igv/org.broad.igv.batch.CommandListener.lambda$processClientSession$0(CommandListener.java:269)
+	at org.igv/org.broad.igv.ui.util.UIUtilities.invokeAndWaitOnEventThread(UIUtilities.java:164)
+	at org.igv/org.broad.igv.batch.CommandListener.processClientSession(CommandListener.java:268)
+	at org.igv/org.broad.igv.batch.CommandListener.run(CommandListener.java:140)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+INFO [Oct 20,2026 10:52] [GenomeManager] Loading genome: /home/ravanox/codex/bioinformatics/data/reference/GRCh38.fna
+INFO [Oct 20,2026 10:52] [TrackLoader] Loading resource:  /home/ravanox/codex/bioinformatics/results/wgs/571566.recal.bam
+INFO [Oct 20,2026 10:52] [TrackLoader] Loading resource:  /home/ravanox/codex/bioinformatics/results/wgs/quality_review/571566.quality_accepted.vcf.gz
+INFO [Oct 20,2026 10:52] [TrackLoader] Loading resource:  /home/ravanox/codex/bioinformatics/results/wgs/quality_review/571566.needs_quality_review.vcf.gz
+INFO [Oct 20,2026 10:52] [TrackLoader] Loading resource:  /home/ravanox/codex/bioinformatics/results/wgs/igv_review/review_sites.bed
+INFO [Oct 20,2026 11:36] [ShutdownThread] Shutting down
+INFO [Oct 20,2026 11:36] [Main] Startup  IGV Version 2.19.8 06/05/2026 12:24 PM
+INFO [Oct 20,2026 11:36] [Main] Java 21.0.4 (build 21.0.4+7-LTS) 2024-07-16
+INFO [Oct 20,2026 11:36] [Main] Java Vendor: Eclipse Adoptium https://adoptium.net/
+INFO [Oct 20,2026 11:36] [Main] JVM: OpenJDK 64-Bit Server VM Temurin-21.0.4+7   
+INFO [Oct 20,2026 11:36] [Main] OS: Linux 6.19.10-300.fc44.x86_64 amd64
+INFO [Oct 20,2026 11:36] [Main] IGV Directory: /home/ravanox/codex/bioinformatics/results/wgs/igv_review/profile/igv
+INFO [Oct 20,2026 11:36] [OAuthUtils] Loading Google oAuth properties
+INFO [Oct 20,2026 11:36] [CommandListener] Listening on port 46285
+INFO [Oct 20,2026 11:37] [GenomeManager] Loading genome: /home/ravanox/codex/bioinformatics/data/reference/GRCh38.fna
+INFO [Oct 20,2026 11:37] [TrackLoader] Loading resource:  /home/ravanox/codex/bioinformatics/results/wgs/571566.recal.bam
+INFO [Oct 20,2026 11:37] [TrackLoader] Loading resource:  /home/ravanox/codex/bioinformatics/results/wgs/quality_review/571566.quality_accepted.vcf.gz
+INFO [Oct 20,2026 11:37] [TrackLoader] Loading resource:  /home/ravanox/codex/bioinformatics/results/wgs/quality_review/571566.needs_quality_review.vcf.gz
+INFO [Oct 20,2026 11:37] [TrackLoader] Loading resource:  /home/ravanox/codex/bioinformatics/results/wgs/igv_review/review_sites.bed
+INFO [Oct 20,2026 11:37] [CommandListener] goto CM000679.2:74863814-74864014
+INFO [Oct 20,2026 11:37] [CommandListener] snapshotDirectory /home/ravanox/codex/bioinformatics/results/wgs/igv_review
+INFO [Oct 20,2026 11:37] [CommandListener] snapshot FDXR-read-review.png

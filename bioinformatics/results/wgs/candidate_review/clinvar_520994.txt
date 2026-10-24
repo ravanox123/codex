@@ -1,0 +1,894 @@
+VCV000520994.17 - ClinVar - NCBI
+An official website of the United States government
+Here's how you know
+Here's how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official
+                            government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you've safely
+                                connected to the .gov website. Share sensitive
+                                information only on official, secure websites.
+Log in
+Dashboard
+Publications
+Account settings
+Log out
+Primary site navigation
+Logged in as:
+Dashboard
+Publications
+Account settings
+Log in
+ClinVar Home
+About
+About ClinVar
+Statistics
+List of submitters
+Map of submitters
+Website overview
+FAQ
+Understand the Data
+Data authorities
+Preferred names
+Classification
+Review status and assertion criteria
+HGVS expressions
+Data validation
+Accessions and identifiers
+Release cycle
+Access the Data
+Web access
+How to search ClinVar
+VCV (variant) pages
+RCV (variant-condition) pages
+Downloads
+Programmatic access
+Linking to ClinVar
+Submit Data
+Submission overview
+Get started
+Submission instructions
+Expert panels and practice guidelines
+On this page
+Classification Summary
+Variant Details
+Genes
+Germline
+Conditions
+Submissions
+Citations
+Text-mined Citations
+NM_024417.5(FDXR):c.1156C>T (p.Arg386Trp)
+Cite
+Following
+Follow
+⚠
+Print
+Download
+Cite this record
+Close
+National Center for Biotechnology Information. ClinVar; [VCV000520994.17], https://www.ncbi.nlm.nih.gov/clinvar/variation/VCV000520994.17 (accessed Oct. 20, 2026).
+Copy
+Germline
+Classification
+Help
+criteria provided, multiple submitters, no conflicts.
+Learn more about how ClinVar calculates review status.
+Pathogenic/Likely pathogenic
+Pathogenic (8); Likely pathogenic (3)
+11 out of 12
+submissions contributed to this classification
+Help
+The aggregate germline classification for this variant, typically for a monogenic or Mendelian disorder as in
+the ACMG/AMP guidelines
+, or for response to a drug. This value is calculated by NCBI based on data from submitters.
+Read our rules for calculating the aggregate classification
+.
+12
+Somatic
+No data submitted for somatic clinical impact
+Somatic
+No data submitted for oncogenicity
+Variant Details
+Identifiers
+NM_024417.5(FDXR):c.1156C>T (p.Arg386Trp)
+Variation ID: 520994
+Accession: VCV000520994.17
+Type and length
+single nucleotide variant,
+1 bp
+Location
+Cytogenetic:
+17q25.1
+17:
+            
+            74863914
+(GRCh38)
+[
+NCBI
+UCSC
+]
+17:
+            
+            72860036
+(GRCh37)
+[
+NCBI
+UCSC
+]
+Timeline in ClinVar
+First in ClinVar
+Help
+The date this variant first appeared in ClinVar with each type of classification.
+Last submission
+Help
+The date of the most recent submission for each type of classification for this variant.
+Last evaluated
+Help
+The most recent date that a submitter evaluated this variant for each type of classification.
+Germline
+Apr 15, 2018
+Oct 3, 2026
+Dec 17, 2025
+HGVS
+Nucleotide
+Protein
+Molecular
+consequence
+NM_024417.5:c.1156C>T
+MANE Select
+Help
+Transcripts from the Matched Annotation from the NCBI and EMBL-EBI (
+MANE
+) collaboration.
+NP_077728.3:p.Arg386Trp
+missense
+NM_001258012.3:c.1285C>T
+NM_001258012.4:c.1285C>T
+NP_001244941.2:p.Arg429Trp
+missense
+NM_001258013.4:c.1249C>T
+NP_001244942.2:p.Arg417Trp
+missense
+NM_001258014.4:c.1132C>T
+NP_001244943.2:p.Arg378Trp
+missense
+NM_001258015.3:c.1036C>T
+NP_001244944.1:p.Arg346Trp
+missense
+NM_001258016.3:c.1000C>T
+NP_001244945.2:p.Arg334Trp
+missense
+NM_004110.6:c.1174C>T
+NP_004101.3:p.Arg392Trp
+missense
+NR_047576.3:n.1306C>T
+non-coding transcript variant
+NC_000017.11:g.74863914G>A
+NC_000017.10:g.72860036G>A
+...
+            more HGVS
+... less HGVS
+Protein change
+R392W, 
+        
+          R386W, 
+        
+          R417W, 
+        
+          R334W, 
+        
+          R346W, 
+        
+          R378W, 
+        
+          R429W
+Other names
+-
+Canonical SPDI
+NC_000017.11:74863913:G:A
+Global minor allele
+frequency (GMAF)
+Help
+The global minor allele frequency calculated by the 1000 Genomes Project. The minor allele at this location is indicated in parentheses and may be different from the allele represented by this VCV record.
+-
+Allele frequency
+Help
+The frequency of the allele represented by this VCV record.
+The Genome Aggregation Database (gnomAD) 0.00002
+Trans-Omics for Precision Medicine (TOPMed) 0.00007
+Links
+ClinGen: CA8752905
+OMIM: 103270.0005
+dbSNP: rs760345680
+VarSome
+Genes
+Gene
+OMIM
+ClinGen Gene Dosage Sensitivity Curation
+Variation Viewer
+Help
+Links to Variation Viewer, a genome browser to view variation data from NCBI databases.
+Related variants
+HI score
+Help
+The haploinsufficiency score for the gene, curated by ClinGen’s Dosage Sensitivity Curation task team.
+TS score
+Help
+The triplosensitivity score for the gene, curated by ClinGen’s Dosage Sensitivity Curation task team.
+Within gene
+Help
+The number of variants in ClinVar that are contained within this gene, with a link to view the list of variants.
+All
+Help
+The number of variants in ClinVar for this gene, including smaller variants within the gene and larger CNVs that overlap or fully contain the gene.
+FDXR
+-
+-
+GRCh38
+GRCh37
+312
+343
+Conditions - Germline
+Condition
+Help
+The condition for this variant-condition (RCV) record in ClinVar.
+Classification
+Help
+The aggregate germline classification for this variant-condition (RCV) record in ClinVar. The number of submissions that contribute to this aggregate classification is shown in parentheses.
+(# of submissions)
+Review status
+Help
+The aggregate review status for this variant-condition (RCV) record in ClinVar. This value is calculated by NCBI based on data from submitters.
+Read our rules for calculating the review status
+.
+Last evaluated
+Help
+The most recent date that a submitter evaluated this variant for the condition.
+Variation/condition record
+Help
+The RCV accession number, with most recent version number, for the variant-condition record, with a link to the RCV web page.
+Inborn genetic diseases
+Pathogenic (1)
+criteria provided, single submitter
+Jul 21, 2025
+RCV000623158.5
+Auditory neuropathy-optic atrophy syndrome
+Pathogenic/Likely pathogenic (4)
+criteria provided, multiple submitters, no conflicts
+Dec 13, 2023
+RCV002470935.5
+FDXR-related disorder
+Pathogenic/Likely pathogenic (4)
+criteria provided, multiple submitters, no conflicts
+Dec 17, 2025
+RCV003411472.8
+Multiple mitochondrial dysfunctions syndrome 9b
+Likely pathogenic (2)
+criteria provided, single submitter
+Dec 17, 2025
+RCV004595518.2
+FDXR-related mitochondrial disorder
+Pathogenic (1)
+criteria provided, single submitter
+Jan 31, 2025
+RCV006636248.1
+Submissions - Germline
+Classification
+Help
+The submitted germline classification for each SCV record.
+(Last evaluated)
+Review status
+Help
+Stars represent the review status, or the level of review supporting the submitted (SCV) record. This value is calculated by NCBI based on data from the submitter.
+Read our rules for calculating the review status
+. This column also includes a link to the submitter’s assertion criteria if provided, and the collection method.
+(Assertion criteria)
+Condition
+Help
+The condition for the classification, provided by the submitter for this submitted (SCV) record. This column also includes the affected status and allele origin of individuals observed with this variant.
+Submitter
+Help
+The submitting organization for this submitted (SCV) record. This column also includes the SCV accession and version number, the date this SCV first appeared in ClinVar, and the date that this SCV was last updated in ClinVar.
+Expand all rows
+Collapse all rows
+Help
+This column includes more information supporting the classification, including citations, the comment on classification, and detailed evidence provided as observations of the variant by the submitter.
+Pathogenic
+(Jul 21, 2025)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+Ambry Variant Classification Scheme 2023
+)
+Inborn genetic diseases
+Ambry Genetics
+Accession: SCV000741375.5
+First in ClinVar: Apr 15, 2018
+Last updated: Oct 05, 2025
+Publications:
+PubMed (3)
+PubMed:
+29040572
+‚
+32499495
+‚
+39669623
+Comment
+:
+show
+The c.1174C>T (p.R392W) alteration is located in coding exon 10 of the FDXR gene. This alteration results from a C to T substitution at nucleotide position 1174, causing the arginine (R) at amino acid position 392 to be replaced by a tryptophan (W). Based on data from gnomAD, the T allele has an overall frequency of 0.018% (45/250556) total alleles studied. The highest observed frequency was 0.127% (44/34550) of Latino alleles. This variant has been identified in the homozygous state and/or in conjunction with other FDXR variant(s) in individual(s) with features consistent with FDXR-related mitochondrial encephalomyopathy; in at least one instance, the variants were identified in trans (Peng, 2017; Campbell, 2024; Ambry internal data). Note, this variant is also referred to as p.Arg386Trp in the literature. This amino acid position is highly conserved in available vertebrate species. This alteration is predicted to be deleterious by in silico analysis. Based on the available evidence, this alteration is classified as pathogenic.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Likely pathogenic
+(Oct 19, 2020)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+Auditory neuropathy-optic atrophy syndrome
+(Autosomal recessive inheritance)
+Victorian Clinical Genetics Services, Murdoch Childrens Research Institute
+Accession: SCV002767780.1
+First in ClinVar: Dec 24, 2022
+Last updated: Dec 24, 2022
+Publications:
+PubMed (1)
+PubMed:
+29040572
+Comment
+:
+show
+Based on the classification scheme VCGS_Germline_v1.3.3, this variant is classified as Likely pathogenic. Following criteria are met: 0102 - Loss of function is a known mechanism of disease in this gene and is associated with auditory neuropathy and optic atrophy (MIM#617717). (I) 0106 - This gene is associated with autosomal recessive disease. (I) 0200 - Variant is predicted to result in a missense amino acid change from arginine to tryptophan. (I) 0252 - This variant is homozygous. (I) 0304 - Variant is present in gnomAD <0.01 for a recessive condition (45 heterozygotes, 0 homozygotes). (SP) 0309 - An alternative amino acid change at the same position has been observed in gnomAD (v2) (6 heterozygotes, 0 homozygotes). (I) 0504 - Same amino acid change has been observed in placental mammals. (SB) 0600 - Variant is located in the annotated NAD(P) binding domain (PMID: 29040572). (I) 0705 - No comparable missense variants have previous evidence for pathogenicity. (I) 0801 - This variant has strong previous evidence of pathogenicity in unrelated individuals. The variant has been previously reported in multiple homozygous patients with mitochondriopathy with optic atrophy (ClinVar, PMID: 29040572). (SP) 1001 - This variant has strong functional evidence supporting abnormal protein function. This variant causes reduced enzyme activity and overall mitochondrial dysfunction. Defects were rescued by overexpression of WT FDXR (PMID: 29040572). (SP) 1208 - Inheritance information for this variant is not currently available in this individual. (I) Legend: (SP) - Supporting pathogenic, (I) - Information, (SB) - Supporting benign
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Pathogenic
+(Oct 05, 2021)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+Auditory neuropathy-optic atrophy syndrome
+Fulgent Genetics, Fulgent Genetics
+Accession: SCV002796654.1
+First in ClinVar: Dec 31, 2022
+Last updated: Dec 31, 2022
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+unknown
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+unknown
+Affected status
+:
+unknown
+Pathogenic
+(-)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+FDXR-related disorders
+Rady Children's Institute for Genomic Medicine, Rady Children's Hospital San Diego
+Accession: SCV004045999.1
+First in ClinVar: Oct 21, 2023
+Last updated: Oct 21, 2023
+Comment
+:
+show
+This variant is also known as p.Arg386Trp, p.Arg392Trp, or p.Arg378Trp in the literature. This variant has been previously reported as a homozygous and a compound heterozygous change in patients with Mitochondriopathy with optic atrophy (PMID: 29040572, 33348459). Functional studies in patient fibroblasts indicate that the p.Arg429Trp variant decreases FDXR protein levels, and in vitro studies demonstrate that the variant leads to mitochondrial dysfunction (PMID: 29040572). It is present in the heterozygous state in the gnomAD population database at a frequency of 0.02% (45/250556) and thus is presumed to be rare. The c.1285C>T (p.Arg429Trp) variant affects a highly conserved amino acid and is predicted by multiple in silico tools to have a deleterious effect on protein function. Based on the available evidence, the c.1285C>T (p.Arg429Trp) variant is classified as Pathogenic.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Pathogenic
+(Dec 13, 2023)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+Auditory neuropathy-optic atrophy syndrome
+Baylor Genetics
+Accession: SCV003835487.2
+First in ClinVar: Mar 11, 2023
+Last updated: Jun 09, 2024
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+unknown
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+unknown
+Affected status
+:
+unknown
+Pathogenic
+(Oct 16, 2023)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+Auditory neuropathy-optic atrophy syndrome
+Department of Pathology and Laboratory Medicine, Sinai Health System
+Accession: SCV005918003.1
+First in ClinVar: Apr 28, 2025
+Last updated: Apr 28, 2025
+Observation: 1
+Collection method
+:
+research
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+research
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Pathogenic
+(Dec 17, 2025)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+LabCorp Variant Classification Summary - May 2015
+)
+FDXR-Related Disorders
+Women's Health and Genetics/Laboratory Corporation of America, LabCorp
+Accession: SCV007339534.1
+First in ClinVar: Feb 07, 2026
+Last updated: Feb 07, 2026
+Publications:
+PubMed (2)
+PubMed:
+29040572
+‚
+38885337
+Comment
+:
+show
+Variant summary: FDXR c.1156C>T (p.Arg386Trp) results in a non-conservative amino acid change in the encoded protein sequence. Algorithms developed to predict the effect of missense changes on protein structure and function are either unavailable or do not agree on the potential impact of this missense change. The variant allele was found at a frequency of 0.00018 in 250556 control chromosomes (gnomAD). This frequency is not significantly higher than estimated for disease-causing variants in FDXR, allowing no conclusion about variant significance. c.1156C>T has been observed in multiple individuals affected with clinical features of FDXR-Related Disorders and this variant co-segregated with the disease (Peng_2017). These data indicate that the variant is very likely to be associated with disease. At least one publication reports experimental evidence evaluating an impact on protein function and this variant affects the FDXR protein function (Peng_2017, Pignatti_2024). The following publications have been ascertained in the context of this evaluation (PMID: 29040572, 38885337). ClinVar contains an entry for this variant (Variation ID: 520994). Based on the evidence outlined above, the variant was classified as pathogenic.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Pathogenic
+(Jan 31, 2025)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+FDXR-related mitochondrial disorder
+Rady Children's Institute for Genomic Medicine, Rady Children's Hospital San Diego
+Accession: SCV007521074.1
+First in ClinVar: Mar 28, 2026
+Last updated: Mar 28, 2026
+Publications:
+PubMed (2)
+PubMed:
+29040572
+‚
+33348459
+Comment
+:
+show
+This variant is also referred to as p.Arg386Trp, p.Arg392Trp, or p.Arg378Trp in the literature. Missense variation is an established mechanism of disease for FDXR-related disorders (PMID: 29040572). The c.1285C>T (p.Arg429Trp) variant affects a highly conserved amino acid and is predicted by multiple in silico tools to have a deleterious effect on protein function. This variant has been previously reported as a compound heterozygous and homozygous change in multiple patients with FDXR-related mitochondrial disorder (PMID: 29040572, 33348459). Functional studies in patient fibroblasts indicate that the p.Arg429Trp variant decreases FDXR protein levels, and in vitro studies demonstrate that the variant leads to mitochondrial dysfunction (PMID: 29040572). The c.1285C>T (p.Arg429Trp) variant is present in the latest version of the gnomAD population database at an allele frequency of 0.004% (66/1613336), and is absent in the homozygous state, thus is presumed to be rare. Based on the available evidence, c.1285C>T (p.Arg429Trp) is classified as Pathogenic.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Likely pathogenic
+(Dec 17, 2025)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+Multiple mitochondrial dysfunctions syndrome 9b
+3billion
+Accession: SCV007610854.1
+First in ClinVar: Jun 20, 2026
+Last updated: Jun 20, 2026
+Publications:
+PubMed (1)
+PubMed:
+29040572
+Comment
+:
+show
+The variant is observed at an extremely low frequency in the gnomAD v4.1.0 dataset (total allele frequency: 0.004%). Predicted Consequence/Location: Missense variant Damaging effect on gene or gene product predicted by in silico programs is uncertain [REVEL: 0.53 (damaging >=0.6, benign <0.4), 3Cnet: 0.71 (damaging >0.75, benign <0.1)]. The same nucleotide change resulting in the same amino acid change has been previously reported as pathogenic/likely pathogenic with strong evidence (ClinVar ID: VCV000520994 /PMID: 29040572 /3billion dataset). The variant has been reported to be in trans with a pathogenic variant as either compound heterozygous or homozygous in at least one similarly affected unrelated individual (PMID: 29040572). The variant has been reported to co-segregate with the disease in at least one similarly affected relative/individual in the same family or similarly affected unrelated families (PMID: 29040572). Therefore, this variant is classified as Likely pathogenic according to the recommendation of ACMG/AMP guideline.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+more
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Platform type
+:
+genome sequencing
+Pathogenic
+(Jun 09, 2022)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+FDXR-related disorders
+Blueprint Genetics
+Accession: SCV007843765.1
+First in ClinVar: Sep 22, 2026
+Last updated: Sep 22, 2026
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+more
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Number of individuals with the variant
+:
+4
+Test name
+:
+Comprehensive Hearing Loss and Deafness Panel, Retinal Dystrophy Panel
+Likely pathogenic
+(May 12, 2025)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+FDXR-related condition
+PreventionGenetics, part of Exact Sciences
+Accession: SCV004116030.2
+First in ClinVar: Nov 20, 2023
+Last updated: Oct 03, 2026
+Comment
+:
+show
+The FDXR c.1156C>T variant is predicted to result in the amino acid substitution p.Arg386Trp. This variant has been reported as pathogenic for autosomal recessive mitochondriopathy with optic atrophy in seven homozygotes and one compound heterozygote from six unrelated families (described as p.R392W, Peng et al. 2017. PubMed ID: 29040572). This variant was also reported in the homozygous state in two additional patients from unrelated families with features consistent with FDXR-related disease, and was reported to result in a moderately severe phenotype in comparison to other homozygous pathogenic variants (Stenton et al. 2021. PubMed ID: 33348459; described as p.Arg392Trp, O'Brien et al. 2021. PubMed ID: 34906498). Functional studies found this variant led to deficient ferredoxin NADP reductase activity and mitochondrial dysfunction in patient fibroblasts (Peng et al. 2017. PubMed ID: 29040572). This variant is reported in 0.13% of alleles in individuals of Latino descent in gnomAD. In ClinVar this variant is listed as pathogenic and likely pathogenic by other clinical laboratories (https://www.ncbi.nlm.nih.gov/clinvar/variation/520994/). This variant is interpreted as likely pathogenic.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Pathogenic
+(Jul 16, 2024)
+N
+Not contributing to aggregate classification
+no assertion criteria provided
+MULTIPLE MITOCHONDRIAL DYSFUNCTIONS SYNDROME 9B
+OMIM
+Accession: SCV005077932.1
+First in ClinVar: Jul 23, 2024
+Last updated: Jul 23, 2024
+Publications:
+PubMed (1)
+PubMed:
+29040572
+Observation: 1
+Collection method
+:
+literature only
+Allele origin
+:
+germline
+Affected status
+:
+not provided
+more
+Observation 1
+Collection method
+:
+literature only
+Allele origin
+:
+germline
+Affected status
+:
+not provided
+Comment on evidence
+:
+In 7 patients from 6 families (families 1, 3-5, 11, and 13) with multiple mitochondrial dysfunctions syndrome-9B (MMDS9B; 620887), Peng et al. (2017) identified a …
+(more)
+In 7 patients from 6 families (families 1, 3-5, 11, and 13) with multiple mitochondrial dysfunctions syndrome-9B (MMDS9B; 620887), Peng et al. (2017) identified a c.1174C-T transition (c.1174C-T, NM_001258012.3) in the FDXR gene, resulting in an arg392-to-trp (R392W) substitution. The mutation was present in homozygous state in 6 patients and in compound heterozygosity with a c.221C-T transition, resulting in a pro74-to-leu substitution (P74L; 103270.0006), in the patient from family 5.
+(less)
+Comment:
+The c.1174C>T (p.R392W) alteration is located in coding exon 10 of the FDXR gene. This alteration results from a C to T substitution at nucleotide position 1174, causing the arginine (R) at amino acid position 392 to be replaced by a tryptophan (W). Based on data from gnomAD, the T allele has an overall frequency of 0.018% (45/250556) total alleles studied. The highest observed frequency was 0.127% (44/34550) of Latino alleles. This variant has been identified in the homozygous state and/or in conjunction with other FDXR variant(s) in individual(s) with features consistent with FDXR-related mitochondrial encephalomyopathy; in at least one instance, the variants were identified in trans (Peng, 2017; Campbell, 2024; Ambry internal data). Note, this variant is also referred to as p.Arg386Trp in the literature. This amino acid position is highly conserved in available vertebrate species. This alteration is predicted to be deleterious by in silico analysis. Based on the available evidence, this alteration is classified as pathogenic.
+OK
+Comment:
+Based on the classification scheme VCGS_Germline_v1.3.3, this variant is classified as Likely pathogenic. Following criteria are met: 0102 - Loss of function is a known mechanism of disease in this gene and is associated with auditory neuropathy and optic atrophy (MIM#617717). (I) 0106 - This gene is associated with autosomal recessive disease. (I) 0200 - Variant is predicted to result in a missense amino acid change from arginine to tryptophan. (I) 0252 - This variant is homozygous. (I) 0304 - Variant is present in gnomAD <0.01 for a recessive condition (45 heterozygotes, 0 homozygotes). (SP) 0309 - An alternative amino acid change at the same position has been observed in gnomAD (v2) (6 heterozygotes, 0 homozygotes). (I) 0504 - Same amino acid change has been observed in placental mammals. (SB) 0600 - Variant is located in the annotated NAD(P) binding domain (PMID: 29040572). (I) 0705 - No comparable missense variants have previous evidence for pathogenicity. (I) 0801 - This variant has strong previous evidence of pathogenicity in unrelated individuals. The variant has been previously reported in multiple homozygous patients with mitochondriopathy with optic atrophy (ClinVar, PMID: 29040572). (SP) 1001 - This variant has strong functional evidence supporting abnormal protein function. This variant causes reduced enzyme activity and overall mitochondrial dysfunction. Defects were rescued by overexpression of WT FDXR (PMID: 29040572). (SP) 1208 - Inheritance information for this variant is not currently available in this individual. (I) Legend: (SP) - Supporting pathogenic, (I) - Information, (SB) - Supporting benign
+OK
+Comment:
+This variant is also known as p.Arg386Trp, p.Arg392Trp, or p.Arg378Trp in the literature. This variant has been previously reported as a homozygous and a compound heterozygous change in patients with Mitochondriopathy with optic atrophy (PMID: 29040572, 33348459). Functional studies in patient fibroblasts indicate that the p.Arg429Trp variant decreases FDXR protein levels, and in vitro studies demonstrate that the variant leads to mitochondrial dysfunction (PMID: 29040572). It is present in the heterozygous state in the gnomAD population database at a frequency of 0.02% (45/250556) and thus is presumed to be rare. The c.1285C>T (p.Arg429Trp) variant affects a highly conserved amino acid and is predicted by multiple in silico tools to have a deleterious effect on protein function. Based on the available evidence, the c.1285C>T (p.Arg429Trp) variant is classified as Pathogenic.
+OK
+Comment:
+Variant summary: FDXR c.1156C>T (p.Arg386Trp) results in a non-conservative amino acid change in the encoded protein sequence. Algorithms developed to predict the effect of missense changes on protein structure and function are either unavailable or do not agree on the potential impact of this missense change. The variant allele was found at a frequency of 0.00018 in 250556 control chromosomes (gnomAD). This frequency is not significantly higher than estimated for disease-causing variants in FDXR, allowing no conclusion about variant significance. c.1156C>T has been observed in multiple individuals affected with clinical features of FDXR-Related Disorders and this variant co-segregated with the disease (Peng_2017). These data indicate that the variant is very likely to be associated with disease. At least one publication reports experimental evidence evaluating an impact on protein function and this variant affects the FDXR protein function (Peng_2017, Pignatti_2024). The following publications have been ascertained in the context of this evaluation (PMID: 29040572, 38885337). ClinVar contains an entry for this variant (Variation ID: 520994). Based on the evidence outlined above, the variant was classified as pathogenic.
+OK
+Comment:
+This variant is also referred to as p.Arg386Trp, p.Arg392Trp, or p.Arg378Trp in the literature. Missense variation is an established mechanism of disease for FDXR-related disorders (PMID: 29040572). The c.1285C>T (p.Arg429Trp) variant affects a highly conserved amino acid and is predicted by multiple in silico tools to have a deleterious effect on protein function. This variant has been previously reported as a compound heterozygous and homozygous change in multiple patients with FDXR-related mitochondrial disorder (PMID: 29040572, 33348459). Functional studies in patient fibroblasts indicate that the p.Arg429Trp variant decreases FDXR protein levels, and in vitro studies demonstrate that the variant leads to mitochondrial dysfunction (PMID: 29040572). The c.1285C>T (p.Arg429Trp) variant is present in the latest version of the gnomAD population database at an allele frequency of 0.004% (66/1613336), and is absent in the homozygous state, thus is presumed to be rare. Based on the available evidence, c.1285C>T (p.Arg429Trp) is classified as Pathogenic.
+OK
+Comment:
+The variant is observed at an extremely low frequency in the gnomAD v4.1.0 dataset (total allele frequency: 0.004%). Predicted Consequence/Location: Missense variant Damaging effect on gene or gene product predicted by in silico programs is uncertain [REVEL: 0.53 (damaging >=0.6, benign <0.4), 3Cnet: 0.71 (damaging >0.75, benign <0.1)]. The same nucleotide change resulting in the same amino acid change has been previously reported as pathogenic/likely pathogenic with strong evidence (ClinVar ID: VCV000520994 /PMID: 29040572 /3billion dataset). The variant has been reported to be in trans with a pathogenic variant as either compound heterozygous or homozygous in at least one similarly affected unrelated individual (PMID: 29040572). The variant has been reported to co-segregate with the disease in at least one similarly affected relative/individual in the same family or similarly affected unrelated families (PMID: 29040572). Therefore, this variant is classified as Likely pathogenic according to the recommendation of ACMG/AMP guideline.
+OK
+Comment:
+The FDXR c.1156C>T variant is predicted to result in the amino acid substitution p.Arg386Trp. This variant has been reported as pathogenic for autosomal recessive mitochondriopathy with optic atrophy in seven homozygotes and one compound heterozygote from six unrelated families (described as p.R392W, Peng et al. 2017. PubMed ID: 29040572). This variant was also reported in the homozygous state in two additional patients from unrelated families with features consistent with FDXR-related disease, and was reported to result in a moderately severe phenotype in comparison to other homozygous pathogenic variants (Stenton et al. 2021. PubMed ID: 33348459; described as p.Arg392Trp, O'Brien et al. 2021. PubMed ID: 34906498). Functional studies found this variant led to deficient ferredoxin NADP reductase activity and mitochondrial dysfunction in patient fibroblasts (Peng et al. 2017. PubMed ID: 29040572). This variant is reported in 0.13% of alleles in individuals of Latino descent in gnomAD. In ClinVar this variant is listed as pathogenic and likely pathogenic by other clinical laboratories (https://www.ncbi.nlm.nih.gov/clinvar/variation/520994/). This variant is interpreted as likely pathogenic.
+OK
+Citations for germline classification of this variant
+Help
+Title
+Author
+Journal
+Year
+Link
+FDXR variants cause adrenal insufficiency and atypical sexual development.
+Pignatti E
+JCI insight
+2024
+PMID:
+38885337
+Clinical study of ferredoxin-reductase-related mitochondriopathy: Genotype-phenotype correlation and proposal of ancestry-based carrier screening in the Mexican population.
+Campbell T
+Genetics in medicine open
+2023
+PMID:
+39669623
+Expanding the clinical and genetic spectrum of FDXR deficiency by functional validation of variants of uncertain significance.
+Stenton SL
+Human mutation
+2021
+PMID:
+33348459
+Integrated analysis of the molecular pathogenesis of FDXR-associated disease.
+Slone JD
+Cell death & disease
+2020
+PMID:
+32499495
+Biallelic mutations in the ferredoxin reductase gene cause novel mitochondriopathy with optic atrophy.
+Peng Y
+Human molecular genetics
+2017
+PMID:
+29040572
+Text-mined citations for rs760345680
+...
+Help
+These citations are identified by LitVar using
+    the rs number, so they may include citations for more than one variant
+    at this location. Please review the LitVar results carefully for your
+    variant of interest.
+Record last updated Oct 04, 2026
+This date represents the last time this VCV record was updated. The 
+                        update may be due to an update to one of the included submitted 
+                        records (SCVs), or due to an update that ClinVar made to the variant 
+                        such as adding HGVS expressions or a rs number. So this date may be 
+                        different from the date of the “most recent submission” reported at the 
+                        top of this page.
+Help
+Modify your search
+Search (all fields optional)
+Clear all
+Variant
+Gene
+Genomic Location
+GRCh38
+GRCh37
+More search options
+Disease
+Other Terms
+Advanced Search
+Clear all
+Search
+Follow NCBI
+Twitter
+Facebook
+LinkedIn
+GitHub
+Connect with NLM
+Twitter
+SM-Facebook
+SM-Youtube
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+Help
+Accessibility
+Careers
+NLM
+NIH
+HHS
+USA.gov

@@ -1,0 +1,756 @@
+VCV000051231.26 - ClinVar - NCBI
+An official website of the United States government
+Here's how you know
+Here's how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official
+                            government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you've safely
+                                connected to the .gov website. Share sensitive
+                                information only on official, secure websites.
+Log in
+Dashboard
+Publications
+Account settings
+Log out
+Primary site navigation
+Logged in as:
+Dashboard
+Publications
+Account settings
+Log in
+ClinVar Home
+About
+About ClinVar
+Statistics
+List of submitters
+Map of submitters
+Website overview
+FAQ
+Understand the Data
+Data authorities
+Preferred names
+Classification
+Review status and assertion criteria
+HGVS expressions
+Data validation
+Accessions and identifiers
+Release cycle
+Access the Data
+Web access
+How to search ClinVar
+VCV (variant) pages
+RCV (variant-condition) pages
+Downloads
+Programmatic access
+Linking to ClinVar
+Submit Data
+Submission overview
+Get started
+Submission instructions
+Expert panels and practice guidelines
+On this page
+Classification Summary
+Variant Details
+Genes
+Germline
+Conditions
+Submissions
+Citations
+Text-mined Citations
+NM_000059.4(BRCA2):c.1951G>T (p.Asp651Tyr)
+Cite
+Following
+Follow
+⚠
+Print
+Download
+Cite this record
+Close
+National Center for Biotechnology Information. ClinVar; [VCV000051231.26], https://www.ncbi.nlm.nih.gov/clinvar/variation/VCV000051231.26 (accessed Oct. 20, 2026).
+Copy
+Germline
+Classification
+Help
+criteria provided, conflicting classifications.
+Learn more about how ClinVar calculates review status.
+Conflicting classifications of pathogenicity
+Uncertain significance (4); Likely benign (2)
+6 out of 9
+submissions contributed to this classification
+Help
+The aggregate germline classification for this variant, typically for a monogenic or Mendelian disorder as in
+the ACMG/AMP guidelines
+, or for response to a drug. This value is calculated by NCBI based on data from submitters.
+Read our rules for calculating the aggregate classification
+.
+9
+Somatic
+No data submitted for somatic clinical impact
+Somatic
+No data submitted for oncogenicity
+Variant Details
+Identifiers
+NM_000059.4(BRCA2):c.1951G>T (p.Asp651Tyr)
+Variation ID: 51231
+Accession: VCV000051231.26
+Type and length
+single nucleotide variant,
+1 bp
+Location
+Cytogenetic:
+13q13.1
+13:
+            
+            32336306
+(GRCh38)
+[
+NCBI
+UCSC
+]
+13:
+            
+            32910443
+(GRCh37)
+[
+NCBI
+UCSC
+]
+Timeline in ClinVar
+First in ClinVar
+Help
+The date this variant first appeared in ClinVar with each type of classification.
+Last submission
+Help
+The date of the most recent submission for each type of classification for this variant.
+Last evaluated
+Help
+The most recent date that a submitter evaluated this variant for each type of classification.
+Germline
+Apr 1, 2014
+Mar 7, 2026
+Aug 27, 2024
+HGVS
+Nucleotide
+Protein
+Molecular
+consequence
+NM_000059.4:c.1951G>T
+MANE Select
+Help
+Transcripts from the Matched Annotation from the NCBI and EMBL-EBI (
+MANE
+) collaboration.
+NP_000050.3:p.Asp651Tyr
+missense
+NC_000013.11:g.32336306G>T
+NC_000013.10:g.32910443G>T
+NG_012772.3:g.25827G>T
+LRG_293:g.25827G>T
+LRG_293t1:c.1951G>T
+LRG_293p1:p.Asp651Tyr
+U43746.1:n.2179G>T
+...
+            more HGVS
+... less HGVS
+Protein change
+D651Y
+Other names
+-
+Canonical SPDI
+NC_000013.11:32336305:G:T
+Global minor allele
+frequency (GMAF)
+Help
+The global minor allele frequency calculated by the 1000 Genomes Project. The minor allele at this location is indicated in parentheses and may be different from the allele represented by this VCV record.
+-
+Allele frequency
+Help
+The frequency of the allele represented by this VCV record.
+The Genome Aggregation Database (gnomAD), exomes 0.00000
+Links
+ClinGen: CA014008
+dbSNP: rs80358482
+VarSome
+Genes
+Gene
+OMIM
+ClinGen Gene Dosage Sensitivity Curation
+Variation Viewer
+Help
+Links to Variation Viewer, a genome browser to view variation data from NCBI databases.
+Related variants
+HI score
+Help
+The haploinsufficiency score for the gene, curated by ClinGen’s Dosage Sensitivity Curation task team.
+TS score
+Help
+The triplosensitivity score for the gene, curated by ClinGen’s Dosage Sensitivity Curation task team.
+Within gene
+Help
+The number of variants in ClinVar that are contained within this gene, with a link to view the list of variants.
+All
+Help
+The number of variants in ClinVar for this gene, including smaller variants within the gene and larger CNVs that overlap or fully contain the gene.
+BRCA2
+Sufficient evidence for dosage pathogenicity
+No evidence available
+GRCh38
+GRCh37
+21907
+22075
+Conditions - Germline
+Condition
+Help
+The condition for this variant-condition (RCV) record in ClinVar.
+Classification
+Help
+The aggregate germline classification for this variant-condition (RCV) record in ClinVar. The number of submissions that contribute to this aggregate classification is shown in parentheses.
+(# of submissions)
+Review status
+Help
+The aggregate review status for this variant-condition (RCV) record in ClinVar. This value is calculated by NCBI based on data from submitters.
+Read our rules for calculating the review status
+.
+Last evaluated
+Help
+The most recent date that a submitter evaluated this variant for the condition.
+Variation/condition record
+Help
+The RCV accession number, with most recent version number, for the variant-condition record, with a link to the RCV web page.
+Breast-ovarian cancer, familial, susceptibility to, 2
+Uncertain significance (3)
+criteria provided, single submitter
+Dec 13, 2023
+RCV000112998.7
+Hereditary cancer-predisposing syndrome
+Conflicting classifications of pathogenicity (4)
+criteria provided, conflicting classifications
+Jun 15, 2023
+RCV000132142.17
+Hereditary breast ovarian cancer syndrome
+Uncertain significance (1)
+criteria provided, single submitter
+Aug 27, 2024
+RCV001313663.10
+Malignant tumor of breast
+Uncertain significance (1)
+no assertion criteria provided
+-
+RCV001354692.3
+Submissions - Germline
+Classification
+Help
+The submitted germline classification for each SCV record.
+(Last evaluated)
+Review status
+Help
+Stars represent the review status, or the level of review supporting the submitted (SCV) record. This value is calculated by NCBI based on data from the submitter.
+Read our rules for calculating the review status
+. This column also includes a link to the submitter’s assertion criteria if provided, and the collection method.
+(Assertion criteria)
+Condition
+Help
+The condition for the classification, provided by the submitter for this submitted (SCV) record. This column also includes the affected status and allele origin of individuals observed with this variant.
+Submitter
+Help
+The submitting organization for this submitted (SCV) record. This column also includes the SCV accession and version number, the date this SCV first appeared in ClinVar, and the date that this SCV was last updated in ClinVar.
+Expand all rows
+Collapse all rows
+Help
+This column includes more information supporting the classification, including citations, the comment on classification, and detailed evidence provided as observations of the variant by the submitter.
+Likely benign
+(Nov 28, 2018)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+Ambry Variant Classification Scheme 2023
+)
+Hereditary cancer-predisposing syndrome
+Ambry Genetics
+Accession: SCV000187213.7
+First in ClinVar: Aug 06, 2014
+Last updated: May 01, 2024
+Publications:
+PubMed (1)
+PubMed:
+25777348
+Comment
+:
+show
+This alteration is classified as likely benign based on a combination of the following: seen in unaffected individuals, population frequency, intact protein function, lack of segregation with disease, co-occurrence, RNA analysis, in silico models, amino acid conservation, lack of disease association in case-control studies, and/or the mechanism of disease or impacted region is inconsistent with a known cause of pathogenicity.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Uncertain significance
+(Aug 27, 2024)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+Invitae Variant Classification Sherloc (09022015)
+)
+Hereditary breast ovarian cancer syndrome
+Labcorp Genetics (formerly Invitae), Labcorp
+Accession: SCV001504167.6
+First in ClinVar: Mar 14, 2021
+Last updated: Mar 07, 2026
+Publications:
+PubMed (1)
+PubMed:
+25777348
+Comment
+:
+show
+This sequence change replaces aspartic acid, which is acidic and polar, with tyrosine, which is neutral and polar, at codon 651 of the BRCA2 protein (p.Asp651Tyr). The frequency data for this variant in the population databases is considered unreliable, as metrics indicate poor data quality at this position in the gnomAD database. This missense change has been observed in individual(s) with breast cancer (PMID: 25777348). ClinVar contains an entry for this variant (Variation ID: 51231). Invitae Evidence Modeling of protein sequence and biophysical properties (such as structural, functional, and spatial information, amino acid conservation, physicochemical variation, residue mobility, and thermodynamic stability) indicates that this missense variant is not expected to disrupt BRCA2 protein function with a negative predictive value of 95%. In summary, the available evidence is currently insufficient to determine the role of this variant in disease. Therefore, it has been classified as a Variant of Uncertain Significance.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Uncertain significance
+(Jun 23, 2021)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+Sema4 Curation Guidelines
+)
+Hereditary cancer-predisposing syndrome
+Sema4, Sema4
+Accession: SCV002533283.1
+First in ClinVar: Jun 24, 2022
+Last updated: Jun 24, 2022
+Comment:
+The BRCA2 c.1951G>T (p.D651Y) variant has been reported in at least one individual with breast and/or ovarian cancer (PMID: 25777348). It was observed in 1/110388 …
+(more)
+The BRCA2 c.1951G>T (p.D651Y) variant has been reported in at least one individual with breast and/or ovarian cancer (PMID: 25777348). It was observed in 1/110388 chromosomes of the Non-Finnish European subpopulation in the large and broad cohorts of the Genome Aggregation Database (http://gnomad.broadinstitute.org, PMID: 32461654). The variant has been reported in ClinVar (Variation ID 51231). In silico tools suggest the impact of the variant on protein function is inconclusive though these predictions have not been confirmed by functional studies. The evidence is insufficient to meet ACMG/AMP criteria for classifying the variant as benign or pathogenic. Thus, the clinical significance of this variant is currently uncertain.
+(less)
+Publications:
+PubMed (1)
+PubMed:
+25777348
+Observation: 1
+Collection method
+:
+curation
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+curation
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Likely benign
+(Mar 23, 2023)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+Dines et al. (Genet Med. 2020)
+)
+Hereditary cancer-predisposing syndrome
+University of Washington Department of Laboratory Medicine, University of Washington
+Accession: SCV003846405.1
+First in ClinVar: Apr 01, 2023
+Last updated: Apr 01, 2023
+Comment:
+BRCA2 exon 11 coldspot. Reclassification based on statistical prior probability.
+Publications:
+PubMed (1)
+PubMed:
+31911673
+Comment
+:
+show
+Missense variant in a coldspot region where missense variants are very unlikely to be pathogenic (PMID:31911673).
+(less)
+Observation: 1
+Collection method
+:
+curation
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+curation
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Uncertain Significance
+(Dec 13, 2023)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+Breast-ovarian cancer, familial, susceptibility to, 2
+(Autosomal dominant inheritance)
+All of Us Research Program, National Institutes of Health
+Accession: SCV004846992.1
+First in ClinVar: Apr 20, 2024
+Last updated: Apr 20, 2024
+Comment:
+This study involves interpretation of variants in research participants for the purpose of population health screening. Participant phenotype was not available at the time of …
+(more)
+This study involves interpretation of variants in research participants for the purpose of population health screening. Participant phenotype was not available at the time of variant classification. Additional details can be found in publication PMID: 35346344, PMCID: PMC8962531
+(less)
+Publications:
+PubMed (1)
+PubMed:
+25777348
+Comment
+:
+show
+This missense variant replaces aspartic acid with tyrosine at codon 651 of the BRCA2 protein. Computational prediction suggests that this variant may not impact protein structure and function (internally defined REVEL score threshold <= 0.5, PMID: 27666373). To our knowledge, functional studies have not been reported for this variant. This variant has been reported in an individual affected with breast cancer (PMID: 25777348). This variant has been identified in 1/240136 chromosomes in the general population by the Genome Aggregation Database (gnomAD). The available evidence is insufficient to determine the role of this variant in disease conclusively. Therefore, this variant is classified as a Variant of Uncertain Significance.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+more
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Number of individuals with the variant
+:
+2
+Zygosity
+:
+1 Homozygote, 1 Single Heterozygote
+Uncertain significance
+(Jun 15, 2023)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+Hereditary cancer-predisposing syndrome
+Color Diagnostics, LLC DBA Color Health
+Accession: SCV001358925.4
+First in ClinVar: Jun 22, 2020
+Last updated: May 03, 2025
+Publications:
+PubMed (1)
+PubMed:
+25777348
+Comment
+:
+show
+This missense variant replaces aspartic acid with tyrosine at codon 651 of the BRCA2 protein. Computational prediction suggests that this variant may not impact protein structure and function (internally defined REVEL score threshold <= 0.5, PMID: 27666373). To our knowledge, functional studies have not been reported for this variant. This variant has been reported in an individual affected with breast cancer (PMID: 25777348). This variant has been identified in 1/240136 chromosomes in the general population by the Genome Aggregation Database (gnomAD). The available evidence is insufficient to determine the role of this variant in disease conclusively. Therefore, this variant is classified as a Variant of Uncertain Significance.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+more
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Platform type
+:
+NGS
+Uncertain significance
+(Dec 16, 2015)
+N
+Not contributing to aggregate classification
+no assertion criteria provided
+Breast-ovarian cancer, familial, susceptibility to, 2
+Counsyl
+Accession: SCV000488019.3
+First in ClinVar: Apr 01, 2014
+Last updated: Jun 29, 2025
+Publications:
+PubMed (2)
+PubMed:
+24817641
+‚
+25777348
+Comment
+:
+show
+This submission and the accompanying classification are no longer maintained by the submitter. For more information on current observations and classification, please contact variantquestions@myriad.com.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+unknown
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+unknown
+Affected status
+:
+unknown
+Uncertain significance
+(-)
+N
+Not contributing to aggregate classification
+no assertion criteria provided
+Breast-ovarian cancer, familial 2
+Breast Cancer Information Core (BIC) (BRCA2)
+Accession: SCV000145983.1
+First in ClinVar: Apr 01, 2014
+Last updated: Apr 01, 2014
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+more
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Number of individuals with the variant
+:
+1
+Uncertain significance
+(-)
+N
+Not contributing to aggregate classification
+no assertion criteria provided
+Malignant tumor of breast
+Department of Pathology and Laboratory Medicine, Sinai Health System
+Additional submitter:
+Franklin by Genoox
+Study: The Canadian Open Genetics Repository (COGR)
+Accession: SCV001549369.1
+First in ClinVar: Apr 13, 2021
+Last updated: Apr 13, 2021
+Comment
+:
+show
+The BRCA2 p.Asp651Tyr variant was identified in 1 of 500 proband chromosomes (frequency: 0.002) from Lebanese individuals or families with at high risk of breast cancer (El Saghir_2015_25777348). The variant was also identified in dbSNP (ID: rs80358482) â€šÃ„ÃºWith Uncertain significance alleleâ€šÃ„Ã¹, ClinVar (classified uncertain significance by Ambry Genetics, Counsyl, BIC; and classification not provided by Invitae), Clinvitae (2x), Cosmic (1x in a breast tumour), and in control databases in 1 of 235252 chromosomes at a frequency of 0.000004 (Genome Aggregation Database Feb 27, 2017 in the European Non-Finnish population in 1 of 108390 chromosomes (freq: 0.000009), while not observed in the African, Other, Latino, Ashkenazi Jewish, East Asian, European Finnish, and South Asian populations. The variant was not identified in GeneInsight-COGR, MutDB, LOVD 3.0, UMD-LSDB, BIC Database, ARUP Laboratories, or Zhejiang Colon Cancer Database. The p.Asp651 residue is not conserved in mammals and four out of five computational analyses (PolyPhen-2, SIFT, AlignGVGD, BLOSUM, MutationTaster) do not suggest a high likelihood the variant Tyr impacts the protein; however, this information is not predictive enough to rule out pathogenicity. The variant occurs outside of the splicing consensus sequence and 1 of 5 in silico or computational prediction software programs (SpliceSiteFinder, MaxEntScan, NNSPLICE, GeneSplicer, HumanSpliceFinder) predict a greater than 10% difference in splicing; this is not very predictive of pathogenicity. In summary, based on the above information the clinical significance of this variant cannot be determined with certainty at this time. This variant is classified as a variant of uncertain significance.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+unknown
+Affected status
+:
+yes
+more
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+unknown
+Affected status
+:
+yes
+Number of individuals with the variant
+:
+1
+Comment:
+This alteration is classified as likely benign based on a combination of the following: seen in unaffected individuals, population frequency, intact protein function, lack of segregation with disease, co-occurrence, RNA analysis, in silico models, amino acid conservation, lack of disease association in case-control studies, and/or the mechanism of disease or impacted region is inconsistent with a known cause of pathogenicity.
+OK
+Comment:
+This sequence change replaces aspartic acid, which is acidic and polar, with tyrosine, which is neutral and polar, at codon 651 of the BRCA2 protein (p.Asp651Tyr). The frequency data for this variant in the population databases is considered unreliable, as metrics indicate poor data quality at this position in the gnomAD database. This missense change has been observed in individual(s) with breast cancer (PMID: 25777348). ClinVar contains an entry for this variant (Variation ID: 51231). Invitae Evidence Modeling of protein sequence and biophysical properties (such as structural, functional, and spatial information, amino acid conservation, physicochemical variation, residue mobility, and thermodynamic stability) indicates that this missense variant is not expected to disrupt BRCA2 protein function with a negative predictive value of 95%. In summary, the available evidence is currently insufficient to determine the role of this variant in disease. Therefore, it has been classified as a Variant of Uncertain Significance.
+OK
+Comment:
+Missense variant in a coldspot region where missense variants are very unlikely to be pathogenic (PMID:31911673).
+OK
+Comment:
+This missense variant replaces aspartic acid with tyrosine at codon 651 of the BRCA2 protein. Computational prediction suggests that this variant may not impact protein structure and function (internally defined REVEL score threshold <= 0.5, PMID: 27666373). To our knowledge, functional studies have not been reported for this variant. This variant has been reported in an individual affected with breast cancer (PMID: 25777348). This variant has been identified in 1/240136 chromosomes in the general population by the Genome Aggregation Database (gnomAD). The available evidence is insufficient to determine the role of this variant in disease conclusively. Therefore, this variant is classified as a Variant of Uncertain Significance.
+OK
+Comment:
+This missense variant replaces aspartic acid with tyrosine at codon 651 of the BRCA2 protein. Computational prediction suggests that this variant may not impact protein structure and function (internally defined REVEL score threshold <= 0.5, PMID: 27666373). To our knowledge, functional studies have not been reported for this variant. This variant has been reported in an individual affected with breast cancer (PMID: 25777348). This variant has been identified in 1/240136 chromosomes in the general population by the Genome Aggregation Database (gnomAD). The available evidence is insufficient to determine the role of this variant in disease conclusively. Therefore, this variant is classified as a Variant of Uncertain Significance.
+OK
+Comment:
+This submission and the accompanying classification are no longer maintained by the submitter. For more information on current observations and classification, please contact variantquestions@myriad.com.
+OK
+Comment:
+The BRCA2 p.Asp651Tyr variant was identified in 1 of 500 proband chromosomes (frequency: 0.002) from Lebanese individuals or families with at high risk of breast cancer (El Saghir_2015_25777348). The variant was also identified in dbSNP (ID: rs80358482) â€šÃ„ÃºWith Uncertain significance alleleâ€šÃ„Ã¹, ClinVar (classified uncertain significance by Ambry Genetics, Counsyl, BIC; and classification not provided by Invitae), Clinvitae (2x), Cosmic (1x in a breast tumour), and in control databases in 1 of 235252 chromosomes at a frequency of 0.000004 (Genome Aggregation Database Feb 27, 2017 in the European Non-Finnish population in 1 of 108390 chromosomes (freq: 0.000009), while not observed in the African, Other, Latino, Ashkenazi Jewish, East Asian, European Finnish, and South Asian populations. The variant was not identified in GeneInsight-COGR, MutDB, LOVD 3.0, UMD-LSDB, BIC Database, ARUP Laboratories, or Zhejiang Colon Cancer Database. The p.Asp651 residue is not conserved in mammals and four out of five computational analyses (PolyPhen-2, SIFT, AlignGVGD, BLOSUM, MutationTaster) do not suggest a high likelihood the variant Tyr impacts the protein; however, this information is not predictive enough to rule out pathogenicity. The variant occurs outside of the splicing consensus sequence and 1 of 5 in silico or computational prediction software programs (SpliceSiteFinder, MaxEntScan, NNSPLICE, GeneSplicer, HumanSpliceFinder) predict a greater than 10% difference in splicing; this is not very predictive of pathogenicity. In summary, based on the above information the clinical significance of this variant cannot be determined with certainty at this time. This variant is classified as a variant of uncertain significance.
+OK
+Citations for germline classification of this variant
+Help
+Title
+Author
+Journal
+Year
+Link
+Systematic misclassification of missense variants in BRCA1 and BRCA2 "coldspots".
+Dines JN
+Genetics in medicine : official journal of the American College of Medical Genetics
+2020
+PMID:
+31911673
+BRCA1 and BRCA2 mutations in ethnic Lebanese Arab women with high hereditary risk breast cancer.
+El Saghir NS
+The oncologist
+2015
+PMID:
+25777348
+An integrated in silico approach to analyze the involvement of single amino acid polymorphisms in FANCD1/BRCA2-PALB2 and FANCD1/BRCA2-RAD51 complex.
+Doss CG
+Cell biochemistry and biophysics
+2014
+PMID:
+24817641
+Text-mined citations for rs80358482
+...
+Help
+These citations are identified by LitVar using
+    the rs number, so they may include citations for more than one variant
+    at this location. Please review the LitVar results carefully for your
+    variant of interest.
+Record last updated Apr 13, 2026
+This date represents the last time this VCV record was updated. The 
+                        update may be due to an update to one of the included submitted 
+                        records (SCVs), or due to an update that ClinVar made to the variant 
+                        such as adding HGVS expressions or a rs number. So this date may be 
+                        different from the date of the “most recent submission” reported at the 
+                        top of this page.
+Help
+Modify your search
+Search (all fields optional)
+Clear all
+Variant
+Gene
+Genomic Location
+GRCh38
+GRCh37
+More search options
+Disease
+Other Terms
+Advanced Search
+Clear all
+Search
+Follow NCBI
+Twitter
+Facebook
+LinkedIn
+GitHub
+Connect with NLM
+Twitter
+SM-Facebook
+SM-Youtube
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+Help
+Accessibility
+Careers
+NLM
+NIH
+HHS
+USA.gov

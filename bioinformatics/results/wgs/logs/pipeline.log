@@ -1,0 +1,10 @@
+2026-10-16T11:53:32+04:00 Waiting for duplicate marking and compatible reference resources
+2026-10-16T12:01:22+04:00 Measuring duplicate-filtered coverage (mapping/base quality >=20)
+2026-10-16T12:06:11+04:00 Learning base-quality recalibration from known SNPs and indels
+2026-10-16T12:20:56+04:00 Applying base-quality recalibration
+2026-10-16T12:34:47+04:00 Preparing WES exon targets (capture-kit BED unavailable)
+Traceback (most recent call last):
+  File "/home/ravanox/codex/bioinformatics/scripts/build_wes_targets.py", line 22, in <module>
+    assert sum(map(len, ranges.values())) > 10000, 'Incomplete exon annotation'
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Incomplete exon annotation

@@ -1,0 +1,41 @@
+Using GATK jar /home/ravanox/codex/bioinformatics/tools/gatk-4.7.0.0/gatk-package-4.7.0.0-local.jar
+Running:
+    java -Dsamjdk.use_async_io_read_samtools=false -Dsamjdk.use_async_io_write_samtools=true -Dsamjdk.use_async_io_write_tribble=false -Dsamjdk.compression_level=2 -Xmx1500m -XX:ParallelGCThreads=2 -jar /home/ravanox/codex/bioinformatics/tools/gatk-4.7.0.0/gatk-package-4.7.0.0-local.jar ApplyBQSR -R data/reference/GRCh38.fna -I results/wgs/571566.markdup.bam -L CM000684.2:20000000-20100000 --bqsr-recal-file results/wgs/qc/pilot.recalibration.unknown_platform.table -O results/wgs/qc/pilot.recal.bam
+12:02:04.099 INFO  NativeLibraryLoader - Loading libgkl_compression.so from jar:file:/home/ravanox/codex/bioinformatics/tools/gatk-4.7.0.0/gatk-package-4.7.0.0-local.jar!/com/intel/gkl/native/libgkl_compression.so
+WARNING: A restricted method in java.lang.System has been called
+WARNING: java.lang.System::load has been called by com.intel.gkl.NativeLibraryLoader in an unnamed module (file:/home/ravanox/codex/bioinformatics/tools/gatk-4.7.0.0/gatk-package-4.7.0.0-local.jar)
+WARNING: Use --enable-native-access=ALL-UNNAMED to avoid a warning for callers in this module
+WARNING: Restricted methods will be blocked in a future release unless native access is enabled
+
+12:02:04.367 INFO  ApplyBQSR - ------------------------------------------------------------
+12:02:04.370 INFO  ApplyBQSR - The Genome Analysis Toolkit (GATK) v4.7.0.0
+12:02:04.370 INFO  ApplyBQSR - For support and documentation go to https://software.broadinstitute.org/gatk/
+12:02:04.370 INFO  ApplyBQSR - Executing as ravanox@fedora on Linux v6.19.10-300.fc44.x86_64 amd64
+12:02:04.370 INFO  ApplyBQSR - Java runtime: OpenJDK 64-Bit Server VM v25.0.2+10
+12:02:04.370 INFO  ApplyBQSR - Start Date/Time: October 16, 2026, 12:02:03 PM GMT+04:00
+12:02:04.370 INFO  ApplyBQSR - ------------------------------------------------------------
+12:02:04.370 INFO  ApplyBQSR - ------------------------------------------------------------
+12:02:04.371 INFO  ApplyBQSR - HTSJDK Version: 5.0.0
+12:02:04.372 INFO  ApplyBQSR - Picard Version: 3.5.0
+12:02:04.372 INFO  ApplyBQSR - Built for Spark Version: 3.5.0
+12:02:04.373 INFO  ApplyBQSR - HTSJDK Defaults.COMPRESSION_LEVEL : 2
+12:02:04.373 INFO  ApplyBQSR - HTSJDK Defaults.USE_ASYNC_IO_READ_FOR_SAMTOOLS : false
+12:02:04.373 INFO  ApplyBQSR - HTSJDK Defaults.USE_ASYNC_IO_WRITE_FOR_SAMTOOLS : true
+12:02:04.373 INFO  ApplyBQSR - HTSJDK Defaults.USE_ASYNC_IO_WRITE_FOR_TRIBBLE : false
+12:02:04.373 INFO  ApplyBQSR - Deflater: IntelDeflater
+12:02:04.374 INFO  ApplyBQSR - Inflater: IntelInflater
+12:02:04.374 INFO  ApplyBQSR - GCS max retries/reopens: 20
+12:02:04.374 INFO  ApplyBQSR - Requester pays: disabled
+12:02:04.375 INFO  ApplyBQSR - Initializing engine
+12:02:04.581 INFO  IntervalArgumentCollection - Processing 100001 bp from intervals
+12:02:04.585 INFO  ApplyBQSR - Done initializing engine
+12:02:04.608 WARN  ApplyBQSR - This tool has only been well tested on ILLUMINA-based sequencing data. For other data use at your own risk.
+12:02:04.608 INFO  ProgressMeter - Starting traversal
+12:02:04.608 INFO  ProgressMeter -        Current Locus  Elapsed Minutes       Reads Processed     Reads/Minute
+12:02:05.214 INFO  ApplyBQSR - 0 read(s) filtered by: WellformedReadFilter 
+
+12:02:05.215 INFO  ProgressMeter -  CM000684.2:20092745              0.0                  4161         411980.2
+12:02:05.215 INFO  ProgressMeter - Traversal complete. Processed 4161 total reads in 0.0 minutes.
+12:02:05.306 INFO  ApplyBQSR - Shutting down engine
+[October 16, 2026, 12:02:05 PM GMT+04:00] org.broadinstitute.hellbender.tools.walkers.bqsr.ApplyBQSR done. Elapsed time: 0.02 minutes.
+Runtime.totalMemory()=110100480

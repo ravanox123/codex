@@ -1,0 +1,45 @@
+00:00:00 SnpEff version SnpEff 5.4c (build 2026-02-23 07:25), by Pablo Cingolani
+00:00:00 Command: 'download'
+00:00:00 Reading configuration file 'snpEff.config'. Genome: 'GRCh38.mane.1.5.ensembl'
+00:00:00 Looking for config file: '/home/ravanox/codex/bioinformatics/snpEff.config'
+00:00:00 Reading config file: /home/ravanox/codex/bioinformatics/tools/variants-env/share/snpeff-5.4.0c-0/snpEff.config
+00:00:01 Codon table 'Vertebrate_Mitochondrial' assigned to chromosome 'MT'
+00:00:01 Codon table 'Vertebrate_Mitochondrial' assigned to chromosome 'M'
+00:00:01 done
+00:00:01 Downloading database for 'GRCh38.mane.1.5.ensembl'
+00:00:01 Downloading from 'https://snpeff-public.s3.amazonaws.com/databases/v5_4/snpEff_v5_4_GRCh38.mane.1.5.ensembl.zip' to local file '/tmp/snpEff_v5_4_GRCh38.mane.1.5.ensembl.zip'
+00:00:01 Connecting to https://snpeff-public.s3.amazonaws.com/databases/v5_4/snpEff_v5_4_GRCh38.mane.1.5.ensembl.zip
+00:00:01 Connecting to https://snpeff-public.s3.amazonaws.com/databases/v5_4/snpEff_v5_4_GRCh38.mane.1.5.ensembl.zip, using proxy: false
+00:00:03 Local file name: '/tmp/snpEff_v5_4_GRCh38.mane.1.5.ensembl.zip'
+..............................................................................................................................................................................................................................................................................................................................................................................................00:06:34 
+00:06:34 Download finished. Total 406208861 bytes.
+00:06:34 Extracting file 'data/GRCh38.mane.1.5.ensembl/sequence.1.bin'
+00:06:34 Creating local directory: '/home/ravanox/codex/bioinformatics/data/snpeff/GRCh38.mane.1.5.ensembl'
+00:06:34 Extracting file 'data/GRCh38.mane.1.5.ensembl/sequence.10.bin'
+00:06:34 Extracting file 'data/GRCh38.mane.1.5.ensembl/sequence.11.bin'
+00:06:34 Extracting file 'data/GRCh38.mane.1.5.ensembl/sequence.12.bin'
+00:06:34 Extracting file 'data/GRCh38.mane.1.5.ensembl/sequence.13.bin'
+00:06:34 Extracting file 'data/GRCh38.mane.1.5.ensembl/sequence.14.bin'
+00:06:34 Extracting file 'data/GRCh38.mane.1.5.ensembl/sequence.15.bin'
+00:06:34 Extracting file 'data/GRCh38.mane.1.5.ensembl/sequence.16.bin'
+00:06:34 Extracting file 'data/GRCh38.mane.1.5.ensembl/sequence.17.bin'
+00:06:34 Extracting file 'data/GRCh38.mane.1.5.ensembl/sequence.18.bin'
+00:06:34 Extracting file 'data/GRCh38.mane.1.5.ensembl/sequence.19.bin'
+00:06:34 Extracting file 'data/GRCh38.mane.1.5.ensembl/sequence.2.bin'
+00:06:34 Extracting file 'data/GRCh38.mane.1.5.ensembl/sequence.20.bin'
+00:06:34 Extracting file 'data/GRCh38.mane.1.5.ensembl/sequence.21.bin'
+00:06:34 Extracting file 'data/GRCh38.mane.1.5.ensembl/sequence.22.bin'
+00:06:34 Extracting file 'data/GRCh38.mane.1.5.ensembl/sequence.3.bin'
+00:06:34 Extracting file 'data/GRCh38.mane.1.5.ensembl/sequence.4.bin'
+00:06:34 Extracting file 'data/GRCh38.mane.1.5.ensembl/sequence.5.bin'
+00:06:34 Extracting file 'data/GRCh38.mane.1.5.ensembl/sequence.6.bin'
+00:06:35 Extracting file 'data/GRCh38.mane.1.5.ensembl/sequence.7.bin'
+00:06:35 Extracting file 'data/GRCh38.mane.1.5.ensembl/sequence.8.bin'
+00:06:35 Extracting file 'data/GRCh38.mane.1.5.ensembl/sequence.9.bin'
+00:06:35 Extracting file 'data/GRCh38.mane.1.5.ensembl/sequence.X.bin'
+00:06:35 Extracting file 'data/GRCh38.mane.1.5.ensembl/sequence.Y.bin'
+00:06:35 Extracting file 'data/GRCh38.mane.1.5.ensembl/snpEffectPredictor.bin'
+00:06:35 Unzip: OK
+00:06:35 Deleted local file '/tmp/snpEff_v5_4_GRCh38.mane.1.5.ensembl.zip'
+00:06:35 Done
+00:06:35 Done.

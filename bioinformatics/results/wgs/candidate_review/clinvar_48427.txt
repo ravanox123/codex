@@ -1,0 +1,1340 @@
+VCV000048427.81 - ClinVar - NCBI
+An official website of the United States government
+Here's how you know
+Here's how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official
+                            government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you've safely
+                                connected to the .gov website. Share sensitive
+                                information only on official, secure websites.
+Log in
+Dashboard
+Publications
+Account settings
+Log out
+Primary site navigation
+Logged in as:
+Dashboard
+Publications
+Account settings
+Log in
+ClinVar Home
+About
+About ClinVar
+Statistics
+List of submitters
+Map of submitters
+Website overview
+FAQ
+Understand the Data
+Data authorities
+Preferred names
+Classification
+Review status and assertion criteria
+HGVS expressions
+Data validation
+Accessions and identifiers
+Release cycle
+Access the Data
+Web access
+How to search ClinVar
+VCV (variant) pages
+RCV (variant-condition) pages
+Downloads
+Programmatic access
+Linking to ClinVar
+Submit Data
+Submission overview
+Get started
+Submission instructions
+Expert panels and practice guidelines
+On this page
+Classification Summary
+Variant Details
+Genes
+Germline
+Conditions
+Submissions
+Citations
+Functional Data
+Text-mined Citations
+NM_206933.4(USH2A):c.14074G>A (p.Gly4692Arg)
+Cite
+Following
+Follow
+⚠
+Print
+Download
+Cite this record
+Close
+National Center for Biotechnology Information. ClinVar; [VCV000048427.81], https://www.ncbi.nlm.nih.gov/clinvar/variation/VCV000048427.81 (accessed Oct. 20, 2026).
+Copy
+Germline
+Classification
+Help
+criteria provided, conflicting classifications.
+Learn more about how ClinVar calculates review status.
+Conflicting classifications of pathogenicity
+Uncertain significance (1); Benign (7); Likely benign (6)
+14 out of 24
+submissions contributed to this classification
+Help
+The aggregate germline classification for this variant, typically for a monogenic or Mendelian disorder as in
+the ACMG/AMP guidelines
+, or for response to a drug. This value is calculated by NCBI based on data from submitters.
+Read our rules for calculating the aggregate classification
+.
+16
+Somatic
+No data submitted for somatic clinical impact
+Somatic
+No data submitted for oncogenicity
+Functional data are available for this variant
+Variant Details
+This variant is part of a Haplotype
+NM_206933.2(USH2A):c.[12394del;14074G>A]
+Identifiers
+NM_206933.4(USH2A):c.14074G>A (p.Gly4692Arg)
+Variation ID: 48427
+Accession: VCV000048427.81
+Type and length
+single nucleotide variant,
+1 bp
+Location
+Cytogenetic:
+1q41
+1:
+            
+            215671031
+(GRCh38)
+[
+NCBI
+UCSC
+]
+1:
+            
+            215844373
+(GRCh37)
+[
+NCBI
+UCSC
+]
+Timeline in ClinVar
+First in ClinVar
+Help
+The date this variant first appeared in ClinVar with each type of classification.
+Last submission
+Help
+The date of the most recent submission for each type of classification for this variant.
+Last evaluated
+Help
+The most recent date that a submitter evaluated this variant for each type of classification.
+Germline
+Apr 9, 2018
+Oct 3, 2026
+Sep 2, 2026
+HGVS
+Nucleotide
+Protein
+Molecular
+consequence
+NM_206933.4:c.14074G>A
+MANE Select
+Help
+Transcripts from the Matched Annotation from the NCBI and EMBL-EBI (
+MANE
+) collaboration.
+NP_996816.3:p.Gly4692Arg
+missense
+NC_000001.11:g.215671031C>T
+NC_000001.10:g.215844373C>T
+NG_009497.2:g.757418G>A
+O75445:p.Gly4692Arg
+...
+            more HGVS
+... less HGVS
+Protein change
+G4692R
+Other names
+-
+Canonical SPDI
+NC_000001.11:215671030:C:T
+Global minor allele
+frequency (GMAF)
+Help
+The global minor allele frequency calculated by the 1000 Genomes Project. The minor allele at this location is indicated in parentheses and may be different from the allele represented by this VCV record.
+0.00220 (T)
+Allele frequency
+Help
+The frequency of the allele represented by this VCV record.
+1000 Genomes Project 0.00220
+1000 Genomes Project 30x 0.00234
+Trans-Omics for Precision Medicine (TOPMed) 0.00404
+The Genome Aggregation Database (gnomAD) 0.00419
+The Genome Aggregation Database (gnomAD) 0.00420
+The Genome Aggregation Database (gnomAD), exomes 0.00471
+Exome Aggregation Consortium (ExAC) 0.00478
+NHLBI Exome Sequencing Project (ESP) Exome Variant Server 0.00484
+The Genome Aggregation Database (gnomAD), exomes 0.00675
+Links
+ClinGen: CA143334
+UniProtKB: O75445#VAR_061351
+dbSNP: rs45549044
+VarSome
+Genes
+Gene
+OMIM
+ClinGen Gene Dosage Sensitivity Curation
+Variation Viewer
+Help
+Links to Variation Viewer, a genome browser to view variation data from NCBI databases.
+Related variants
+HI score
+Help
+The haploinsufficiency score for the gene, curated by ClinGen’s Dosage Sensitivity Curation task team.
+TS score
+Help
+The triplosensitivity score for the gene, curated by ClinGen’s Dosage Sensitivity Curation task team.
+Within gene
+Help
+The number of variants in ClinVar that are contained within this gene, with a link to view the list of variants.
+All
+Help
+The number of variants in ClinVar for this gene, including smaller variants within the gene and larger CNVs that overlap or fully contain the gene.
+USH2A
+Gene associated with autosomal recessive phenotype
+Not yet evaluated
+GRCh38
+GRCh37
+8594
+10436
+Conditions - Germline
+Condition
+Help
+The condition for this variant-condition (RCV) record in ClinVar.
+Classification
+Help
+The aggregate germline classification for this variant-condition (RCV) record in ClinVar. The number of submissions that contribute to this aggregate classification is shown in parentheses.
+(# of submissions)
+Review status
+Help
+The aggregate review status for this variant-condition (RCV) record in ClinVar. This value is calculated by NCBI based on data from submitters.
+Read our rules for calculating the review status
+.
+Last evaluated
+Help
+The most recent date that a submitter evaluated this variant for the condition.
+Variation/condition record
+Help
+The RCV accession number, with most recent version number, for the variant-condition record, with a link to the RCV web page.
+not specified
+Benign/Likely benign (4)
+criteria provided, multiple submitters, no conflicts
+Nov 26, 2024
+RCV000041750.27
+Retinitis pigmentosa 39
+Usher syndrome type 2A
+Likely benign (2)
+criteria provided, single submitter
+Aug 6, 2021
+RCV000669410.11
+Usher syndrome type 2A
+Likely benign (2)
+criteria provided, single submitter
+Jul 1, 2021
+RCV001532872.13
+not provided
+Benign/Likely benign (6)
+criteria provided, multiple submitters, no conflicts
+Jun 1, 2026
+RCV000756882.62
+USH2A-related disorder
+Benign (1)
+criteria provided, single submitter
+Sep 2, 2026
+RCV006999054.1
+Retinitis pigmentosa
+Uncertain significance (1)
+criteria provided, single submitter
+Oct 1, 2024
+RCV005417445.1
+Submissions - Germline
+Classification
+Help
+The submitted germline classification for each SCV record.
+(Last evaluated)
+Review status
+Help
+Stars represent the review status, or the level of review supporting the submitted (SCV) record. This value is calculated by NCBI based on data from the submitter.
+Read our rules for calculating the review status
+. This column also includes a link to the submitter’s assertion criteria if provided, and the collection method.
+(Assertion criteria)
+Condition
+Help
+The condition for the classification, provided by the submitter for this submitted (SCV) record. This column also includes the affected status and allele origin of individuals observed with this variant.
+Submitter
+Help
+The submitting organization for this submitted (SCV) record. This column also includes the SCV accession and version number, the date this SCV first appeared in ClinVar, and the date that this SCV was last updated in ClinVar.
+Expand all rows
+Collapse all rows
+Help
+This column includes more information supporting the classification, including citations, the comment on classification, and detailed evidence provided as observations of the variant by the submitter.
+Benign
+(Feb 09, 2015)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+EGL Classification Definitions 2015
+)
+not specified
+Eurofins Ntd Llc (ga)
+Accession: SCV000231928.6
+First in ClinVar: Jun 28, 2015
+Last updated: Apr 13, 2025
+Other databases
+http://www.egl-eurofins.com/emvc…
+http://www.egl-eurofins.com/emvclass/emvclass.php?approved_symbol=USH2A
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+more
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Number of individuals with the variant
+:
+4
+Zygosity
+:
+4 Single Heterozygotes
+Sex
+:
+mixed
+Benign
+(Feb 04, 2026)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+Invitae Variant Classification Sherloc (09022015)
+)
+not provided
+Labcorp Genetics (formerly Invitae), Labcorp
+Accession: SCV001037459.7
+First in ClinVar: Dec 17, 2019
+Last updated: Mar 07, 2026
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Benign
+(Sep 25, 2011)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+LMM Criteria
+)
+not specified
+Laboratory for Molecular Medicine, Mass General Brigham Personalized Medicine
+Accession: SCV000065446.6
+First in ClinVar: May 03, 2013
+Last updated: Aug 26, 2019
+Publications:
+PubMed (2)
+PubMed:
+19129697
+‚
+20507924
+Comment
+:
+show
+Gly4692Ar in Exon 64 of USH2A: This variant is not expected to have clinical sig nificance because it has been identified in 0.6% (53/8600) of European American chromosomes by the NHLBI Exome Sequencing Project (http://evs.gs.washington.edu/ EVS/; rs45549044).
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+not provided
+more
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+not provided
+Number of individuals with the variant
+:
+17
+Likely benign
+(May 20, 2019)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+Athena Diagnostics Criteria
+)
+not provided
+Athena Diagnostics
+Accession: SCV001146602.1
+First in ClinVar: Jan 19, 2020
+Last updated: Jan 19, 2020
+Publications:
+PubMed (10)
+PubMed:
+19129697
+‚
+20507924
+‚
+22004887
+‚
+22952768
+‚
+25262649
+‚
+25333064
+‚
+26075083
+‚
+26927203
+‚
+28224992
+‚
+29551606
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Benign
+(Feb 26, 2022)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+LabCorp Variant Classification Summary - May 2015
+)
+not specified
+Women's Health and Genetics/Laboratory Corporation of America, LabCorp
+Accession: SCV002104139.1
+First in ClinVar: Mar 12, 2022
+Last updated: Mar 12, 2022
+Comment
+:
+show
+Variant summary: USH2A c.14074G>A (p.Gly4692Arg) results in a non-conservative amino acid change located in the Fibronectin Type III domain (IPR003961) of the encoded protein sequence. Four of five in-silico tools predict a damaging effect of the variant on protein function. The variant allele was found at a frequency of 0.0047 in 250890 control chromosomes in the gnomAD database, including 6 homozygotes. Although reported in the literature, to our knowledge, no penetrant association of c.14074G>A in individuals affected with Usher Syndrome and no experimental evidence demonstrating its impact on protein function have been reported. Eight clinical diagnostic laboratories have submitted clinical-significance assessments for this variant to ClinVar after 2014 without evidence for independent evaluation. All laboratories classified the variant as benign/likely benign. Based on the evidence outlined above, the variant was classified as benign.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Likely benign
+(Jul 01, 2021)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+Usher syndrome type 2A
+Genome-Nilou Lab
+Accession: SCV001748647.2
+First in ClinVar: Jul 10, 2021
+Last updated: Apr 13, 2025
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+no
+more
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+no
+Sex
+:
+mixed
+Likely benign
+(Jun 01, 2026)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+CeGaT Center For Human Genetics Tuebingen Variant Classification Criteria Version 2
+)
+not provided
+CeGaT Center for Human Genetics Tuebingen
+Accession: SCV001246240.39
+First in ClinVar: May 09, 2020
+Last updated: Jul 27, 2026
+Comment
+:
+show
+USH2A: BP4, BS2
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+more
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Number of individuals with the variant
+:
+26
+Likely benign
+(Nov 26, 2024)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+Not specified
+Blueprint Genetics
+Accession: SCV007838145.1
+First in ClinVar: Sep 22, 2026
+Last updated: Sep 22, 2026
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Likely benign
+(Aug 06, 2021)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+Usher syndrome type 2A
+Retinitis pigmentosa 39
+Fulgent Genetics, Fulgent Genetics
+Accession: SCV002807433.1
+First in ClinVar: Dec 31, 2022
+Last updated: Dec 31, 2022
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+unknown
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+unknown
+Affected status
+:
+unknown
+Benign
+(Jul 24, 2018)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+GeneDx Variant Classification Process June 2021
+)
+not provided
+GeneDx
+Accession: SCV000515239.6
+First in ClinVar: Mar 08, 2017
+Last updated: Mar 04, 2023
+Comment
+:
+show
+This variant is associated with the following publications: (PMID: 22004887, 25333064, 25262649, 24944099, 26927203, 19129697, 30245029, 32707200)
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Benign
+(Nov 09, 2023)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ARUP Molecular Germline Variant Investigation Process 2024
+)
+not provided
+ARUP Laboratories, Molecular Genetics and Genomics, ARUP Laboratories
+Accession: SCV000884848.6
+First in ClinVar: Feb 18, 2019
+Last updated: Feb 20, 2024
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Likely benign
+(-)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+not provided
+(Autosomal recessive inheritance)
+Breakthrough Genomics, Breakthrough Genomics
+Accession: SCV005261737.1
+First in ClinVar: Sep 29, 2024
+Last updated: Sep 29, 2024
+Observation: 1
+Collection method
+:
+not provided
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Observation 1
+Collection method
+:
+not provided
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Uncertain significance
+(Oct 01, 2024)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+Retinitis pigmentosa
+Lab De Baere, Eye and Developmental Genetics Lab, Ghent University
+Accession: SCV005620068.1
+First in ClinVar: Jun 22, 2025
+Last updated: Jun 22, 2025
+Comment
+:
+show
+ACMG/AMP guidelines: PM3_1
+(less)
+Observation: 1
+Collection method
+:
+research
+Allele origin
+:
+inherited
+Affected status
+:
+yes
+more
+Observation 1
+Collection method
+:
+research
+Allele origin
+:
+inherited
+Affected status
+:
+yes
+Number of individuals with the variant
+:
+1
+Benign
+(Sep 02, 2026)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+USH2A-related condition
+PreventionGenetics, part of Exact Sciences
+Accession: SCV008011193.1
+First in ClinVar: Oct 03, 2026
+Last updated: Oct 03, 2026
+Comment
+:
+show
+This variant is classified as benign based on ACMG/AMP sequence variant interpretation guidelines (Richards et al. 2015 PMID: 25741868, with internal and published modifications).
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Benign
+(Nov 08, 2019)
+N
+Not contributing to aggregate classification
+no assertion criteria provided
+Usher syndrome type 2A
+Natera, Inc.
+Accession: SCV002088237.1
+First in ClinVar: Apr 23, 2022
+Last updated: Apr 23, 2022
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Likely benign
+(Sep 19, 2017)
+N
+Not contributing to aggregate classification
+no assertion criteria provided
+Usher syndrome type 2A
+Retinitis pigmentosa 39
+Counsyl
+Accession: SCV000794159.2
+First in ClinVar: Aug 05, 2018
+Last updated: Jun 29, 2025
+Publications:
+PubMed (9)
+PubMed:
+19129697
+‚
+20507924
+‚
+22004887
+‚
+22952768
+‚
+25262649
+‚
+25333064
+‚
+26075083
+‚
+26927203
+‚
+28224992
+Comment
+:
+show
+This submission and the accompanying classification are no longer maintained by the submitter. For more information on current observations and classification, please contact variantquestions@myriad.com.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+unknown
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+unknown
+Affected status
+:
+unknown
+Comment:
+Gly4692Ar in Exon 64 of USH2A: This variant is not expected to have clinical sig nificance because it has been identified in 0.6% (53/8600) of European American chromosomes by the NHLBI Exome Sequencing Project (http://evs.gs.washington.edu/ EVS/; rs45549044).
+OK
+Comment:
+Variant summary: USH2A c.14074G>A (p.Gly4692Arg) results in a non-conservative amino acid change located in the Fibronectin Type III domain (IPR003961) of the encoded protein sequence. Four of five in-silico tools predict a damaging effect of the variant on protein function. The variant allele was found at a frequency of 0.0047 in 250890 control chromosomes in the gnomAD database, including 6 homozygotes. Although reported in the literature, to our knowledge, no penetrant association of c.14074G>A in individuals affected with Usher Syndrome and no experimental evidence demonstrating its impact on protein function have been reported. Eight clinical diagnostic laboratories have submitted clinical-significance assessments for this variant to ClinVar after 2014 without evidence for independent evaluation. All laboratories classified the variant as benign/likely benign. Based on the evidence outlined above, the variant was classified as benign.
+OK
+Comment:
+USH2A: BP4, BS2
+OK
+Comment:
+This variant is associated with the following publications: (PMID: 22004887, 25333064, 25262649, 24944099, 26927203, 19129697, 30245029, 32707200)
+OK
+Comment:
+ACMG/AMP guidelines: PM3_1
+OK
+Comment:
+This variant is classified as benign based on ACMG/AMP sequence variant interpretation guidelines (Richards et al. 2015 PMID: 25741868, with internal and published modifications).
+OK
+Comment:
+This submission and the accompanying classification are no longer maintained by the submitter. For more information on current observations and classification, please contact variantquestions@myriad.com.
+OK
+Citations for germline classification of this variant
+Help
+Title
+Author
+Journal
+Year
+Link
+SD-OCT imaging as a valuable tool to support molecular genetic diagnostics of Usher syndrome type 1.
+Kremlikova Pourova R
+Journal of AAPOS : the official publication of the American Association for Pediatric Ophthalmology and Strabismus
+2018
+PMID:
+29551606
+Diagnostic exome sequencing in 266 Dutch patients with visual impairment.
+Haer-Wigman L
+European journal of human genetics : EJHG
+2017
+PMID:
+28224992
+Visual Prognosis in USH2A-Associated Retinitis Pigmentosa Is Worse for Patients with Usher Syndrome Type IIa Than for Those with Nonsyndromic Retinitis Pigmentosa.
+Pierrache LH
+Ophthalmology
+2016
+PMID:
+26927203
+Choroidal Thickness Analysis in Patients with Usher Syndrome Type 2 Using EDI OCT.
+Colombo L
+Journal of ophthalmology
+2015
+PMID:
+26075083
+Screening for single nucleotide variants, small indels and exon deletions with a next-generation sequencing based gene panel approach for Usher syndrome.
+Krawitz PM
+Molecular genetics & genomic medicine
+2014
+PMID:
+25333064
+Utilizing ethnic-specific differences in minor allele frequency to recategorize reported pathogenic deafness variants.
+Shearer AE
+American journal of human genetics
+2014
+PMID:
+25262649
+Molecular diagnosis of Usher syndrome: application of two different next generation sequencing-based procedures.
+Licastro D
+PloS one
+2012
+PMID:
+22952768
+Mutational screening of the USH2A gene in Spanish USH patients reveals 23 novel pathogenic mutations.
+Garcia-Garcia G
+Orphanet journal of rare diseases
+2011
+PMID:
+22004887
+Novel mutations in the long isoform of the USH2A gene in patients with Usher syndrome type II or non-syndromic retinitis pigmentosa.
+McGee TL
+Journal of medical genetics
+2010
+PMID:
+20507924
+Audiometric characteristics of USH2a patients.
+Leijendeckers JM
+Audiology & neuro-otology
+2009
+PMID:
+19129697
+http://www.egl-eurofins.com/emvclass/emvclass.php?approved_symbol=USH2A
+-
+-
+-
+-
+click to load more citations
+click to collapse
+Submissions - Functional Data
+functionally abnormal
+--
+retained intron
+assessed by
+RNAseq
+Result:
+read abundance - intron inclusion (p=0.0437)
+Modifies an exonic cryptic acceptor site at NC_000001.10:g.215844372 from -12.94 to 1.77 bits. Significant p-values: read abundance - intron inclusion (20 reads, p=0.0437). Computations were originally performed using genomic coordinates. This variant was mapped to an appropriate current MANE database designation or, if not present in this source, to the longest relevant transcript in the Biocommons Universal Transcript Archive using the hgvs Python package. The original genomic coordinate was based on GRCh37 and was submitted as an "Alternate designation". Modifications of Figure 2 of PMID:31275557 for ClinVar: a) "strongly corroborating Veridical p-value" refers to "junction-spanning" evidence types; b) add the text "and natural site < 300 nucleotides away?" to "Ri,final > nearest natural site Ri"; c) "Aberrant" and "Likely aberrant" classifications are now both defined as "Functionally abnormal" (analogous to ACMG/AMP reporting); d) "Allele-specific alternative splicing" classification now defined as "Function uncertain" (based on results for similar variants in PMID: 32211018); e) average heterozygosity based-criteria no longer contribute to classification.
+Citation:
+PubMed: 31275557
+Dr. Peter K. Rogan Lab, Western University
+Accession:
+SCV006749167.1
+Submitted:
+2025-10-17
+Assay description:
+In the sample (TCGA-BP-5004), the counts of splice junction spanning reads and abundance of the transcript adjacent to this mutation were compared with RNASeq data from matched tissues and tumors lacking the same mutation using Veridical (PMID:24741438)
+Disease context:
+Clear cell carcinoma of kidney
+Transcript, protein change:
+NM_206933.4:c.14074G>A, G4692R
+Molecular phenotype measured:
+splicing
+Cell line:
+TCGA-BP-5004
+Tissue:
+Kidney Renal Clear Cell Carcinoma (KIRC)
+Collection method:
+in vitro
+Species:
+human
+Number of controls:
+608
+functionally abnormal
+--
+retained intron
+assessed by
+RNAseq
+Result:
+junction spanning - intron inclusion (p=0.0),read abundance - intron inclusion (p=0.0384)
+Modifies an exonic cryptic acceptor site at NC_000001.10:g.215844372 from -12.94 to 1.77 bits. Significant p-values: junction spanning - intron inclusion (2 reads, p=0.0), read abundance - intron inclusion (10 reads, p=0.0384). Computations were originally performed using genomic coordinates. This variant was mapped to an appropriate current MANE database designation or, if not present in this source, to the longest relevant transcript in the Biocommons Universal Transcript Archive using the hgvs Python package. The original genomic coordinate was based on GRCh37 and was submitted as an "Alternate designation". Modifications of Figure 2 of PMID:31275557 for ClinVar: a) "strongly corroborating Veridical p-value" refers to "junction-spanning" evidence types; b) add the text "and natural site < 300 nucleotides away?" to "Ri,final > nearest natural site Ri"; c) "Aberrant" and "Likely aberrant" classifications are now both defined as "Functionally abnormal" (analogous to ACMG/AMP reporting); d) "Allele-specific alternative splicing" classification now defined as "Function uncertain" (based on results for similar variants in PMID: 32211018); e) average heterozygosity based-criteria no longer contribute to classification.
+Citation:
+PubMed: 31275557
+Dr. Peter K. Rogan Lab, Western University
+Accession:
+SCV006749178.1
+Submitted:
+2025-10-17
+Assay description:
+In the sample (TCGA-GN-A262), the counts of splice junction spanning reads and abundance of the transcript adjacent to this mutation were compared with RNASeq data from matched tissues and tumors lacking the same mutation using Veridical (PMID:24741438)
+Disease context:
+Melanoma
+Transcript, protein change:
+NM_206933.4:c.14074G>A, G4692R
+Molecular phenotype measured:
+splicing
+Cell line:
+TCGA-GN-A262
+Tissue:
+Skin Cutaneous Melanoma (SKCM)
+Collection method:
+in vitro
+Species:
+human
+Number of controls:
+566
+functionally abnormal
+--
+retained intron
+assessed by
+RNAseq
+Result:
+junction spanning - intron inclusion (p=0.0359),read abundance - intron inclusion (p=0.0001)
+Modifies an exonic cryptic acceptor site at NC_000001.10:g.215844372 from -12.94 to 1.77 bits. Significant p-values: junction spanning - intron inclusion (1 reads, p=0.0359), read abundance - intron inclusion (49 reads, p=0.0001). Computations were originally performed using genomic coordinates. This variant was mapped to an appropriate current MANE database designation or, if not present in this source, to the longest relevant transcript in the Biocommons Universal Transcript Archive using the hgvs Python package. The original genomic coordinate was based on GRCh37 and was submitted as an "Alternate designation". Modifications of Figure 2 of PMID:31275557 for ClinVar: a) "strongly corroborating Veridical p-value" refers to "junction-spanning" evidence types; b) add the text "and natural site < 300 nucleotides away?" to "Ri,final > nearest natural site Ri"; c) "Aberrant" and "Likely aberrant" classifications are now both defined as "Functionally abnormal" (analogous to ACMG/AMP reporting); d) "Allele-specific alternative splicing" classification now defined as "Function uncertain" (based on results for similar variants in PMID: 32211018); e) average heterozygosity based-criteria no longer contribute to classification.
+Citation:
+PubMed: 31275557
+Dr. Peter K. Rogan Lab, Western University
+Accession:
+SCV006749189.1
+Submitted:
+2025-10-17
+Assay description:
+In the sample (TCGA-AB-2920), the counts of splice junction spanning reads and abundance of the transcript adjacent to this mutation were compared with RNASeq data from matched tissues and tumors lacking the same mutation using Veridical (PMID:24741438)
+Disease context:
+Acute myeloid leukemia
+Transcript, protein change:
+NM_206933.4:c.14074G>A, G4692R
+Molecular phenotype measured:
+splicing
+Cell line:
+TCGA-AB-2920
+Tissue:
+Acute Myeloid Leukemia (LAML)
+Collection method:
+in vitro
+Species:
+human
+Number of controls:
+269
+functionally abnormal
+--
+retained intron
+assessed by
+RNAseq
+Result:
+junction spanning - intron inclusion (p=0.0)
+Modifies an exonic cryptic acceptor site at NC_000001.10:g.215844372 from -12.94 to 1.77 bits. Significant p-values: junction spanning - intron inclusion (5 reads, p=0.0). Computations were originally performed using genomic coordinates. This variant was mapped to an appropriate current MANE database designation or, if not present in this source, to the longest relevant transcript in the Biocommons Universal Transcript Archive using the hgvs Python package. The original genomic coordinate was based on GRCh37 and was submitted as an "Alternate designation". Modifications of Figure 2 of PMID:31275557 for ClinVar: a) "strongly corroborating Veridical p-value" refers to "junction-spanning" evidence types; b) add the text "and natural site < 300 nucleotides away?" to "Ri,final > nearest natural site Ri"; c) "Aberrant" and "Likely aberrant" classifications are now both defined as "Functionally abnormal" (analogous to ACMG/AMP reporting); d) "Allele-specific alternative splicing" classification now defined as "Function uncertain" (based on results for similar variants in PMID: 32211018); e) average heterozygosity based-criteria no longer contribute to classification.
+Citation:
+PubMed: 31275557
+Dr. Peter K. Rogan Lab, Western University
+Accession:
+SCV006749200.1
+Submitted:
+2025-10-17
+Assay description:
+In the sample (TCGA-AB-2814), the counts of splice junction spanning reads and abundance of the transcript adjacent to this mutation were compared with RNASeq data from matched tissues and tumors lacking the same mutation using Veridical (PMID:24741438)
+Disease context:
+Acute myeloid leukemia
+Transcript, protein change:
+NM_206933.4:c.14074G>A, G4692R
+Molecular phenotype measured:
+splicing
+Cell line:
+TCGA-AB-2814
+Tissue:
+Acute Myeloid Leukemia (LAML)
+Collection method:
+in vitro
+Species:
+human
+Number of controls:
+269
+functionally abnormal
+--
+retained intron
+assessed by
+RNAseq
+Result:
+read abundance - intron inclusion (p=0.0378)
+Modifies an exonic cryptic acceptor site at NC_000001.10:g.215844372 from -12.94 to 1.77 bits. Significant p-values: read abundance - intron inclusion (9 reads, p=0.0378). Computations were originally performed using genomic coordinates. This variant was mapped to an appropriate current MANE database designation or, if not present in this source, to the longest relevant transcript in the Biocommons Universal Transcript Archive using the hgvs Python package. The original genomic coordinate was based on GRCh37 and was submitted as an "Alternate designation". Modifications of Figure 2 of PMID:31275557 for ClinVar: a) "strongly corroborating Veridical p-value" refers to "junction-spanning" evidence types; b) add the text "and natural site < 300 nucleotides away?" to "Ri,final > nearest natural site Ri"; c) "Aberrant" and "Likely aberrant" classifications are now both defined as "Functionally abnormal" (analogous to ACMG/AMP reporting); d) "Allele-specific alternative splicing" classification now defined as "Function uncertain" (based on results for similar variants in PMID: 32211018); e) average heterozygosity based-criteria no longer contribute to classification.
+Citation:
+PubMed: 31275557
+Dr. Peter K. Rogan Lab, Western University
+Accession:
+SCV006749211.1
+Submitted:
+2025-10-17
+Assay description:
+In the sample (TCGA-EL-A3ZR), the counts of splice junction spanning reads and abundance of the transcript adjacent to this mutation were compared with RNASeq data from matched tissues and tumors lacking the same mutation using Veridical (PMID:24741438)
+Disease context:
+Thyroid cancer, nonmedullary, 1
+Transcript, protein change:
+NM_206933.4:c.14074G>A, G4692R
+Molecular phenotype measured:
+splicing
+Cell line:
+TCGA-EL-A3ZR
+Tissue:
+Thyroid Carcinoma (THCA)
+Collection method:
+in vitro
+Species:
+human
+Number of controls:
+543
+functionally abnormal
+--
+retained intron
+assessed by
+RNAseq
+Result:
+junction spanning - intron inclusion (p=0.0)
+Modifies an exonic cryptic acceptor site at NC_000001.10:g.215844372 from -12.94 to 1.77 bits. Significant p-values: junction spanning - intron inclusion (1 reads, p=0.0). Computations were originally performed using genomic coordinates. This variant was mapped to an appropriate current MANE database designation or, if not present in this source, to the longest relevant transcript in the Biocommons Universal Transcript Archive using the hgvs Python package. The original genomic coordinate was based on GRCh37 and was submitted as an "Alternate designation". Modifications of Figure 2 of PMID:31275557 for ClinVar: a) "strongly corroborating Veridical p-value" refers to "junction-spanning" evidence types; b) add the text "and natural site < 300 nucleotides away?" to "Ri,final > nearest natural site Ri"; c) "Aberrant" and "Likely aberrant" classifications are now both defined as "Functionally abnormal" (analogous to ACMG/AMP reporting); d) "Allele-specific alternative splicing" classification now defined as "Function uncertain" (based on results for similar variants in PMID: 32211018); e) average heterozygosity based-criteria no longer contribute to classification.
+Citation:
+PubMed: 31275557
+Dr. Peter K. Rogan Lab, Western University
+Accession:
+SCV006751697.1
+Submitted:
+2025-10-17
+Assay description:
+In the sample (TCGA-DO-A2HM), the counts of splice junction spanning reads and abundance of the transcript adjacent to this mutation were compared with RNASeq data from matched tissues and tumors lacking the same mutation using Veridical (PMID:24741438)
+Disease context:
+Thyroid cancer, nonmedullary, 1
+Transcript, protein change:
+NM_206933.4:c.14074G>A, G4692R
+Molecular phenotype measured:
+splicing
+Cell line:
+TCGA-DO-A2HM
+Tissue:
+Thyroid Carcinoma (THCA)
+Collection method:
+in vitro
+Species:
+human
+Number of controls:
+543
+functionally abnormal
+--
+retained intron
+assessed by
+RNAseq
+Result:
+read abundance - intron inclusion (p=0.0378)
+Modifies an exonic cryptic acceptor site at NC_000001.10:g.215844372 from -12.94 to 1.77 bits. Significant p-values: read abundance - intron inclusion (9 reads, p=0.0378). Computations were originally performed using genomic coordinates. This variant was mapped to an appropriate current MANE database designation or, if not present in this source, to the longest relevant transcript in the Biocommons Universal Transcript Archive using the hgvs Python package. The original genomic coordinate was based on GRCh37 and was submitted as an "Alternate designation". Modifications of Figure 2 of PMID:31275557 for ClinVar: a) "strongly corroborating Veridical p-value" refers to "junction-spanning" evidence types; b) add the text "and natural site < 300 nucleotides away?" to "Ri,final > nearest natural site Ri"; c) "Aberrant" and "Likely aberrant" classifications are now both defined as "Functionally abnormal" (analogous to ACMG/AMP reporting); d) "Allele-specific alternative splicing" classification now defined as "Function uncertain" (based on results for similar variants in PMID: 32211018); e) average heterozygosity based-criteria no longer contribute to classification.
+Citation:
+PubMed: 31275557
+Dr. Peter K. Rogan Lab, Western University
+Accession:
+SCV006751708.1
+Submitted:
+2025-10-17
+Assay description:
+In the sample (TCGA-GE-A2C6), the counts of splice junction spanning reads and abundance of the transcript adjacent to this mutation were compared with RNASeq data from matched tissues and tumors lacking the same mutation using Veridical (PMID:24741438)
+Disease context:
+Thyroid cancer, nonmedullary, 1
+Transcript, protein change:
+NM_206933.4:c.14074G>A, G4692R
+Molecular phenotype measured:
+splicing
+Cell line:
+TCGA-GE-A2C6
+Tissue:
+Thyroid Carcinoma (THCA)
+Collection method:
+in vitro
+Species:
+human
+Number of controls:
+543
+functionally abnormal
+--
+retained intron
+assessed by
+RNAseq
+Result:
+read abundance - intron inclusion (p=0.0119)
+Modifies an exonic cryptic acceptor site at NC_000001.10:g.215844372 from -12.94 to 1.77 bits. Significant p-values: read abundance - intron inclusion (11 reads, p=0.0119). Computations were originally performed using genomic coordinates. This variant was mapped to an appropriate current MANE database designation or, if not present in this source, to the longest relevant transcript in the Biocommons Universal Transcript Archive using the hgvs Python package. The original genomic coordinate was based on GRCh37 and was submitted as an "Alternate designation". Modifications of Figure 2 of PMID:31275557 for ClinVar: a) "strongly corroborating Veridical p-value" refers to "junction-spanning" evidence types; b) add the text "and natural site < 300 nucleotides away?" to "Ri,final > nearest natural site Ri"; c) "Aberrant" and "Likely aberrant" classifications are now both defined as "Functionally abnormal" (analogous to ACMG/AMP reporting); d) "Allele-specific alternative splicing" classification now defined as "Function uncertain" (based on results for similar variants in PMID: 32211018); e) average heterozygosity based-criteria no longer contribute to classification.
+Citation:
+PubMed: 31275557
+Dr. Peter K. Rogan Lab, Western University
+Accession:
+SCV006751719.1
+Submitted:
+2025-10-17
+Assay description:
+In the sample (TCGA-BJ-A28R), the counts of splice junction spanning reads and abundance of the transcript adjacent to this mutation were compared with RNASeq data from matched tissues and tumors lacking the same mutation using Veridical (PMID:24741438)
+Disease context:
+Thyroid cancer, nonmedullary, 1
+Transcript, protein change:
+NM_206933.4:c.14074G>A, G4692R
+Molecular phenotype measured:
+splicing
+Cell line:
+TCGA-BJ-A28R
+Tissue:
+Thyroid Carcinoma (THCA)
+Collection method:
+in vitro
+Species:
+human
+Number of controls:
+543
+Text-mined citations for rs45549044
+...
+Help
+These citations are identified by LitVar using
+    the rs number, so they may include citations for more than one variant
+    at this location. Please review the LitVar results carefully for your
+    variant of interest.
+Record last updated Oct 04, 2026
+This date represents the last time this VCV record was updated. The 
+                        update may be due to an update to one of the included submitted 
+                        records (SCVs), or due to an update that ClinVar made to the variant 
+                        such as adding HGVS expressions or a rs number. So this date may be 
+                        different from the date of the “most recent submission” reported at the 
+                        top of this page.
+Help
+Modify your search
+Search (all fields optional)
+Clear all
+Variant
+Gene
+Genomic Location
+GRCh38
+GRCh37
+More search options
+Disease
+Other Terms
+Advanced Search
+Clear all
+Search
+Follow NCBI
+Twitter
+Facebook
+LinkedIn
+GitHub
+Connect with NLM
+Twitter
+SM-Facebook
+SM-Youtube
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+Help
+Accessibility
+Careers
+NLM
+NIH
+HHS
+USA.gov

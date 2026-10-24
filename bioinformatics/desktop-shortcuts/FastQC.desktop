@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=FastQC
+Comment=Open FastQC in a configured terminal
+Exec=/usr/bin/ptyxis --new-window -- /usr/bin/env BIO_TOOL=fastqc /usr/bin/bash --rcfile /home/ravanox/codex/bioinformatics/desktop-shortcuts/tool-shell.bash -i
+Icon=/home/ravanox/codex/bioinformatics/desktop-shortcuts/icons/FastQC.svg
+Terminal=false
+Categories=Science;

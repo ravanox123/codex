@@ -1,0 +1,1179 @@
+VCV000013589.31 - ClinVar - NCBI
+An official website of the United States government
+Here's how you know
+Here's how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official
+                            government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you've safely
+                                connected to the .gov website. Share sensitive
+                                information only on official, secure websites.
+Log in
+Dashboard
+Publications
+Account settings
+Log out
+Primary site navigation
+Logged in as:
+Dashboard
+Publications
+Account settings
+Log in
+ClinVar Home
+About
+About ClinVar
+Statistics
+List of submitters
+Map of submitters
+Website overview
+FAQ
+Understand the Data
+Data authorities
+Preferred names
+Classification
+Review status and assertion criteria
+HGVS expressions
+Data validation
+Accessions and identifiers
+Release cycle
+Access the Data
+Web access
+How to search ClinVar
+VCV (variant) pages
+RCV (variant-condition) pages
+Downloads
+Programmatic access
+Linking to ClinVar
+Submit Data
+Submission overview
+Get started
+Submission instructions
+Expert panels and practice guidelines
+On this page
+Classification Summary
+Variant Details
+Genes
+Germline
+Conditions
+Submissions
+Citations
+Text-mined Citations
+NM_006208.3(ENPP1):c.517A>C (p.Lys173Gln)
+Cite
+Following
+Follow
+⚠
+Print
+Download
+Cite this record
+Close
+National Center for Biotechnology Information. ClinVar; [VCV000013589.31], https://www.ncbi.nlm.nih.gov/clinvar/variation/VCV000013589.31 (accessed Oct. 20, 2026).
+Copy
+Germline
+Classification
+Help
+criteria provided, conflicting classifications.
+Learn more about how ClinVar calculates review status.
+Conflicting classifications of pathogenicity
+Likely pathogenic (1); Benign (11)
+12 out of 16
+submissions contributed to this classification
+Help
+The aggregate germline classification for this variant, typically for a monogenic or Mendelian disorder as in
+the ACMG/AMP guidelines
+, or for response to a drug. This value is calculated by NCBI based on data from submitters.
+Read our rules for calculating the aggregate classification
+.
+16
+Somatic
+No data submitted for somatic clinical impact
+Somatic
+No data submitted for oncogenicity
+Variant Details
+Identifiers
+NM_006208.3(ENPP1):c.517A>C (p.Lys173Gln)
+Variation ID: 13589
+Accession: VCV000013589.31
+Type and length
+single nucleotide variant,
+1 bp
+Location
+Cytogenetic:
+6q23.2
+6:
+            
+            131851228
+(GRCh38)
+[
+NCBI
+UCSC
+]
+6:
+            
+            132172368
+(GRCh37)
+[
+NCBI
+UCSC
+]
+Timeline in ClinVar
+First in ClinVar
+Help
+The date this variant first appeared in ClinVar with each type of classification.
+Last submission
+Help
+The date of the most recent submission for each type of classification for this variant.
+Last evaluated
+Help
+The most recent date that a submitter evaluated this variant for each type of classification.
+Germline
+Jun 28, 2015
+Sep 22, 2026
+Feb 4, 2026
+HGVS
+Nucleotide
+Protein
+Molecular
+consequence
+NM_006208.3:c.517A>C
+MANE Select
+Help
+Transcripts from the Matched Annotation from the NCBI and EMBL-EBI (
+MANE
+) collaboration.
+NP_006199.2:p.Lys173Gln
+missense
+NC_000006.12:g.131851228A>C
+NC_000006.11:g.132172368A>C
+NG_008206.1:g.48213A>C
+LRG_1288:g.48213A>C
+LRG_1288t1:c.517A>C
+LRG_1288p1:p.Lys173Gln
+P22413:p.Lys173Gln
+...
+            more HGVS
+... less HGVS
+Protein change
+K173Q
+Other names
+K121Q
+Canonical SPDI
+NC_000006.12:131851227:A:C
+Global minor allele
+frequency (GMAF)
+Help
+The global minor allele frequency calculated by the 1000 Genomes Project. The minor allele at this location is indicated in parentheses and may be different from the allele represented by this VCV record.
+0.34225 (C)
+Allele frequency
+Help
+The frequency of the allele represented by this VCV record.
+The Genome Aggregation Database (gnomAD), exomes 0.19484
+The Genome Aggregation Database (gnomAD) 0.32168
+Exome Aggregation Consortium (ExAC) 0.20631
+1000 Genomes Project 30x 0.35681
+Trans-Omics for Precision Medicine (TOPMed) 0.35603
+1000 Genomes Project 0.34225
+Links
+ClinGen: CA123287
+UniProtKB: P22413#VAR_008873
+OMIM: 173335.0006
+dbSNP: rs1044498
+VarSome
+Genes
+Gene
+OMIM
+ClinGen Gene Dosage Sensitivity Curation
+Variation Viewer
+Help
+Links to Variation Viewer, a genome browser to view variation data from NCBI databases.
+Related variants
+HI score
+Help
+The haploinsufficiency score for the gene, curated by ClinGen’s Dosage Sensitivity Curation task team.
+TS score
+Help
+The triplosensitivity score for the gene, curated by ClinGen’s Dosage Sensitivity Curation task team.
+Within gene
+Help
+The number of variants in ClinVar that are contained within this gene, with a link to view the list of variants.
+All
+Help
+The number of variants in ClinVar for this gene, including smaller variants within the gene and larger CNVs that overlap or fully contain the gene.
+ENPP1
+Gene associated with autosomal recessive phenotype
+No evidence available
+GRCh38
+GRCh37
+976
+1004
+Conditions - Germline
+Condition
+Help
+The condition for this variant-condition (RCV) record in ClinVar.
+Classification
+Help
+The aggregate germline classification for this variant-condition (RCV) record in ClinVar. The number of submissions that contribute to this aggregate classification is shown in parentheses.
+(# of submissions)
+Review status
+Help
+The aggregate review status for this variant-condition (RCV) record in ClinVar. This value is calculated by NCBI based on data from submitters.
+Read our rules for calculating the review status
+.
+Last evaluated
+Help
+The most recent date that a submitter evaluated this variant for the condition.
+Variation/condition record
+Help
+The RCV accession number, with most recent version number, for the variant-condition record, with a link to the RCV web page.
+Insulin resistance, susceptibility to
+not provided (1)
+no classification provided
+May 23, 2025
+RCV000014558.7
+Obesity
+risk factor (1)
+no assertion criteria provided
+Dec 1, 2006
+RCV000033192.6
+not specified
+Benign (3)
+criteria provided, multiple submitters, no conflicts
+Nov 27, 2024
+RCV000178259.9
+Hypophosphatemic rickets, autosomal recessive, 2
+Benign (2)
+criteria provided, multiple submitters, no conflicts
+Jul 30, 2021
+RCV000265863.10
+Arterial calcification, generalized, of infancy, 1
+Benign (2)
+criteria provided, multiple submitters, no conflicts
+Jul 30, 2021
+RCV000355961.10
+Diabetes mellitus type 2, susceptibility to
+risk factor (1)
+no assertion criteria provided
+Dec 1, 2006
+RCV001255136.4
+not provided
+Benign (1)
+criteria provided, single submitter
+Feb 4, 2026
+RCV001515718.11
+Hypopigmentation-punctate palmoplantar keratoderma syndrome
+Benign (1)
+criteria provided, single submitter
+Jul 30, 2021
+RCV001659696.5
+Hypophosphatemic rickets
+Likely pathogenic (1)
+criteria provided, single submitter
+Mar 7, 2022
+RCV001843453.7
+Type 2 diabetes mellitus
+Benign (1)
+criteria provided, single submitter
+-
+RCV002226648.3
+ENPP1-related disorder
+Benign (1)
+no assertion criteria provided
+Apr 23, 2020
+RCV004541005.2
+Arterial calcification, generalized, of infancy, 1
+Hypophosphatemic rickets, autosomal recessive, 2
+Hypopigmentation-punctate palmoplantar keratoderma syndrome
+Inherited obesity
+Type 2 diabetes mellitus
+Benign (1)
+criteria provided, single submitter
+Apr 17, 2023
+RCV005394151.1
+click to load more conditions
+click to collapse
+Submissions - Germline
+Classification
+Help
+The submitted germline classification for each SCV record.
+(Last evaluated)
+Review status
+Help
+Stars represent the review status, or the level of review supporting the submitted (SCV) record. This value is calculated by NCBI based on data from the submitter.
+Read our rules for calculating the review status
+. This column also includes a link to the submitter’s assertion criteria if provided, and the collection method.
+(Assertion criteria)
+Condition
+Help
+The condition for the classification, provided by the submitter for this submitted (SCV) record. This column also includes the affected status and allele origin of individuals observed with this variant.
+Submitter
+Help
+The submitting organization for this submitted (SCV) record. This column also includes the SCV accession and version number, the date this SCV first appeared in ClinVar, and the date that this SCV was last updated in ClinVar.
+Expand all rows
+Collapse all rows
+Help
+This column includes more information supporting the classification, including citations, the comment on classification, and detailed evidence provided as observations of the variant by the submitter.
+Benign
+(Oct 04, 2022)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+Not specified
+Mayo Clinic Laboratories, Mayo Clinic
+Accession: SCV007305994.1
+First in ClinVar: Jan 17, 2026
+Last updated: Jan 17, 2026
+Comment
+:
+show
+BS1, BS2, BP4
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+more
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Number of individuals with the variant
+:
+87
+Benign
+(Nov 27, 2024)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+Not specified
+Blueprint Genetics
+Accession: SCV007683567.1
+First in ClinVar: Sep 22, 2026
+Last updated: Sep 22, 2026
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Benign
+(-)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+K&H Uppaluri Personalized Medicine Clinic Variant Classification & Assertion Criteria
+)
+Type 2 diabetes mellitus
+(Autosomal dominant inheritance)
+Clinical Genomics, Uppaluri K&H Personalized Medicine Clinic
+Accession: SCV002505495.1
+First in ClinVar: May 07, 2022
+Last updated: May 07, 2022
+Publications:
+PubMed (4)
+PubMed:
+18950909
+‚
+20981035
+‚
+27238374
+‚
+29979387
+Comment
+:
+show
+rs1044498 of ENPP1 is associated with type 2 diabetes mellitus and increased insulin resistance. It is also associated with calcification of coronary artery disease, increasing the chances of macrovascular complications in diabetes.
+(less)
+Observation: 1
+Collection method
+:
+research
+Allele origin
+:
+somatic
+Affected status
+:
+yes
+Observation 1
+Collection method
+:
+research
+Allele origin
+:
+somatic
+Affected status
+:
+yes
+Likely pathogenic
+(Mar 07, 2022)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+Hypophosphatemic rickets
+Laboratory of Cyto-molecular Genetics, Department of Anatomy, All India Institute of Medical Sciences (AIIMS), New Delhi
+Accession: SCV002102818.2
+First in ClinVar: Mar 12, 2022
+Last updated: Apr 13, 2025
+Comment:
+p.(Lys173Gln), missense variant
+Publications:
+PubMed (1)
+PubMed:
+35738466
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+more
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Number of individuals with the variant
+:
+2
+Age
+:
+1-45 years
+Sex
+:
+mixed
+Geographic origin
+:
+India
+Benign
+(Apr 27, 2017)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ICSL Variant Classification Criteria 13 December 2019
+)
+Hypophosphatemic rickets, autosomal recessive, 2
+Illumina Laboratory Services, Illumina
+Accession: SCV000460146.3
+First in ClinVar: Dec 06, 2016
+Last updated: May 31, 2020
+Comment
+:
+show
+This variant was observed as part of a predisposition screen in an ostensibly healthy population. A literature search was performed for the gene, cDNA change, and amino acid change (where applicable). No publications were found based on this search. Allele frequency data from public databases was too high to be consistent with this variant causing disease. Therefore, this variant is classified as benign.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Benign
+(Apr 27, 2017)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ICSL Variant Classification Criteria 13 December 2019
+)
+Arterial calcification, generalized, of infancy, 1
+Illumina Laboratory Services, Illumina
+Accession: SCV000460145.3
+First in ClinVar: Dec 06, 2016
+Last updated: May 31, 2020
+Publications:
+PubMed (1)
+PubMed:
+10480624
+Comment
+:
+show
+This variant was observed as part of a predisposition screen in an ostensibly healthy population. A literature search was performed for the gene, cDNA change, and amino acid change (where applicable). Publications were found based on this search. The evidence from the literature, in combination with allele frequency data from public databases where available, was sufficient to rule this variant out of causing disease. Therefore, this variant is classified as benign.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Benign
+(Apr 24, 2015)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+EGL Classification Definitions 2015
+)
+not specified
+Eurofins Ntd Llc (ga)
+Accession: SCV000230306.6
+First in ClinVar: Jun 28, 2015
+Last updated: Apr 13, 2025
+Other databases
+http://www.egl-eurofins.com/emvc…
+http://www.egl-eurofins.com/emvclass/emvclass.php?approved_symbol=ENPP1
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+more
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Number of individuals with the variant
+:
+1
+Zygosity
+:
+1 Homozygote
+Sex
+:
+mixed
+Benign
+(Jul 30, 2021)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+Arterial calcification, generalized, of infancy, 1
+Genome-Nilou Lab
+Accession: SCV001876028.2
+First in ClinVar: Sep 19, 2021
+Last updated: Apr 13, 2025
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+no
+more
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+no
+Sex
+:
+mixed
+Benign
+(Jul 30, 2021)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+Hypopigmentation-punctate palmoplantar keratoderma syndrome
+Genome-Nilou Lab
+Accession: SCV001876029.2
+First in ClinVar: Sep 19, 2021
+Last updated: Apr 13, 2025
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+no
+more
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+no
+Sex
+:
+mixed
+Benign
+(Jul 30, 2021)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+Hypophosphatemic rickets, autosomal recessive, 2
+Genome-Nilou Lab
+Accession: SCV001876030.2
+First in ClinVar: Sep 19, 2021
+Last updated: Apr 13, 2025
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+no
+more
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+no
+Sex
+:
+mixed
+Benign
+(Apr 17, 2023)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+Type 2 diabetes mellitus
+Arterial calcification, generalized, of infancy, 1
+Inherited obesity
+Hypophosphatemic rickets, autosomal recessive, 2
+Hypopigmentation-punctate palmoplantar keratoderma syndrome
+Explanation for multiple conditions: Uncertain.
+The variant was classified for several related diseases, possibly a spectrum of disease; the variant may be associated with one or more the diseases.
+Department of Pathology and Laboratory Medicine, Sinai Health System
+Accession: SCV006054145.1
+First in ClinVar: Apr 28, 2025
+Last updated: Apr 28, 2025
+Observation: 1
+Collection method
+:
+research
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+research
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Benign
+(Feb 04, 2026)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+Invitae Variant Classification Sherloc (09022015)
+)
+not provided
+Labcorp Genetics (formerly Invitae), Labcorp
+Accession: SCV001723855.6
+First in ClinVar: Jun 15, 2021
+Last updated: Feb 23, 2026
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Benign
+(Apr 23, 2020)
+N
+Not contributing to aggregate classification
+no assertion criteria provided
+ENPP1-related condition
+PreventionGenetics, part of Exact Sciences
+Accession: SCV004799261.2
+First in ClinVar: Mar 16, 2024
+Last updated: Oct 08, 2024
+Comment
+:
+show
+This variant is classified as benign based on ACMG/AMP sequence variant interpretation guidelines (Richards et al. 2015 PMID: 25741868, with internal and published modifications).
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+risk factor
+(Dec 01, 2006)
+N
+Not contributing to aggregate classification
+no assertion criteria provided
+TYPE 2 DIABETES MELLITUS, SUSCEPTIBILITY TO
+OMIM
+Accession: SCV001431239.2
+First in ClinVar: Sep 05, 2020
+Last updated: May 31, 2025
+Publications:
+PubMed (9)
+PubMed:
+10480624
+‚
+11739459
+‚
+14671192
+‚
+14988267
+‚
+15001634
+‚
+15126519
+‚
+16025115
+‚
+16607460
+‚
+16968801
+Observation: 1
+Collection method
+:
+literature only
+Allele origin
+:
+germline
+Affected status
+:
+not provided
+more
+Observation 1
+Collection method
+:
+literature only
+Allele origin
+:
+germline
+Affected status
+:
+not provided
+Comment on evidence
+:
+Pizzuti et al. (1999) described a polymorphism in exon 4 of the PC1 gene (K121Q; rs1044498) and demonstrated that it was strongly associated with insulin …
+(more)
+Pizzuti et al. (1999) described a polymorphism in exon 4 of the PC1 gene (K121Q; rs1044498) and demonstrated that it was strongly associated with insulin resistance (see 125853) in 121 healthy nonobese, nondiabetic Caucasians in Sicily. Compared with 80 KK allele subjects, Q allele carriers showed higher glucose and insulin levels during oral glucose tolerance tests and insulin resistance by euglycemic clamp. Q carriers had a higher risk of being hyperinsulinemic and insulin resistant. Insulin receptor autophosphorylation was reduced in cultured skin fibroblasts from KQ versus KK subjects. The results suggested that a Q-containing genotype may identify individuals who are at risk of developing insulin resistance, a condition that predisposes to type 2 diabetes (125853) and coronary artery disease (see 608320). Frittitta et al. (2001) investigated whether the PC1 gene modulates insulin sensitivity independently of weight status. Although subjects were nondiabetic by selection criteria, plasma insulin concentrations during oral glucose tolerance test were higher (P less than 0.05) in Q allele-carrying subjects (K121Q or Q121Q genotypes), compared with K121K individuals, in both the nonobese and obese groups. The K121Q polymorphism was correlated with insulin sensitivity independently (P less than 0.05) of BMI, gender, age, and waist circumference. The authors concluded that the Q121 PC1 variant and obesity (601665) have independent and additive effects in causing insulin resistance. Abate et al. (2003) determined the frequency of the PC1 K121Q and IRS1 G972R (147545.0002) polymorphisms in Asian Indians and Caucasians. (The authors referred to the IRS1 polymorphism as G972A.) The Asian Indian group included both subjects who had immigrated to the United States and those who were born in the United States. The frequency of carrying at least 1 copy of the PC1 121Q variant in Asian Indians was significantly higher than that in Caucasians (P = 0.01), but the frequency was similar for IRS1 972R (6% and 7%). A significantly higher insulin area under the curve during oral glucose tolerance testing (P less than 0.0001) and lower insulin sensitivity during glucose clamp studies (P = 0.04) were found in Asian Indians with the PC1 121Q variant compared with Asian Indians with wildtype PC1 and with Caucasians with or without the polymorphism. IRS1 972R was not associated with any change in insulin sensitivity. The authors concluded that the PC1 K121Q polymorphism associates with primary insulin resistance in migrant Asian Indians. Hamaguchi et al. (2004) studied the prevalence of PC1 Q121 in a Dominican Republic population (755 subjects studied) and whether this variant is associated with insulin resistance, obesity, or type 2 diabetes. The prevalence of PC1 Q121 was high compared with that in other populations. The proportions of genotypes detected were: KK, 21.6%; KQ, 48.3%; and QQ, 30.1%. This compares to approximately 74%, 24%, and 2% in other populations. Among nonobese nondiabetic subjects, the insulin response of KQ (P = 0.027) and QQ (P = 0.031) subjects was greater during the oral glucose tolerance test than that of KK subjects, whereas plasma glucose profiles were comparable. The Q allele was more prevalent in obese type 2 diabetics than in controls (P = 0.026; odds ratio = 1.56). Multiple regression analysis, after adjusting for age, gender, and body mass index (BMI), showed the QQ genotype to be associated with type 2 diabetes (P = 0.043; odds ratio = 2.74) but not obesity (P = 0.068). The authors concluded that the PC1 Q121 allele is exceptionally prevalent in the Dominican Republic, contributing to both insulin resistance and type 2 diabetes. Kubaszek et al. (2004) investigated whether the effect of the K121Q polymorphism on insulin sensitivity, and the occurrence of diabetes and hypertension, depends on size at birth. In a study of 489 subjects born in Helsinki between 1924 and 1933, they found that fasting insulin levels and insulin resistance were highest in subjects carrying the 121Q allele who were small at birth (P for interaction = 0.04 and 0.05). Additionally, in those whose birth length was up to 49 cm, the K121Q polymorphism was associated with a 2-fold higher incidence of type 2 diabetes. Kubaszek et al. (2004) concluded that the effect of the K121Q polymorphism on insulin levels and insulin sensitivity, measured as the homeostasis model assessment for insulin resistance, is dependent on birth length and that this interaction increases susceptibility to type 2 diabetes and hypertension in adulthood. Meyre et al. (2005) analyzed the ENPP1 gene in 6,147 subjects and found an association between a 3-allele risk haplotype defined by the polymorphisms K121Q, IVS20delT-11 (173335.0001), and A-G+1044TGA (173335.0007) and childhood obesity (odds ratio = 1.69, P = 0.0006), morbid or moderate obesity in adults (odds ratio = 1.50, P = 0.006 or odds ratio = 1.37, P = 0.02, respectively), and type 2 diabetes (odds ratio = 1.56, P = 0.00002). The Genotype IBD Sharing Test suggested that this obesity-associated ENPP1 risk haplotype, which they referred to as QdelTG, contributes to the chromosome 6q linkage in childhood obesity reported by Meyre et al. (2004). The haplotype confers a higher risk of glucose intolerance with type 2 diabetes to obese children and their parents and associates with increased serum levels of soluble ENPP1 protein in children. Expression of a long ENPP1 mRNA isoform, which includes the obesity-associated A-G+1044TGA SNP, was specific for pancreatic islet beta cells, adipocytes, and liver. Meyre et al. (2004) concluded that several variants of ENPP1 have a primary role in mediating insulin resistance and in the development of both obesity and type 2 diabetes, suggesting that an underlying molecular mechanism is common to both conditions. Bottcher et al. (2006) genotyped the K121Q, IVS20delT-11, and A/G+1044TGA ENPP1 genetic variants for association analyses in 712 school children and in independent cohorts of 205 obese children from Leipzig and 195 obese children from Datteln, Germany. They identified a significantly increased risk of obesity in Leipzig children carrying the 121Q variant (adjusted odds ratio, 1.82; 95% confidence interval, 1.30-2.56; P = 0.0005) or the Q-delT-G haplotype (1.75 (1.17-2.62), P = 0.006) as compared with a lean control group. Bottcher et al. (2006) concluded that their study suggested a potential role of the K121Q polymorphism or derived ENPP1 haplotypes in increased susceptibility to obesity and early impairment of glucose and insulin metabolism in children. In a case-control study of 911 unrelated Japanese patients with type 2 diabetes and 876 Japanese controls, Keshavarz et al. (2006) found no significant differences in genotype distribution or allele frequency of the K121Q variant between the 2 groups. Keshavarz et al. (2006) concluded that K121Q has little if any impact on type 2 diabetes susceptibility in the Japanese population.
+(less)
+risk factor
+(Dec 01, 2006)
+N
+Not contributing to aggregate classification
+no assertion criteria provided
+OBESITY, SUSCEPTIBILITY TO
+OMIM
+Accession: SCV000057037.3
+First in ClinVar: Apr 04, 2013
+Last updated: May 31, 2025
+Publications:
+PubMed (9)
+PubMed:
+10480624
+‚
+11739459
+‚
+14671192
+‚
+14988267
+‚
+15001634
+‚
+15126519
+‚
+16025115
+‚
+16607460
+‚
+16968801
+Observation: 1
+Collection method
+:
+literature only
+Allele origin
+:
+germline
+Affected status
+:
+not provided
+more
+Observation 1
+Collection method
+:
+literature only
+Allele origin
+:
+germline
+Affected status
+:
+not provided
+Comment on evidence
+:
+Pizzuti et al. (1999) described a polymorphism in exon 4 of the PC1 gene (K121Q; rs1044498) and demonstrated that it was strongly associated with insulin …
+(more)
+Pizzuti et al. (1999) described a polymorphism in exon 4 of the PC1 gene (K121Q; rs1044498) and demonstrated that it was strongly associated with insulin resistance (see 125853) in 121 healthy nonobese, nondiabetic Caucasians in Sicily. Compared with 80 KK allele subjects, Q allele carriers showed higher glucose and insulin levels during oral glucose tolerance tests and insulin resistance by euglycemic clamp. Q carriers had a higher risk of being hyperinsulinemic and insulin resistant. Insulin receptor autophosphorylation was reduced in cultured skin fibroblasts from KQ versus KK subjects. The results suggested that a Q-containing genotype may identify individuals who are at risk of developing insulin resistance, a condition that predisposes to type 2 diabetes (125853) and coronary artery disease (see 608320). Frittitta et al. (2001) investigated whether the PC1 gene modulates insulin sensitivity independently of weight status. Although subjects were nondiabetic by selection criteria, plasma insulin concentrations during oral glucose tolerance test were higher (P less than 0.05) in Q allele-carrying subjects (K121Q or Q121Q genotypes), compared with K121K individuals, in both the nonobese and obese groups. The K121Q polymorphism was correlated with insulin sensitivity independently (P less than 0.05) of BMI, gender, age, and waist circumference. The authors concluded that the Q121 PC1 variant and obesity (601665) have independent and additive effects in causing insulin resistance. Abate et al. (2003) determined the frequency of the PC1 K121Q and IRS1 G972R (147545.0002) polymorphisms in Asian Indians and Caucasians. (The authors referred to the IRS1 polymorphism as G972A.) The Asian Indian group included both subjects who had immigrated to the United States and those who were born in the United States. The frequency of carrying at least 1 copy of the PC1 121Q variant in Asian Indians was significantly higher than that in Caucasians (P = 0.01), but the frequency was similar for IRS1 972R (6% and 7%). A significantly higher insulin area under the curve during oral glucose tolerance testing (P less than 0.0001) and lower insulin sensitivity during glucose clamp studies (P = 0.04) were found in Asian Indians with the PC1 121Q variant compared with Asian Indians with wildtype PC1 and with Caucasians with or without the polymorphism. IRS1 972R was not associated with any change in insulin sensitivity. The authors concluded that the PC1 K121Q polymorphism associates with primary insulin resistance in migrant Asian Indians. Hamaguchi et al. (2004) studied the prevalence of PC1 Q121 in a Dominican Republic population (755 subjects studied) and whether this variant is associated with insulin resistance, obesity, or type 2 diabetes. The prevalence of PC1 Q121 was high compared with that in other populations. The proportions of genotypes detected were: KK, 21.6%; KQ, 48.3%; and QQ, 30.1%. This compares to approximately 74%, 24%, and 2% in other populations. Among nonobese nondiabetic subjects, the insulin response of KQ (P = 0.027) and QQ (P = 0.031) subjects was greater during the oral glucose tolerance test than that of KK subjects, whereas plasma glucose profiles were comparable. The Q allele was more prevalent in obese type 2 diabetics than in controls (P = 0.026; odds ratio = 1.56). Multiple regression analysis, after adjusting for age, gender, and body mass index (BMI), showed the QQ genotype to be associated with type 2 diabetes (P = 0.043; odds ratio = 2.74) but not obesity (P = 0.068). The authors concluded that the PC1 Q121 allele is exceptionally prevalent in the Dominican Republic, contributing to both insulin resistance and type 2 diabetes. Kubaszek et al. (2004) investigated whether the effect of the K121Q polymorphism on insulin sensitivity, and the occurrence of diabetes and hypertension, depends on size at birth. In a study of 489 subjects born in Helsinki between 1924 and 1933, they found that fasting insulin levels and insulin resistance were highest in subjects carrying the 121Q allele who were small at birth (P for interaction = 0.04 and 0.05). Additionally, in those whose birth length was up to 49 cm, the K121Q polymorphism was associated with a 2-fold higher incidence of type 2 diabetes. Kubaszek et al. (2004) concluded that the effect of the K121Q polymorphism on insulin levels and insulin sensitivity, measured as the homeostasis model assessment for insulin resistance, is dependent on birth length and that this interaction increases susceptibility to type 2 diabetes and hypertension in adulthood. Meyre et al. (2005) analyzed the ENPP1 gene in 6,147 subjects and found an association between a 3-allele risk haplotype defined by the polymorphisms K121Q, IVS20delT-11 (173335.0001), and A-G+1044TGA (173335.0007) and childhood obesity (odds ratio = 1.69, P = 0.0006), morbid or moderate obesity in adults (odds ratio = 1.50, P = 0.006 or odds ratio = 1.37, P = 0.02, respectively), and type 2 diabetes (odds ratio = 1.56, P = 0.00002). The Genotype IBD Sharing Test suggested that this obesity-associated ENPP1 risk haplotype, which they referred to as QdelTG, contributes to the chromosome 6q linkage in childhood obesity reported by Meyre et al. (2004). The haplotype confers a higher risk of glucose intolerance with type 2 diabetes to obese children and their parents and associates with increased serum levels of soluble ENPP1 protein in children. Expression of a long ENPP1 mRNA isoform, which includes the obesity-associated A-G+1044TGA SNP, was specific for pancreatic islet beta cells, adipocytes, and liver. Meyre et al. (2004) concluded that several variants of ENPP1 have a primary role in mediating insulin resistance and in the development of both obesity and type 2 diabetes, suggesting that an underlying molecular mechanism is common to both conditions. Bottcher et al. (2006) genotyped the K121Q, IVS20delT-11, and A/G+1044TGA ENPP1 genetic variants for association analyses in 712 school children and in independent cohorts of 205 obese children from Leipzig and 195 obese children from Datteln, Germany. They identified a significantly increased risk of obesity in Leipzig children carrying the 121Q variant (adjusted odds ratio, 1.82; 95% confidence interval, 1.30-2.56; P = 0.0005) or the Q-delT-G haplotype (1.75 (1.17-2.62), P = 0.006) as compared with a lean control group. Bottcher et al. (2006) concluded that their study suggested a potential role of the K121Q polymorphism or derived ENPP1 haplotypes in increased susceptibility to obesity and early impairment of glucose and insulin metabolism in children. In a case-control study of 911 unrelated Japanese patients with type 2 diabetes and 876 Japanese controls, Keshavarz et al. (2006) found no significant differences in genotype distribution or allele frequency of the K121Q variant between the 2 groups. Keshavarz et al. (2006) concluded that K121Q has little if any impact on type 2 diabetes susceptibility in the Japanese population.
+(less)
+not provided
+(May 23, 2025)
+N
+Not contributing to aggregate classification
+no classification provided
+INSULIN RESISTANCE, SUSCEPTIBILITY TO
+OMIM
+Accession: SCV000034810.3
+First in ClinVar: Apr 04, 2013
+Last updated: May 31, 2025
+Publications:
+PubMed (9)
+PubMed:
+10480624
+‚
+11739459
+‚
+14671192
+‚
+14988267
+‚
+15001634
+‚
+15126519
+‚
+16025115
+‚
+16607460
+‚
+16968801
+Observation: 1
+Collection method
+:
+literature only
+Allele origin
+:
+germline
+Affected status
+:
+not provided
+more
+Observation 1
+Collection method
+:
+literature only
+Allele origin
+:
+germline
+Affected status
+:
+not provided
+Comment on evidence
+:
+Pizzuti et al. (1999) described a polymorphism in exon 4 of the PC1 gene (K121Q; rs1044498) and demonstrated that it was strongly associated with insulin …
+(more)
+Pizzuti et al. (1999) described a polymorphism in exon 4 of the PC1 gene (K121Q; rs1044498) and demonstrated that it was strongly associated with insulin resistance (see 125853) in 121 healthy nonobese, nondiabetic Caucasians in Sicily. Compared with 80 KK allele subjects, Q allele carriers showed higher glucose and insulin levels during oral glucose tolerance tests and insulin resistance by euglycemic clamp. Q carriers had a higher risk of being hyperinsulinemic and insulin resistant. Insulin receptor autophosphorylation was reduced in cultured skin fibroblasts from KQ versus KK subjects. The results suggested that a Q-containing genotype may identify individuals who are at risk of developing insulin resistance, a condition that predisposes to type 2 diabetes (125853) and coronary artery disease (see 608320). Frittitta et al. (2001) investigated whether the PC1 gene modulates insulin sensitivity independently of weight status. Although subjects were nondiabetic by selection criteria, plasma insulin concentrations during oral glucose tolerance test were higher (P less than 0.05) in Q allele-carrying subjects (K121Q or Q121Q genotypes), compared with K121K individuals, in both the nonobese and obese groups. The K121Q polymorphism was correlated with insulin sensitivity independently (P less than 0.05) of BMI, gender, age, and waist circumference. The authors concluded that the Q121 PC1 variant and obesity (601665) have independent and additive effects in causing insulin resistance. Abate et al. (2003) determined the frequency of the PC1 K121Q and IRS1 G972R (147545.0002) polymorphisms in Asian Indians and Caucasians. (The authors referred to the IRS1 polymorphism as G972A.) The Asian Indian group included both subjects who had immigrated to the United States and those who were born in the United States. The frequency of carrying at least 1 copy of the PC1 121Q variant in Asian Indians was significantly higher than that in Caucasians (P = 0.01), but the frequency was similar for IRS1 972R (6% and 7%). A significantly higher insulin area under the curve during oral glucose tolerance testing (P less than 0.0001) and lower insulin sensitivity during glucose clamp studies (P = 0.04) were found in Asian Indians with the PC1 121Q variant compared with Asian Indians with wildtype PC1 and with Caucasians with or without the polymorphism. IRS1 972R was not associated with any change in insulin sensitivity. The authors concluded that the PC1 K121Q polymorphism associates with primary insulin resistance in migrant Asian Indians. Hamaguchi et al. (2004) studied the prevalence of PC1 Q121 in a Dominican Republic population (755 subjects studied) and whether this variant is associated with insulin resistance, obesity, or type 2 diabetes. The prevalence of PC1 Q121 was high compared with that in other populations. The proportions of genotypes detected were: KK, 21.6%; KQ, 48.3%; and QQ, 30.1%. This compares to approximately 74%, 24%, and 2% in other populations. Among nonobese nondiabetic subjects, the insulin response of KQ (P = 0.027) and QQ (P = 0.031) subjects was greater during the oral glucose tolerance test than that of KK subjects, whereas plasma glucose profiles were comparable. The Q allele was more prevalent in obese type 2 diabetics than in controls (P = 0.026; odds ratio = 1.56). Multiple regression analysis, after adjusting for age, gender, and body mass index (BMI), showed the QQ genotype to be associated with type 2 diabetes (P = 0.043; odds ratio = 2.74) but not obesity (P = 0.068). The authors concluded that the PC1 Q121 allele is exceptionally prevalent in the Dominican Republic, contributing to both insulin resistance and type 2 diabetes. Kubaszek et al. (2004) investigated whether the effect of the K121Q polymorphism on insulin sensitivity, and the occurrence of diabetes and hypertension, depends on size at birth. In a study of 489 subjects born in Helsinki between 1924 and 1933, they found that fasting insulin levels and insulin resistance were highest in subjects carrying the 121Q allele who were small at birth (P for interaction = 0.04 and 0.05). Additionally, in those whose birth length was up to 49 cm, the K121Q polymorphism was associated with a 2-fold higher incidence of type 2 diabetes. Kubaszek et al. (2004) concluded that the effect of the K121Q polymorphism on insulin levels and insulin sensitivity, measured as the homeostasis model assessment for insulin resistance, is dependent on birth length and that this interaction increases susceptibility to type 2 diabetes and hypertension in adulthood. Meyre et al. (2005) analyzed the ENPP1 gene in 6,147 subjects and found an association between a 3-allele risk haplotype defined by the polymorphisms K121Q, IVS20delT-11 (173335.0001), and A-G+1044TGA (173335.0007) and childhood obesity (odds ratio = 1.69, P = 0.0006), morbid or moderate obesity in adults (odds ratio = 1.50, P = 0.006 or odds ratio = 1.37, P = 0.02, respectively), and type 2 diabetes (odds ratio = 1.56, P = 0.00002). The Genotype IBD Sharing Test suggested that this obesity-associated ENPP1 risk haplotype, which they referred to as QdelTG, contributes to the chromosome 6q linkage in childhood obesity reported by Meyre et al. (2004). The haplotype confers a higher risk of glucose intolerance with type 2 diabetes to obese children and their parents and associates with increased serum levels of soluble ENPP1 protein in children. Expression of a long ENPP1 mRNA isoform, which includes the obesity-associated A-G+1044TGA SNP, was specific for pancreatic islet beta cells, adipocytes, and liver. Meyre et al. (2004) concluded that several variants of ENPP1 have a primary role in mediating insulin resistance and in the development of both obesity and type 2 diabetes, suggesting that an underlying molecular mechanism is common to both conditions. Bottcher et al. (2006) genotyped the K121Q, IVS20delT-11, and A/G+1044TGA ENPP1 genetic variants for association analyses in 712 school children and in independent cohorts of 205 obese children from Leipzig and 195 obese children from Datteln, Germany. They identified a significantly increased risk of obesity in Leipzig children carrying the 121Q variant (adjusted odds ratio, 1.82; 95% confidence interval, 1.30-2.56; P = 0.0005) or the Q-delT-G haplotype (1.75 (1.17-2.62), P = 0.006) as compared with a lean control group. Bottcher et al. (2006) concluded that their study suggested a potential role of the K121Q polymorphism or derived ENPP1 haplotypes in increased susceptibility to obesity and early impairment of glucose and insulin metabolism in children. In a case-control study of 911 unrelated Japanese patients with type 2 diabetes and 876 Japanese controls, Keshavarz et al. (2006) found no significant differences in genotype distribution or allele frequency of the K121Q variant between the 2 groups. Keshavarz et al. (2006) concluded that K121Q has little if any impact on type 2 diabetes susceptibility in the Japanese population.
+(less)
+Comment:
+BS1, BS2, BP4
+OK
+Comment:
+rs1044498 of ENPP1 is associated with type 2 diabetes mellitus and increased insulin resistance. It is also associated with calcification of coronary artery disease, increasing the chances of macrovascular complications in diabetes.
+OK
+Comment:
+This variant was observed as part of a predisposition screen in an ostensibly healthy population. A literature search was performed for the gene, cDNA change, and amino acid change (where applicable). No publications were found based on this search. Allele frequency data from public databases was too high to be consistent with this variant causing disease. Therefore, this variant is classified as benign.
+OK
+Comment:
+This variant was observed as part of a predisposition screen in an ostensibly healthy population. A literature search was performed for the gene, cDNA change, and amino acid change (where applicable). Publications were found based on this search. The evidence from the literature, in combination with allele frequency data from public databases where available, was sufficient to rule this variant out of causing disease. Therefore, this variant is classified as benign.
+OK
+Comment:
+This variant is classified as benign based on ACMG/AMP sequence variant interpretation guidelines (Richards et al. 2015 PMID: 25741868, with internal and published modifications).
+OK
+Citations for germline classification of this variant
+Help
+Title
+Author
+Journal
+Year
+Link
+Genetic and clinical profile of patients with hypophosphatemic rickets.
+Marik B
+European journal of medical genetics
+2022
+PMID:
+35738466
+ENPP1 K121Q (rs1044498 C > A) genetic polymorphism confers a high risk of susceptibility to coronary heart disease: A PRISMA-compliant article.
+Di JY
+Medicine
+2018
+PMID:
+29979387
+The ENPP1 K121Q polymorphism is associated with type 2 diabetes and related metabolic phenotypes in a Taiwanese population.
+Hsiao TJ
+Molecular and cellular endocrinology
+2016
+PMID:
+27238374
+The ENPP1 K121Q polymorphism is not associated with type 2 diabetes or obesity in the Chinese Han population.
+Zhao T
+Journal of human genetics
+2011
+PMID:
+20981035
+Association of the Q121 variant of ENPP1 gene with decreased kidney function among patients with type 2 diabetes.
+De Cosmo S
+American journal of kidney diseases : the official journal of the National Kidney Foundation
+2009
+PMID:
+18950909
+ENPP1 variants and haplotypes predispose to early onset obesity and impaired glucose and insulin metabolism in German obese children.
+Böttcher Y
+The Journal of clinical endocrinology and metabolism
+2006
+PMID:
+16968801
+No evidence for association of the ENPP1 (PC-1) K121Q variant with risk of type 2 diabetes in a Japanese population.
+Keshavarz P
+Journal of human genetics
+2006
+PMID:
+16607460
+Variants of ENPP1 are associated with childhood and adult obesity and increase the risk of glucose intolerance and type 2 diabetes.
+Meyre D
+Nature genetics
+2005
+PMID:
+16025115
+The association of the K121Q polymorphism of the plasma cell glycoprotein-1 gene with type 2 diabetes and hypertension depends on size at birth.
+Kubaszek A
+The Journal of clinical endocrinology and metabolism
+2004
+PMID:
+15126519
+The PC-1 Q121 allele is exceptionally prevalent in the Dominican Republic and is associated with type 2 diabetes.
+Hamaguchi K
+The Journal of clinical endocrinology and metabolism
+2004
+PMID:
+15001634
+A genome-wide scan for childhood obesity-associated traits in French families shows significant linkage on chromosome 6q22.31-q23.2.
+Meyre D
+Diabetes
+2004
+PMID:
+14988267
+Genetic polymorphism PC-1 K121Q and ethnic susceptibility to insulin resistance.
+Abate N
+The Journal of clinical endocrinology and metabolism
+2003
+PMID:
+14671192
+The Q121 PC-1 variant and obesity have additive and independent effects in causing insulin resistance.
+Frittitta L
+The Journal of clinical endocrinology and metabolism
+2001
+PMID:
+11739459
+A polymorphism (K121Q) of the human glycoprotein PC-1 gene coding region is strongly associated with insulin resistance.
+Pizzuti A
+Diabetes
+1999
+PMID:
+10480624
+http://www.egl-eurofins.com/emvclass/emvclass.php?approved_symbol=ENPP1
+-
+-
+-
+-
+click to load more citations
+click to collapse
+Text-mined citations for rs1044498
+...
+Help
+These citations are identified by LitVar using
+    the rs number, so they may include citations for more than one variant
+    at this location. Please review the LitVar results carefully for your
+    variant of interest.
+Record last updated Oct 18, 2026
+This date represents the last time this VCV record was updated. The 
+                        update may be due to an update to one of the included submitted 
+                        records (SCVs), or due to an update that ClinVar made to the variant 
+                        such as adding HGVS expressions or a rs number. So this date may be 
+                        different from the date of the “most recent submission” reported at the 
+                        top of this page.
+Help
+Modify your search
+Search (all fields optional)
+Clear all
+Variant
+Gene
+Genomic Location
+GRCh38
+GRCh37
+More search options
+Disease
+Other Terms
+Advanced Search
+Clear all
+Search
+Follow NCBI
+Twitter
+Facebook
+LinkedIn
+GitHub
+Connect with NLM
+Twitter
+SM-Facebook
+SM-Youtube
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+Help
+Accessibility
+Careers
+NLM
+NIH
+HHS
+USA.gov

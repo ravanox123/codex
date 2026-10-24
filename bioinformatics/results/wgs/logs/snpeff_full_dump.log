@@ -1,0 +1,10 @@
+java.lang.OutOfMemoryError: Java heap space
+	at org.snpeff.interval.Intron.createSpliceSiteAcceptor(Intron.java:81)
+	at org.snpeff.interval.Transcript.createSpliceSites(Transcript.java:729)
+	at org.snpeff.interval.Genes.createSpliceSites(Genes.java:129)
+	at org.snpeff.snpEffect.SnpEffectPredictor.createGenomicRegions(SnpEffectPredictor.java:185)
+	at org.snpeff.snpEffect.SnpEffectPredictor.buildForest(SnpEffectPredictor.java:134)
+	at org.snpeff.SnpEff.loadDb(SnpEff.java:622)
+	at org.snpeff.snpEffect.commandLine.SnpEffCmdDump.run(SnpEffCmdDump.java:187)
+	at org.snpeff.SnpEff.run(SnpEff.java:1175)
+	at org.snpeff.SnpEff.main(SnpEff.java:164)

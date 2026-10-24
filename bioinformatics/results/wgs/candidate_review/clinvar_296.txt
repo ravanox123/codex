@@ -1,0 +1,3410 @@
+VCV000000296.123 - ClinVar - NCBI
+An official website of the United States government
+Here's how you know
+Here's how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official
+                            government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you've safely
+                                connected to the .gov website. Share sensitive
+                                information only on official, secure websites.
+Log in
+Dashboard
+Publications
+Account settings
+Log out
+Primary site navigation
+Logged in as:
+Dashboard
+Publications
+Account settings
+Log in
+ClinVar Home
+About
+About ClinVar
+Statistics
+List of submitters
+Map of submitters
+Website overview
+FAQ
+Understand the Data
+Data authorities
+Preferred names
+Classification
+Review status and assertion criteria
+HGVS expressions
+Data validation
+Accessions and identifiers
+Release cycle
+Access the Data
+Web access
+How to search ClinVar
+VCV (variant) pages
+RCV (variant-condition) pages
+Downloads
+Programmatic access
+Linking to ClinVar
+Submit Data
+Submission overview
+Get started
+Submission instructions
+Expert panels and practice guidelines
+On this page
+Classification Summary
+Variant Details
+Genes
+Germline
+Conditions
+Submissions
+Citations
+Text-mined Citations
+NM_000552.5(VWF):c.2561G>A (p.Arg854Gln)
+Cite
+Following
+Follow
+⚠
+Print
+Download
+Cite this record
+Close
+National Center for Biotechnology Information. ClinVar; [VCV000000296.123], https://www.ncbi.nlm.nih.gov/clinvar/variation/VCV000000296.123 (accessed Oct. 20, 2026).
+Copy
+Germline
+Reviewed by expert panel
+Help
+Reviewed by expert panel.
+Learn more about how ClinVar calculates review status.
+Pathogenic
+for
+von Willebrand disease type 2N
+Classification is based on the
+expert panel submission
+Jul 2024 by
+ClinGen von Willebrand Disease Variant Curation Expert Pane…
+Help
+The classification is calculated by NCBI based on data from submitters.
+Read our rules for calculating the aggregate classification
+.
+FDA Recognized Database
+Somatic
+No data submitted for somatic clinical impact
+Somatic
+No data submitted for oncogenicity
+Variant Details
+Identifiers
+NM_000552.5(VWF):c.2561G>A (p.Arg854Gln)
+Variation ID: 296
+Accession: VCV000000296.123
+Type and length
+single nucleotide variant,
+1 bp
+Location
+Cytogenetic:
+12p13.31
+12:
+            
+            6034812
+(GRCh38)
+[
+NCBI
+UCSC
+]
+12:
+            
+            6143978
+(GRCh37)
+[
+NCBI
+UCSC
+]
+Timeline in ClinVar
+First in ClinVar
+Help
+The date this variant first appeared in ClinVar with each type of classification.
+Last submission
+Help
+The date of the most recent submission for each type of classification for this variant.
+Last evaluated
+Help
+The most recent date that a submitter evaluated this variant for each type of classification.
+Germline
+Apr 4, 2013
+Oct 3, 2026
+Jul 9, 2024
+HGVS
+Nucleotide
+Protein
+Molecular
+consequence
+NM_000552.5:c.2561G>A
+MANE Select
+Help
+Transcripts from the Matched Annotation from the NCBI and EMBL-EBI (
+MANE
+) collaboration.
+NP_000543.3:p.Arg854Gln
+missense
+NC_000012.12:g.6034812C>T
+NC_000012.11:g.6143978C>T
+NG_009072.2:g.94859G>A
+LRG_587:g.94859G>A
+LRG_587t1:c.2561G>A
+LRG_587p1:p.Arg854Gln
+P04275:p.Arg854Gln
+...
+            more HGVS
+... less HGVS
+Protein change
+R854Q
+Other names
+p.R854Q
+NM_000552.5(VWF):c.2561G>A
+Canonical SPDI
+NC_000012.12:6034811:C:T
+Global minor allele
+frequency (GMAF)
+Help
+The global minor allele frequency calculated by the 1000 Genomes Project. The minor allele at this location is indicated in parentheses and may be different from the allele represented by this VCV record.
+0.00180 (T)
+Allele frequency
+Help
+The frequency of the allele represented by this VCV record.
+1000 Genomes Project 0.00180
+1000 Genomes Project 30x 0.00187
+Exome Aggregation Consortium (ExAC) 0.00308
+The Genome Aggregation Database (gnomAD), exomes 0.00340
+Trans-Omics for Precision Medicine (TOPMed) 0.00351
+The Genome Aggregation Database (gnomAD) 0.00377
+The Genome Aggregation Database (gnomAD) 0.00378
+The Genome Aggregation Database (gnomAD), exomes 0.00511
+Links
+ClinGen: CA114139
+UniProtKB: P04275#VAR_005789
+OMIM: 613160.0013
+dbSNP: rs41276738
+VarSome
+Genes
+Gene
+OMIM
+ClinGen Gene Dosage Sensitivity Curation
+Variation Viewer
+Help
+Links to Variation Viewer, a genome browser to view variation data from NCBI databases.
+Related variants
+HI score
+Help
+The haploinsufficiency score for the gene, curated by ClinGen’s Dosage Sensitivity Curation task team.
+TS score
+Help
+The triplosensitivity score for the gene, curated by ClinGen’s Dosage Sensitivity Curation task team.
+Within gene
+Help
+The number of variants in ClinVar that are contained within this gene, with a link to view the list of variants.
+All
+Help
+The number of variants in ClinVar for this gene, including smaller variants within the gene and larger CNVs that overlap or fully contain the gene.
+VWF
+-
+-
+GRCh38
+GRCh37
+2257
+2319
+Conditions - Germline
+Condition
+Help
+The condition for this variant-condition (RCV) record in ClinVar.
+Classification
+Help
+The aggregate germline classification for this variant-condition (RCV) record in ClinVar. The number of submissions that contribute to this aggregate classification is shown in parentheses.
+(# of submissions)
+Review status
+Help
+The aggregate review status for this variant-condition (RCV) record in ClinVar. This value is calculated by NCBI based on data from submitters.
+Read our rules for calculating the review status
+.
+Last evaluated
+Help
+The most recent date that a submitter evaluated this variant for the condition.
+Variation/condition record
+Help
+The RCV accession number, with most recent version number, for the variant-condition record, with a link to the RCV web page.
+von Willebrand disease type 2N
+Pathogenic (4)
+reviewed by expert panel
+Jul 9, 2024
+RCV000000320.13
+von Willebrand disease type 1
+Pathogenic (7)
+criteria provided, multiple submitters, no conflicts
+Jan 24, 2024
+RCV000000321.20
+not provided
+Pathogenic/Likely pathogenic (20)
+criteria provided, multiple submitters, no conflicts
+Feb 6, 2026
+RCV000086620.90
+Hereditary von Willebrand disease
+Pathogenic (4)
+criteria provided, multiple submitters, no conflicts
+Mar 19, 2024
+RCV000169683.25
+von Willebrand disease type 2
+Pathogenic/Likely pathogenic (11)
+criteria provided, multiple submitters, no conflicts
+May 27, 2025
+RCV000336497.28
+von Willebrand disease type 1
+von Willebrand disease type 2
+von Willebrand disease type 3
+Pathogenic (2)
+criteria provided, multiple submitters, no conflicts
+Mar 12, 2024
+RCV000762901.13
+Abnormality of coagulation
+Likely pathogenic (1)
+criteria provided, single submitter
+Feb 1, 2019
+RCV000851593.10
+Abnormal bleeding
+Thrombocytopenia
+Likely pathogenic (1)
+no assertion criteria provided
+May 1, 2020
+RCV001270529.9
+von Willebrand disorder
+Pathogenic (1)
+criteria provided, single submitter
+Jan 16, 2024
+RCV003987302.1
+VWF-related disorder
+Pathogenic (2)
+criteria provided, multiple submitters, no conflicts
+Aug 27, 2026
+RCV004547445.4
+von Willebrand disease type 3
+Pathogenic (1)
+criteria provided, single submitter
+Jan 5, 2023
+RCV004771452.1
+von Willebrand disease type 2
+von Willebrand disease type 3
+Pathogenic (1)
+criteria provided, single submitter
+Mar 18, 2025
+RCV006684474.1
+click to load more conditions
+click to collapse
+Submissions - Germline
+Classification
+Help
+The submitted germline classification for each SCV record.
+(Last evaluated)
+Review status
+Help
+Stars represent the review status, or the level of review supporting the submitted (SCV) record. This value is calculated by NCBI based on data from the submitter.
+Read our rules for calculating the review status
+. This column also includes a link to the submitter’s assertion criteria if provided, and the collection method.
+(Assertion criteria)
+Condition
+Help
+The condition for the classification, provided by the submitter for this submitted (SCV) record. This column also includes the affected status and allele origin of individuals observed with this variant.
+Submitter
+Help
+The submitting organization for this submitted (SCV) record. This column also includes the SCV accession and version number, the date this SCV first appeared in ClinVar, and the date that this SCV was last updated in ClinVar.
+Expand all rows
+Collapse all rows
+Help
+This column includes more information supporting the classification, including citations, the comment on classification, and detailed evidence provided as observations of the variant by the submitter.
+Pathogenic
+(Jul 09, 2024)
+C
+Contributing to aggregate classification
+reviewed by expert panel
+(
+ClinGen VWD 2N Rules
+)
+von Willebrand disease type 2N
+(Autosomal recessive inheritance)
+ClinGen von Willebrand Disease Variant Curation Expert Panel, ClinGen
+FDA Recognized Database
+Accession: SCV005437149.1
+First in ClinVar: Dec 22, 2024
+Last updated: Dec 22, 2024
+Other databases
+https://erepo.clinicalgenome.org…
+https://erepo.clinicalgenome.org/evrepo/ui/interpretation/01c59bbd-0d03-488a-94f1-fa68f3b2e083
+Comment
+:
+show
+The NM_000552.5(VWF):c.2561G>A variant in VWF is a missense variant predicted to cause substitution of arginine by glutamine at amino acid 854. The Grpmax filtering allele frequency in gnomAD v4.0 is 0.005857 (based on 7050/1180026 alleles, with 24 homozygotes) in the European non-Finnish population. This allele frequency is above the ClinGen VWD VCEP threshold for VWD Type 2N (<0.005) for PM2_Supporting but below the threshold (>0.01) for BS1 and therefore does not meet any population criterion. At least 9 patients with this variant displayed excessive mucocutaneous bleeding, low FVIII activity, and decreased VWF:FVIII binding, which is highly specific for VWD type 2N (PP4_Moderate, PMID: 28971901, PMID: 22875612). Four individuals were homozygous for the variant (PMID: 28971901, PMID: 22875612, PMID: 1832934) and one of those individuals was compound heterozygous for the variant and a pathogenic variant (p.Arg816Trp) confirmed in trans (PMID: 1832934), additional compound heterozygotes have been reported but were not considered here (PM3_Strong). In one family, the variant segregated with VWD type 2N in the proband and a second affected family member (PP1; PMID: 28971901). A hydrodynamic mouse model showed reduced factor VIII stability and impaired binding of factor VIII to VWF, indicating that this variant has a damaging effect on protein function (PMID: 28581694)(PS3). In summary, this variant meets the criteria to be classified as Pathogenic for von Willebrand disease type 2N. ACMG/AMP criteria applied as specified by the ClinGen von Willebrand disease Variant Curation Expert Panel: PS3, PM3_Strong, PP4_Moderate, PP1.
+(less)
+Observation: 1
+Collection method
+:
+curation
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+curation
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Pathogenic
+(Apr 18, 2017)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+not provided
+Center for Pediatric Genomic Medicine, Children's Mercy Hospital and Clinics
+Accession: SCV000610065.1
+First in ClinVar: Mar 08, 2017
+Last updated: Mar 08, 2017
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+not provided
+more
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+not provided
+Platform type
+:
+Sequencing
+Platform name
+:
+Illumina
+Pathogenic
+(May 04, 2022)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+Mendelics Assertion Criteria 2019
+)
+von Willebrand disease type 1
+Mendelics
+Accession: SCV002519962.1
+First in ClinVar: May 28, 2022
+Last updated: May 28, 2022
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Pathogenic
+(Mar 04, 2025)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+not provided
+Center for Genomic Medicine, Rigshospitalet, Copenhagen University Hospital
+Accession: SCV004243463.2
+First in ClinVar: Feb 14, 2024
+Last updated: Mar 11, 2025
+Publications:
+PubMed (2)
+PubMed:
+22875612
+‚
+33497541
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Pathogenic
+(Sep 14, 2015)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+EGL Classification Definitions 2015
+)
+not provided
+Eurofins Ntd Llc (ga)
+Accession: SCV000334295.5
+First in ClinVar: Dec 06, 2016
+Last updated: Apr 13, 2025
+Publications:
+PubMed (1)
+PubMed:
+1832934
+Other databases
+http://www.egl-eurofins.com/emvc…
+http://www.egl-eurofins.com/emvclass/emvclass.php?approved_symbol=VWF
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+more
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Number of individuals with the variant
+:
+5
+Zygosity
+:
+5 Single Heterozygotes
+Sex
+:
+mixed
+Pathogenic
+(Mar 25, 2024)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+not provided
+Genetic Services Laboratory, University of Chicago
+Accession: SCV006325654.2
+First in ClinVar: Sep 22, 2025
+Last updated: Nov 02, 2025
+Comment
+:
+show
+DNA sequence analysis of the VWF gene demonstrated a sequence change, c.2561G>A, in exon 20 that results in an amino acid change, p.Arg854Gln. This pathogenic sequence change has previously been described in the bi-allelic state in several individuals with autosomal recessive Von Willebrand Disease type 2N and is the most common pathogenic variant associated with VWD type 2N (PMID: 21371195, 26207643, 15461624, 1832934). This sequence change has been described in the gnomAD database with a frequency of 0.35% in the overall population (dbSNP rs41276738).The p.Arg854Gln change affects a highly conserved amino acid residue located in a domain of the VWF protein that is known to be functional. Functional studies indicate that this sequence change results in decreased ability of the VWF protein to bind Factor VIII (PMID: 1906877, 15461624, 23426949, 12176890). In-silico pathogenicity prediction tools (SIFT, PolyPhen2, Align GVGD, REVEL) provide contradictory results for the p.Arg854Gln substitution. These collective evidences indicate that this sequence change is pathogenic.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Pathogenic
+(Jun 14, 2016)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+ICSL Variant Classification 20161018
+)
+von Willebrand Disease
+Illumina Laboratory Services, Illumina
+Accession: SCV000380622.2
+First in ClinVar: Dec 06, 2016
+Last updated: Dec 06, 2016
+Publications:
+PubMed (15)
+PubMed:
+15461624
+‚
+1581215
+‚
+16953269
+‚
+16985174
+‚
+1832934
+‚
+18712522
+‚
+1906877
+‚
+1918030
+‚
+20409624
+‚
+21371195
+‚
+22197721
+‚
+22875612
+‚
+23426949
+‚
+23636243
+‚
+8500791
+Comment
+:
+show
+The c.2561G>A (p.Arg854Gln) variant is found specifically in patients with type 2N von Willebrand disease (VWD) which manifests as a mild form of VWD with only moderate bleeding in homozygotes. This variant is well-documented as disease-causing for this specific type of VWD, found in up to 73% of type 2N patients to date (Casonato et al. 2013). The variant is also common among Caucasians, being found in over 1% of the general population (Goodeve et al. 2010). Across a selection of the available literature, the p.Arg854Gln variant has been reported in seven studies and found in a total of 72 patients including in 26 in a homozygous state, 12 in a compound heterozygous state and 34 in a heterozygous state in whom a second variant as not been found (Gaucher et al. 1991; Cacheris et al. 1991; Peerlinck et al. 1992; Hilbert et al. 2004; Hilbert et al. 2006; Veyradier et al. 2011; Casonato et al. 2013). The variant was absent from 906 control alleles and is reported at a frequency of 0.014 in the Puerto Rican population of the 1000 Genomes Project. Functional studies have demonstrated that the p.Arg854Gln variant results in reduced binding of FVIII and proteolysis by ADAMTS13 with a normal multimer pattern (Gaucher et al. 1991; Cacheris et al. 1991; Peerlinck et al. 1992; Hilbert et al. 2004; Hilbert et al. 2006; Skipwith et al. 2013; Wang et al. 2013). Based on the collective evidence, the p.Arg854Gln variant is classified as pathogenic for von Willebrand disease.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Pathogenic
+(Nov 21, 2018)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+von Willebrand disease type 2
+Equipe Genetique des Anomalies du Developpement, Université de Bourgogne
+Accession: SCV000883107.1
+First in ClinVar: Dec 15, 2018
+Last updated: Dec 15, 2018
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+unknown
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+unknown
+Affected status
+:
+unknown
+Pathogenic
+(Nov 11, 2019)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+Versiti Assertion Criteria
+)
+von Willebrand disease type 2N
+Versiti Diagnostic Laboratories, Versiti, Inc
+Accession: SCV001250572.1
+First in ClinVar: May 12, 2020
+Last updated: May 12, 2020
+Publications:
+PubMed (8)
+PubMed:
+16953269
+‚
+16985174
+‚
+20586924
+‚
+21371195
+‚
+24928861
+‚
+26207643
+‚
+28581694
+‚
+28971901
+Comment
+:
+show
+The missense variant VWF c.2561G>A, p.Arg854Gln (p.R854Q) in exon 20 changes amino acid arginine at codon 854 to glutamine. The arginine at this residue is highly conserved among species. This amino acid change occurs in the D'D3 domain of the VWF protein, a functional domain that binds factor VIII (Springer, 2014). Pathogenic variants in VWF are associated with autosomal dominant or autosomal recessive von Willebrand disease (VWD), characterized by quantitative or qualitative deficiencies in von Willebrand factor and resulting in prolonged bleeding. Pathogenic missense variants in the D'D3 domain have been shown to cause autosomal recessive type 2N VWD, characterized by low plasma factor VIII levels and a laboratory phenotype that can initially resemble hemophilia A. This sequence variant has is one of the most common reported variants in patients with type 2N VWD (Hilbert, 2004; Goodeve, 2007; Veyradier, 2011; van Meegeren, 2015; Borras, 2017). Functional studies of p.R854Q mutant in mamalian cells showed decreased FVIII binding (Hilbert, 2004; Swystun, 2017). The minor allele frequency of this variant in the general population is 0.003465 (gnomAD). In summary, the collective evidence supports VWF c.2561G>A, p.Arg854Gln as a pathogenic variant for type 2N von Willebrand disease.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+more
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Number of individuals with the variant
+:
+34
+Platform type
+:
+Next-generation sequencing with confirmation by Sanger sequencing
+Pathogenic
+(-)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+von Willebrand disease type 2
+UNC Molecular Genetics  Laboratory, University of North Carolina at Chapel Hill
+Study: NSIGHT-NC NEXUS
+Accession: SCV001251482.1
+First in ClinVar: May 31, 2020
+Last updated: May 31, 2020
+Comment:
+carrier finding
+Publications:
+PubMed (1)
+PubMed:
+20301765
+Comment
+:
+show
+The (p.R854Q) variant in the VWF gene is the most frequent cause of VWD type 2N, which manifests as a mild form of VWD with only moderate bleeding in homozygotes (PMID: 20301765).
+(less)
+Observation: 1
+Collection method
+:
+research
+Allele origin
+:
+germline
+Affected status
+:
+no
+more
+Observation 1
+Collection method
+:
+research
+Allele origin
+:
+germline
+Affected status
+:
+no
+Number of individuals with the variant
+:
+2
+Platform type
+:
+exome sequencing
+Pathogenic
+(-)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+von Willebrand disease type 2
+ISTH-SSC Genomics in Thrombosis and Hemostasis, KU Leuven, Center for Molecular and Vascular Biology
+Accession: SCV002569916.1
+First in ClinVar: Sep 10, 2022
+Last updated: Sep 10, 2022
+Comment:
+Submitted to GoldVariant by Kathleen Freson, Center for Molecular and Vascular Biology, Leuven, Belgium
+Observation:
+2
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Clinical Features
+:
+Low von Willebrand antigen and activity (present) , Low factor VIII (present)
+Zygosity
+:
+1 Single Heterozygote
+Platform name
+:
+Gene panel
+Observation 2
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Clinical Features
+:
+Thrombocytopenia (present) , Normal von Willebrand antigen and activity (present)
+Zygosity
+:
+1 Single Heterozygote
+Platform Name
+:
+Gene panel
+Pathogenic
+(Jul 13, 2020)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+von Willebrand disease type 1
+Genetics and Molecular Pathology, SA Pathology
+Accession: SCV002556468.2
+First in ClinVar: Aug 08, 2022
+Last updated: Dec 17, 2022
+Comment
+:
+show
+The VWF c.2561G>A variant is classified as Pathogenic (PS3, PS4, PP1, PP2, PP3, PP5)
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Pathogenic
+(-)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+von Willebrand disease type 1
+ISTH-SSC Genomics in Thrombosis and Hemostasis, KU Leuven, Center for Molecular and Vascular Biology
+Accession: SCV002500928.2
+First in ClinVar: Apr 23, 2022
+Last updated: Jul 22, 2023
+Comment:
+Submitted to the GoldVariant database by Kathleen Freson, Center for Molecular and Vascular Biology
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+more
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Clinical Features
+:
+bleeding (present)
+Comment on clinical features
+:
+Low factor VII levels
+Zygosity
+:
+1 Single Heterozygote
+Platform type
+:
+WES
+Pathogenic
+(Mar 19, 2024)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+Hereditary von Willebrand disease
+(Autosomal recessive inheritance)
+Laboratory for Molecular Medicine, Mass General Brigham Personalized Medicine
+Accession: SCV000221221.5
+First in ClinVar: Apr 01, 2015
+Last updated: Apr 20, 2024
+Publications:
+PubMed (5)
+PubMed:
+1581215
+‚
+1832934
+‚
+21371195
+‚
+23426949
+‚
+23636243
+Comment
+:
+show
+The p.Arg854Gln has been reported in the homozygous or compound heterozygous state in >20 individuals with von Willebrand disease (VWD) type 2N (Gaucher 1991 PMID: 1832934, Peerlinck 1992 PMID: 1581215, Veyradier 2011 PMID: 21371195). This variant is a common disease-causing variant for type 2N VWD (Casonato 2013 PMID: 22875612). This variant has also been reported by other clinical laboratories in ClinVar (Variation ID: 296) and has been identified in 0.6% (7050/1180026) of European chromosomes, including 26 total homozygotes by gnomAD (http://gnomad.broadinstitute.org, v.4.0.0). This is consistent with a recessive carrier frequency and the clinical manifestations of type 2N VWD. In vitro functional studies indicate the p.Arg854Gln variant may affect protein function as it has been shown to decrease binding to factor VIII (Wang 2012 PMID: 23426949, Skipwith 2013 PMID: 23636243). In summary, this variant meets criteria to be classified as pathogenic for autosomal recessive type 2N von Willebrand disease. ACMG/AMP criteria applied: PM3_VeryStrong, PS3_Supporting, PM2_Supporting.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Pathogenic
+(-)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+not provided
+(Autosomal dominant inheritance)
+Institute for Medical Genetics and Human Genetics, Charité - Universitätsmedizin Berlin
+Accession: SCV005380281.1
+First in ClinVar: Oct 26, 2024
+Last updated: Oct 26, 2024
+Observation: 1
+Collection method
+:
+not provided
+Allele origin
+:
+germline
+Affected status
+:
+yes
+more
+Observation 1
+Collection method
+:
+not provided
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Clinical Features
+:
+Hypogonadotropic hypogonadism (present)
+pathogenic
+(Oct 14, 2024)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+Quest Diagnostics criteria
+)
+not provided
+Quest Diagnostics Nichols Institute San Juan Capistrano
+Accession: SCV000889897.4
+First in ClinVar: Dec 15, 2018
+Last updated: Jan 19, 2025
+Publications:
+PubMed (22)
+PubMed:
+12211196
+‚
+12353087
+‚
+15461624
+‚
+15670054
+‚
+1581215
+‚
+16953269
+‚
+1832934
+‚
+1906877
+‚
+20409624
+‚
+20981092
+‚
+21371195
+‚
+22197721
+‚
+22875612
+‚
+24029428
+‚
+24928861
+‚
+26207643
+‚
+28581694
+‚
+28971901
+‚
+35446929
+‚
+37872709
+‚
+38947547
+‚
+9684781
+Comment
+:
+show
+The VWF c.2561G>A (p.Arg854Gln) variant has been reported in the published literature in multiple individuals with autosomal recessive Type 2N von Willebrand disease (Type 2N vWD) (PMIDs: 1832934 (1991), 9684781 (1998), 15461624 (2004), 20409624 (2010), 22875612 (2013), 35446929 (2022), 38947547 (2024)). Functional studies have shown that this variant greatly reduces the ability of the VWF protein to bind factor VIII (PMIDs: 1906877 (1991), 15461624 (2004)). The frequency of this variant in the general population, 0.007 (34/4834 chromosomes (Genome Aggregation Database, http://gnomad.broadinstitute.org)), is consistent with pathogenicity. Based on the available information, this variant is classified as pathogenic.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+unknown
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+unknown
+Affected status
+:
+unknown
+Pathogenic
+(Mar 12, 2024)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+von Willebrand disease type 1
+von Willebrand disease type 3
+von Willebrand disease type 2
+Explanation for multiple conditions: Uncertain.
+The variant was classified for several related diseases, possibly a spectrum of disease; the variant may be associated with one or more the diseases.
+Fulgent Genetics, Fulgent Genetics
+Accession: SCV000893311.3
+First in ClinVar: Mar 31, 2019
+Last updated: Jan 25, 2025
+Publications:
+PubMed (1)
+PubMed:
+25741868
+DOI: 10.1038/gim.2015.30
+DOI: 10.1038/gim.2015.30
+pmc: 4544753
+pmc: 4544753
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Pathogenic
+(Feb 01, 2019)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+von Willebrand disorder
+NIHR Bioresource Rare Diseases, University of Cambridge
+Study: ThromboGenomics
+Accession: SCV000899325.2
+First in ClinVar: Sep 29, 2019
+Last updated: Apr 13, 2025
+Publications:
+PubMed (1)
+PubMed:
+31064749
+Observation:
+10
+Observation 1
+Collection method
+:
+research
+Allele origin
+:
+unknown
+Affected status
+:
+yes
+Zygosity
+:
+1 Compound Heterozygote
+Platform type
+:
+Targeted sequencing
+Observation 2
+Collection method
+:
+research
+Allele origin
+:
+unknown
+Affected status
+:
+yes
+Zygosity
+:
+1 Homozygote
+Platform type
+:
+Targeted sequencing
+Observation 3
+Collection method
+:
+research
+Allele origin
+:
+unknown
+Affected status
+:
+yes
+Zygosity
+:
+1 Compound Heterozygote
+Sex
+:
+female
+Ethnicity/Population group
+:
+European
+Platform type
+:
+Targeted sequencing
+Observation 4
+Collection method
+:
+research
+Allele origin
+:
+unknown
+Affected status
+:
+yes
+Zygosity
+:
+1 Single Heterozygote
+Sex
+:
+female
+Ethnicity/Population group
+:
+European
+Platform type
+:
+Targeted sequencing
+Observation 5
+Collection method
+:
+research
+Allele origin
+:
+unknown
+Affected status
+:
+yes
+Zygosity
+:
+1 Single Heterozygote
+Sex
+:
+female
+Ethnicity/Population group
+:
+European
+Platform type
+:
+Targeted sequencing
+Observation 6
+Collection method
+:
+research
+Allele origin
+:
+unknown
+Affected status
+:
+yes
+Zygosity
+:
+1 Single Heterozygote
+Sex
+:
+male
+Ethnicity/Population group
+:
+European
+Platform type
+:
+Targeted sequencing
+Observation 7
+Collection method
+:
+research
+Allele origin
+:
+unknown
+Affected status
+:
+yes
+Zygosity
+:
+1 Single Heterozygote
+Sex
+:
+male
+Ethnicity/Population group
+:
+European
+Platform type
+:
+Targeted sequencing
+Observation 8
+Collection method
+:
+research
+Allele origin
+:
+unknown
+Affected status
+:
+yes
+Zygosity
+:
+1 Single Heterozygote
+Sex
+:
+female
+Ethnicity/Population group
+:
+European
+Platform type
+:
+Targeted sequencing
+Observation 9
+Collection method
+:
+research
+Allele origin
+:
+unknown
+Affected status
+:
+yes
+Zygosity
+:
+1 Homozygote
+Sex
+:
+male
+Ethnicity/Population group
+:
+European
+Platform type
+:
+Targeted sequencing
+Observation 10
+Collection method
+:
+research
+Allele origin
+:
+unknown
+Affected status
+:
+yes
+Zygosity
+:
+1 Compound Heterozygote
+Sex
+:
+male
+Ethnicity/Population group
+:
+European
+Platform Type
+:
+Targeted sequencing
+Likely pathogenic
+(Feb 01, 2019)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+Abnormality of coagulation
+NIHR Bioresource Rare Diseases, University of Cambridge
+Study: ThromboGenomics
+Accession: SCV000899326.2
+First in ClinVar: Sep 29, 2019
+Last updated: Apr 13, 2025
+Publications:
+PubMed (1)
+PubMed:
+31064749
+Observation:
+5
+Observation 1
+Collection method
+:
+research
+Allele origin
+:
+unknown
+Affected status
+:
+yes
+Zygosity
+:
+1 Single Heterozygote
+Sex
+:
+female
+Ethnicity/Population group
+:
+European
+Platform type
+:
+Targeted sequencing
+Observation 2
+Collection method
+:
+research
+Allele origin
+:
+unknown
+Affected status
+:
+yes
+Zygosity
+:
+1 Single Heterozygote
+Sex
+:
+male
+Ethnicity/Population group
+:
+European
+Platform type
+:
+Targeted sequencing
+Observation 3
+Collection method
+:
+research
+Allele origin
+:
+unknown
+Affected status
+:
+yes
+Zygosity
+:
+1 Single Heterozygote
+Sex
+:
+female
+Ethnicity/Population group
+:
+European
+Platform type
+:
+Targeted sequencing
+Observation 4
+Collection method
+:
+research
+Allele origin
+:
+unknown
+Affected status
+:
+yes
+Zygosity
+:
+1 Homozygote
+Sex
+:
+female
+Ethnicity/Population group
+:
+European
+Platform type
+:
+Targeted sequencing
+Observation 5
+Collection method
+:
+research
+Allele origin
+:
+unknown
+Affected status
+:
+yes
+Zygosity
+:
+1 Homozygote
+Sex
+:
+male
+Ethnicity/Population group
+:
+European
+Platform Type
+:
+Targeted sequencing
+Pathogenic
+(Sep 17, 2024)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+not provided
+Revvity Omics, Revvity
+Accession: SCV002020886.4
+First in ClinVar: Nov 29, 2021
+Last updated: Sep 06, 2025
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Pathogenic
+(-)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+von Willebrand disease type 2
+Juno Genomics, Hangzhou Juno Genomics, Inc
+Accession: SCV005871425.2
+First in ClinVar: Mar 04, 2025
+Last updated: Oct 05, 2025
+Comment
+:
+show
+Novel missense change at an amino acid residue where a different missense change determined to be pathogenic has been seen before.;Well-established in vitro or in vivo functional studies supportive of a damaging effect on the gene or gene product.;For recessive disorders, detected in trans with a pathogenic variant.;Patient's phenotype or family history is highly specific for a disease with a single genetic etiology.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Pathogenic
+(Mar 18, 2025)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+von Willebrand disease type 3
+von Willebrand disease type 2
+Explanation for multiple conditions: Uncertain.
+The variant was classified for several related diseases, possibly a spectrum of disease; the variant may be associated with one or more the diseases.
+(Autosomal recessive inheritance)
+First Genomix Gene Laboratory, Genetic Diagnostics Department
+Accession: SCV007580934.1
+First in ClinVar: May 03, 2026
+Last updated: May 03, 2026
+Comment
+:
+show
+As part of Carrier Screening testing performed at First Genomix, this variant was identified in a heterozygous state in a patient who is not affected with this condition.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+no
+more
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+no
+Number of individuals with the variant
+:
+1
+Pathogenic
+(Feb 10, 2020)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+von Willebrand disease type 2
+Johns Hopkins Genomics, Johns Hopkins University
+Accession: SCV001425379.1
+First in ClinVar: Aug 01, 2020
+Last updated: Aug 01, 2020
+Publications:
+PubMed (5)
+PubMed:
+15461624
+‚
+16953269
+‚
+1906877
+‚
+22875612
+‚
+26207643
+Comment
+:
+show
+c.2561G>A (p.Arg854Gln) has been reported in the literature associated with von Willebrand disease, type 2N and functional analysis supports the deleterious nature of this variant. Additionally, this variant (rs41276738) is more prevalent in affected individuals than the healthy population (gnomAD: 980/282824 total alleles; 0.3465%; 5 homozygotes). Sixteen submitters in ClinVar classify this variant as either pathogenic or likely pathogenic. We consider this variant to be pathogenic.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Likely pathogenic
+(Nov 26, 2021)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+von Willebrand disease type 2
+Institute of Human Genetics, Clinical Exome/Genome Diagnostics Group, University Hospital Bonn
+Accession: SCV002103046.1
+First in ClinVar: Mar 12, 2022
+Last updated: Mar 12, 2022
+Comment
+:
+show
+PS1_moderate, PS3, PM1
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+inherited
+Affected status
+:
+yes
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+inherited
+Affected status
+:
+yes
+Pathogenic
+(Dec 09, 2021)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+von Willebrand disease type 2
+Laboratory of Hematology, Radboud University Medical Center
+Study: WIN study
+Accession: SCV002546263.1
+First in ClinVar: Jul 17, 2022
+Last updated: Jul 17, 2022
+Observation: 1
+Collection method
+:
+research
+Allele origin
+:
+germline
+Affected status
+:
+yes
+more
+Observation 1
+Collection method
+:
+research
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Number of individuals with the variant
+:
+7
+Pathogenic
+(Nov 04, 2022)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+Variantyx Assertion Criteria 2022
+)
+von Willebrand disease type 2N
+(Autosomal recessive inheritance)
+Variantyx, Inc.
+Accession: SCV002754530.1
+First in ClinVar: Nov 29, 2022
+Last updated: Nov 29, 2022
+Publications:
+PubMed (10)
+PubMed:
+12176890
+‚
+15461624
+‚
+1832934
+‚
+1918030
+‚
+21371195
+‚
+22875612
+‚
+26764160
+‚
+31064749
+‚
+31349985
+‚
+34355501
+Comment
+:
+show
+This is a nonsynonymous variant in the VWF gene (OMIM 613160). Pathogenic variants in this gene have been associated with autosomal dominant and autosomal recessive von Willebrand disease (VWD). This variant, also known as p.Arg91Gln, is the most common pathogenic variant associated with autosomal recessive VWD type 2N (VWD2N) (PMID: 15461624, 1832934, 21371195, 22875612, 26764160 31064749, 34355501) (PM3_Very Strong). Functional studies have shown that this variant alters VWF protein function (PMID: 12176890, 1918030, 31349985) (PS3). Multiple computational algorithms predict a deleterious effect for this substitution (PP3). This variant has a 0.6055% maximum allele frequency in non-founder control populations (https://gnomad.broadinstitute.org/). Based on the current evidence, this variant is classified as pathogenic for autosomal recessive VWD2N.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Pathogenic
+(Nov 03, 2021)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+not provided
+Institute for Clinical Genetics, University Hospital TU Dresden, University Hospital TU Dresden
+Accession: SCV002011305.3
+First in ClinVar: Nov 06, 2021
+Last updated: Jul 16, 2023
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+not provided
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+not provided
+Pathogenic
+(May 03, 2023)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+NYGC Assertion Criteria 2020
+)
+von Willebrand disease type 1
+von Willebrand disease type 3
+von Willebrand disease type 2
+Explanation for multiple conditions: Uncertain.
+The variant was classified for several related diseases, possibly a spectrum of disease; the variant may be associated with one or more the diseases.
+New York Genome Center
+Accession: SCV004176035.1
+First in ClinVar: Dec 17, 2023
+Last updated: Dec 17, 2023
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+inherited
+Affected status
+:
+unknown
+more
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+inherited
+Affected status
+:
+unknown
+Clinical Features
+:
+Fatigue (present) , Migraine (present) , Chronic pain (present) , Joint hypermobility (present) , Joint dislocation (present) , Gastroparesis (present)
+Test name
+:
+whole genome sequencing
+Zygosity
+:
+1 Single Heterozygote
+Secondary finding
+:
+no
+Platform name
+:
+NovaSeq 6000
+Pathogenic
+(Nov 30, 2023)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+von Willebrand disease type 2
+Greenwood Genetic Center Diagnostic Laboratories, Greenwood Genetic Center
+Accession: SCV004244520.1
+First in ClinVar: Feb 14, 2024
+Last updated: Feb 14, 2024
+Comment
+:
+show
+PS3, PM1, PM3_Strong
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Pathogenic
+(Jan 16, 2024)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+LabCorp Variant Classification Summary - May 2015
+)
+von Willebrand disorder
+Women's Health and Genetics/Laboratory Corporation of America, LabCorp
+Accession: SCV004803450.1
+First in ClinVar: Mar 30, 2024
+Last updated: Mar 30, 2024
+Publications:
+PubMed (4)
+PubMed:
+22875612
+‚
+23426949
+‚
+23636243
+‚
+26988807
+Comment
+:
+show
+Variant summary: VWF c.2561G>A (p.Arg854Gln) results in a conservative amino acid change located in the VWFC domain (IPR001846) of the encoded protein sequence. Three of five in-silico tools predict a damaging effect of the variant on protein function. The variant allele was found at a frequency of 0.0034 in 251418 control chromosomes in the gnomAD database, including 5 homozygotes. c.2561G>A has been reported in the literature as a homozygous and compound heterozygous genotype in multiple individuals affected with Von Willebrand Disease type 2N (e.g. Casonato_2013, Fidalgo_2016) and is a common variant associated with type 2N VWD. These data indicate that the variant is very likely to be associated with disease. At least one publication reports experimental evidence evaluating an impact on protein function, showing that the variant affects protein function (Wang_2013, Skipwith_2013). The following publications have been ascertained in the context of this evaluation (PMID: 22875612, 26988807, 23636243, 23426949). ClinVar contains an entry for this variant (Variation ID: 296). Based on the evidence outlined above, the variant was classified as pathogenic.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Pathogenic
+(Jan 05, 2023)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+von Willebrand disease type 3
+Institute of Immunology and Genetics Kaiserslautern
+Accession: SCV005382203.1
+First in ClinVar: Oct 26, 2024
+Last updated: Oct 26, 2024
+Comment
+:
+show
+ACMG Criteria: PS3, PS4, PM3, PM5_P, PP4, PP5; Variant found in a heterozygous state
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+more
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Clinical Features
+:
+Abnormal thrombosis (present) , Abnormality of the vasculature (present)
+Pathogenic
+(Jan 24, 2024)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+von Willebrand disease type 1
+(Autosomal unknown)
+Pittsburgh Clinical Genomics Laboratory, University of Pittsburgh Medical Center
+Accession: SCV005397654.1
+First in ClinVar: Nov 17, 2024
+Last updated: Nov 17, 2024
+Publications:
+PubMed (8)
+PubMed:
+12353087
+‚
+12588349
+‚
+15461624
+‚
+1832934
+‚
+1906877
+‚
+22875612
+‚
+23636243
+‚
+9684781
+Comment
+:
+show
+This sequence variant is a single nucleotide substitution (G>A) at position 2561 of the coding sequence of the VWF gene that results in an arginine to glutamine amino acid change at residue 854 of the von Willebrand factor propeptide. This is a previously reported variant (ClinVar 296) that has been observed in and is the most frequent allele found in individuals affected by recessive type 2N von Willebrand disease (PMID: 1832934, 9684781, 12353087, 15461624, 22875612). This variant is present in 8000 of 1614214 alleles (0.4956%) in the gnomAD v4.0.0 population dataset. The Arg854 residue at this position is highly conserved across the vertebrate species examined. Studies examining the functional consequence of this variant demonstrate that it strongly inhibits Factor VIII binding (PMID: 1906877, 12588349, 23636243). Based upon the evidence, we consider this variant to be pathogenic. ACMG Criteria: PM5, PP1, PP2, PP5, PS3
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+more
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Platform type
+:
+Next-gen sequencing
+Pathogenic
+(Jul 17, 2023)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+von Willebrand disease type 1
+(Autosomal dominant inheritance)
+Victorian Clinical Genetics Services, Murdoch Childrens Research Institute
+Accession: SCV005397970.1
+First in ClinVar: Nov 24, 2024
+Last updated: Nov 24, 2024
+Publications:
+PubMed (4)
+PubMed:
+19372260
+‚
+28581694
+‚
+28987708
+‚
+29115006
+Comment
+:
+show
+Based on the classification scheme VCGS_Germline_v1.3.4, this variant is classified as Pathogenic. Following criteria are met: 0103 - Dominant negative and loss of function are known mechanisms of disease in this gene and are associated with von Willebrand disease (OMIM). (I) 0108 - This gene is associated with both recessive and dominant disease. von Willebrand disease can be both dominantly and recessively inherited, and is categorised into six different types: 1 (MIM#193400), 2A, 2B, 2M, 2N (MIM#613554) and 3 (MIM#277480). (I) 0112 - The condition associated with this gene has incomplete penetrance (PMID: 19372260). (I) 0115 - Variants in this gene are known to have variable expressivity (PMID: 19372260). (I) 0200 - Variant is predicted to result in a missense amino acid change from arginine to glutamine. (I) 0251 - This variant is heterozygous. (I) 0304 - Variant is present in gnomAD (v2) <0.01 (970 heterozygotes, 5 homozygotes). (SP) 0309 - An alternative amino acid change at the same position has been observed in gnomAD (v2) (5 heterozygotes, 0 homozygotes). (I) 0502 - Missense variant with conflicting in silico predictions and high conservation. (I) 0604 - Variant is not located in an established domain, motif, hotspot or informative constraint region. (I) 0801 - This variant has very strong previous evidence of pathogenicity in unrelated individuals. This variant is most commonly reported in individuals with type 2N von Willebrand disease, primarily associated with autosomal recessive inheritance, however autosomal dominant inheritance and type 1 has also been reported (PMIDs: 28987708, 29115006). (SP) 1002 - This variant has moderate functional evidence supporting abnormal protein function. Murine mutant cDNA transfected into HEK293T cells demonstrated impaired VWF synthesis and secretion (PMID: 28581694). (SP) 1208 - Inheritance information for this variant is not currently available in this individual. (I) Legend: (SP) - Supporting pathogenic, (I) - Information, (SB) - Supporting benign
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+no
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+no
+Pathogenic
+(Dec 11, 2024)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+von Willebrand disease type 2
+(Autosomal recessive inheritance)
+Institute of Human Genetics, University of Leipzig Medical Center
+Accession: SCV005627518.2
+First in ClinVar: Jan 19, 2025
+Last updated: Apr 13, 2025
+Comment
+:
+show
+Criteria applied: PM3_VSTR,PS3,PM5,PP1; Identified as compund heterozygous with NM_000552.5:c.2435del
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+unknown
+Affected status
+:
+yes
+more
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+unknown
+Affected status
+:
+yes
+Clinical Features
+:
+Gastrointestinal carcinoma (present) , Renal insufficiency (present) , Abnormal platelet function (present) , Atopic eczema (present)
+Sex
+:
+female
+Pathogenic
+(Feb 16, 2025)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+not provided
+Laboratory of Genetics, Children's Clinical University Hospital Latvia
+Accession: SCV006106953.1
+First in ClinVar: Jul 05, 2025
+Last updated: Jul 05, 2025
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Pathogenic
+(May 27, 2025)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+Durkie Uk Practice Guidelines For Variant Classification V12 2024 (1)
+)
+von Willebrand disease type 2
+Department of Paediatrics at Addenbrookes, Cambridge University Hospitals NHS Foundation Trust (UK)
+Accession: SCV006555156.1
+First in ClinVar: Oct 12, 2025
+Last updated: Oct 12, 2025
+Comment
+:
+show
+PS3_Strong; PM3_Strong; PP4_Moderate; PP1_Supporting
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+unknown
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+unknown
+Affected status
+:
+unknown
+Pathogenic
+(Jun 25, 2025)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+not provided
+Mayo Clinic Laboratories, Mayo Clinic
+Accession: SCV001716116.4
+First in ClinVar: Jun 15, 2021
+Last updated: Jan 11, 2026
+Publications:
+PubMed (10)
+PubMed:
+11686103
+‚
+16706266
+‚
+1832934
+‚
+19088379
+‚
+22875612
+‚
+23636243
+‚
+28581694
+‚
+28971901
+‚
+29115006
+‚
+8865544
+Comment
+:
+show
+PP1, PP5, PM3_strong, PS3, PS4
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+more
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Number of individuals with the variant
+:
+18
+Pathogenic
+(Jun 18, 2025)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+ARUP Molecular Germline Variant Investigation Process 2024
+)
+not provided
+ARUP Laboratories, Molecular Genetics and Genomics, ARUP Laboratories
+Accession: SCV000605594.6
+First in ClinVar: Sep 30, 2017
+Last updated: Jan 24, 2026
+Comment
+:
+show
+The VWF c.2561G>A; p.Arg854Gln variant (also known as Arg91Gln) is published in the literature in individuals with von Willebrand disease (VWD) type 2N and is the most common VWD type 2N pathogenic variant (Casonato 2018, Veyradier 2011, Wang 2013). Functional analyses of the variant protein show decreased factor VIII binding, consistent with VWD type 2N (Veyradier 2011, Wang 2013). This variant is reported in ClinVar (Variation ID: 296). This variant is found in the general population with an overall allele frequency of .347% (980/ 282824 alleles, including 5 homozygotes) in the Genome Aggregation Database. The arginine at codon 854 is highly conserved, but computational analyses are uncertain whether this variant is neutral or deleterious (REVEL: 0.487). Considering available information, this variant is classified as pathogenic. References: Casonato A et al. Type 2N von Willebrand disease: Characterization and diagnostic difficulties. Haemophilia. 2018 Jan;24(1):134-140. Veyradier A et al. Validation of the first commercial ELISA for type 2N von Willebrand's disease diagnosis. Haemophilia. 2011. 17(6):944-51. Wang JW et al. Analysis of the storage and secretion of von Willebrand factor in blood outgrowth endothelial cells derived from patients with von Willebrand disease. Blood. 2013. 121(14):2762-72.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Pathogenic
+(Feb 06, 2026)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+GeneDx Variant Classification Process June 2021
+)
+not provided
+GeneDx
+Accession: SCV000322001.16
+First in ClinVar: Feb 21, 2014
+Last updated: Feb 23, 2026
+Comment
+:
+show
+In silico analysis supports that this missense variant has a deleterious effect on protein structure/function; This variant is associated with the following publications: (PMID: 38947547, 26207643, 26105150, 26764160, 31064749, 20981092, 21489050, 21371195, 22197721, 23636243, 22875612, 22995991, 24029428, 25649154, 16953269, 9684781, 24033266, 20409624, 1906877, 23426949, 1832934, 1581215, 15461624, 25212677, 28436749, 29115006, 29220693, 29431110, 30609409, 30431218, 30722078, 31019283, 32935436, 31980526, 34426522, 31589614, 8115998, 9692396, 33942438, 36920765, 33556167, 12588349, 20586924, 38523675, 37872709, 38992343)
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Pathogenic
+(May 09, 2025)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+DASA Assertion Criteria
+)
+not provided
+Dasa
+Accession: SCV007599612.1
+First in ClinVar: May 30, 2026
+Last updated: May 30, 2026
+Publications:
+PubMed (7)
+PubMed:
+15461624
+‚
+16953269
+‚
+18712522
+‚
+20586924
+‚
+28581694
+‚
+28971901
+‚
+35189660
+Comment
+:
+show
+NM_000552.5(VWF):c.2561G>A (p.Arg854Gln) is a missense variant that results in the substitution of arginine with glutamine. The affected residue or protein region has prior evidence supporting clinical relevance. Segregation evidence has been reported in affected families. This variant has been observed in affected individuals with related phenotype in a genotype context consistent with recessive disease (PMID: 15461624; PMID: 28581694; PMID: 16953269; PMID: 20586924; PMID: 35189660). Functional evidence supports a deleterious effect on the gene or gene product (PMID: 15461624; PMID: 28581694; PMID: 16953269; PMID: 20586924; PMID: 35189660). This variant has been recurrently observed in individuals with related phenotype (PMID: 15461624; PMID: 28581694; PMID: 16953269; PMID: 20586924; PMID: 35189660). The variant is present at low frequency in population datasets. Based on the available data, this variant is classified as pathogenic.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Likely pathogenic
+(Sep 01, 2025)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+CeGaT Center For Human Genetics Tuebingen Variant Classification Criteria Version 2
+)
+not provided
+CeGaT Center for Human Genetics Tuebingen
+Accession: SCV001246257.39
+First in ClinVar: May 12, 2020
+Last updated: Jul 27, 2026
+Comment
+:
+show
+VWF: PP1:Strong, PM1, PM5, PS3:Moderate, BP4
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+more
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Number of individuals with the variant
+:
+17
+Pathogenic
+(Nov 23, 2024)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+VWF-related disorders
+Blueprint Genetics
+Accession: SCV007762647.1
+First in ClinVar: Sep 22, 2026
+Last updated: Sep 22, 2026
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+more
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Number of individuals with the variant
+:
+5
+Test name
+:
+Endocrinology, Exome, Hematology, Hereditary Cancer, Multisystem Disorders
+Pathogenic
+(Aug 27, 2026)
+N
+Not contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+VWF-related condition
+PreventionGenetics, part of Exact Sciences
+Accession: SCV004117618.4
+First in ClinVar: Nov 20, 2023
+Last updated: Oct 03, 2026
+Comment
+:
+show
+The VWF c.2561G>A variant is predicted to result in the amino acid substitution p.Arg854Gln. This variant (aka p.Arg91Gln) has been reported in the homozygous or compound heterozygous state in many patients with recessive von Willebrand disease (VWD) type 2N (van Meergeren et al. 2015. PubMed ID: 26207643; Castaman et al. 2010. PubMed ID: 20586924; Gaucher et al. 1991. PubMed ID: 1832934; Hilbert et al. 2004. PubMed ID: 15461624). This variant has also been reported in the compound heterozygous state in at least one individual with the type I version of Willebrand disease (Peerlinck et al. 1992. PubMed ID: 1581215). Different cellular and biochemical studies indicate the p.Arg854Gln change alters normal VWF protein function (Cacheris et al. 1991. PubMed ID: 1906877; Castaman et al. 2010. PubMed ID: 20586924; Wang et al. 2013. PubMed ID: 23426949; Hilbert et al. 2004. PubMed ID: 15461624). This variant is reported in 0.57% of alleles in individuals of European (Finnish) descent in gnomAD, including several homozygotes, indicating it is relatively common. This variant has been classified as pathogenic by the ClinGen von Willebrand Disease Variant Curation Expert Panel in ClinVar (Variation ID: 296). This variant is interpreted as pathogenic for autosomal recessive von Willebrand disease type 2N.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Likely pathogenic
+(May 01, 2020)
+N
+Not contributing to aggregate classification
+no assertion criteria provided
+Thrombocytopenia
+Abnormal bleeding
+Birmingham Platelet Group; University of Birmingham
+Accession: SCV001450828.1
+First in ClinVar: Dec 19, 2020
+Last updated: Dec 19, 2020
+Observation: 1
+Collection method
+:
+research
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Observation 1
+Collection method
+:
+research
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Pathogenic
+(May 01, 2010)
+N
+Not contributing to aggregate classification
+no assertion criteria provided
+VON WILLEBRAND DISEASE, TYPE 2N
+OMIM
+Accession: SCV000020464.1
+First in ClinVar: Apr 04, 2013
+Last updated: Apr 04, 2013
+Publications:
+PubMed (4)
+PubMed:
+15461624
+‚
+1581215
+‚
+1832934
+‚
+20409624
+Observation: 1
+Collection method
+:
+literature only
+Allele origin
+:
+germline
+Affected status
+:
+not provided
+more
+Observation 1
+Collection method
+:
+literature only
+Allele origin
+:
+germline
+Affected status
+:
+not provided
+Comment on evidence
+:
+Goodeve (2010) noted that mutations in the VWF gene, which were sometimes numbered from the transcription start site of the mature protein, are now 'numbered …
+(more)
+Goodeve (2010) noted that mutations in the VWF gene, which were sometimes numbered from the transcription start site of the mature protein, are now 'numbered from the first A of the ATG initiator methionine codon (A = +1) at the start of every protein (Met = +1), with cDNA rather than genomic DNA being commonly used as a reference sequence.' Thus, the mutation originally designated ARG91GLN is now designated ARG854GLN (R854Q). In a patient with the Normandy type of von Willebrand disease (VWD2N; see 613554), Gaucher et al. (1991) demonstrated compound heterozygosity for the arg53-to-trp mutation (193400.0012) and another C-to-T transition that resulted in a substitution of glutamine for arginine-91. The patient's parents were related as second cousins. Hilbert et al. (2004) reported 2 unrelated French patients with type 2N VWD who were compound heterozygous for R854Q and another pathogenic mutation (Y795C, 613160.0031 and C804F, 613160.0032, respectively). Peerlinck et al. (1992) identified a heterozygous A-to-G transition in exon 20 of the VWF gene, resulting in an arg854-to-gln (R854Q) substitution, in a 23-year-old woman with a lifelong history of bleeding and low VWF levels, consistent with von Willebrand disease type 1 (193400). Laboratory studies showed disproportionately low factor VIII (F8; 300841) and decreased binding capacity of VWF for F8. The R854Q substitution occurred in the putative factor VIII-binding domain. All VWF multimers were normal. Neither parent was clinically affected, but laboratory studies showed that the father had partially increased bleeding time and partially decreased VWF antigen. Restriction enzyme analysis indicated that the unaffected mother was also heterozygous for the R854Q mutation, and that the patient had inherited a hypomorphic 'silent' VWF allele from her father. Peerlinck et al. (1992) noted that the inheritance pattern in this family was difficult to determine, but concluded that the presence of the 'silent' allele allowed the clinical expression of the mutated second allele, resulting in a recessive phenotype in the proband. Peerlinck et al. (1992) commented that although the phenotype was similar to that of the 'Normandy' type 2N variant (see 613554), the patient also had quantitatively low VWF and was thus classified as having VWD type 1.
+(less)
+Pathogenic
+(May 01, 2010)
+N
+Not contributing to aggregate classification
+no assertion criteria provided
+VON WILLEBRAND DISEASE, TYPE 1
+OMIM
+Accession: SCV000020465.1
+First in ClinVar: Apr 04, 2013
+Last updated: Apr 04, 2013
+Publications:
+PubMed (4)
+PubMed:
+15461624
+‚
+1581215
+‚
+1832934
+‚
+20409624
+Observation: 1
+Collection method
+:
+literature only
+Allele origin
+:
+germline
+Affected status
+:
+not provided
+more
+Observation 1
+Collection method
+:
+literature only
+Allele origin
+:
+germline
+Affected status
+:
+not provided
+Comment on evidence
+:
+Goodeve (2010) noted that mutations in the VWF gene, which were sometimes numbered from the transcription start site of the mature protein, are now 'numbered …
+(more)
+Goodeve (2010) noted that mutations in the VWF gene, which were sometimes numbered from the transcription start site of the mature protein, are now 'numbered from the first A of the ATG initiator methionine codon (A = +1) at the start of every protein (Met = +1), with cDNA rather than genomic DNA being commonly used as a reference sequence.' Thus, the mutation originally designated ARG91GLN is now designated ARG854GLN (R854Q). In a patient with the Normandy type of von Willebrand disease (VWD2N; see 613554), Gaucher et al. (1991) demonstrated compound heterozygosity for the arg53-to-trp mutation (193400.0012) and another C-to-T transition that resulted in a substitution of glutamine for arginine-91. The patient's parents were related as second cousins. Hilbert et al. (2004) reported 2 unrelated French patients with type 2N VWD who were compound heterozygous for R854Q and another pathogenic mutation (Y795C, 613160.0031 and C804F, 613160.0032, respectively). Peerlinck et al. (1992) identified a heterozygous A-to-G transition in exon 20 of the VWF gene, resulting in an arg854-to-gln (R854Q) substitution, in a 23-year-old woman with a lifelong history of bleeding and low VWF levels, consistent with von Willebrand disease type 1 (193400). Laboratory studies showed disproportionately low factor VIII (F8; 300841) and decreased binding capacity of VWF for F8. The R854Q substitution occurred in the putative factor VIII-binding domain. All VWF multimers were normal. Neither parent was clinically affected, but laboratory studies showed that the father had partially increased bleeding time and partially decreased VWF antigen. Restriction enzyme analysis indicated that the unaffected mother was also heterozygous for the R854Q mutation, and that the patient had inherited a hypomorphic 'silent' VWF allele from her father. Peerlinck et al. (1992) noted that the inheritance pattern in this family was difficult to determine, but concluded that the presence of the 'silent' allele allowed the clinical expression of the mutated second allele, resulting in a recessive phenotype in the proband. Peerlinck et al. (1992) commented that although the phenotype was similar to that of the 'Normandy' type 2N variant (see 613554), the patient also had quantitatively low VWF and was thus classified as having VWD type 1.
+(less)
+Pathogenic
+(Jan 06, 2020)
+N
+Not contributing to aggregate classification
+no assertion criteria provided
+von Willebrand disease, type 1
+Reproductive Health Research and Development, BGI Genomics
+Accession: SCV001142429.1
+First in ClinVar: Jan 12, 2020
+Last updated: Jan 12, 2020
+Comment
+:
+show
+NM_000552.3:c.2561G>A in the VWF gene has an allele frequency of 0.006 in European (Finnish) subpopulation in the gnomAD database. The p.Arg854Gln (NM_000552.3:c.2561G>A) variant in the VWF gene is the most frequent cause of von Willebrand disease (VWD) type 2N and has been reported previously in the homozygous state or in trans with another pathogenic variant in multiple unrelated individuals with autosomal recessive VWD type 2N (PMID: 1832934; 21371195; 15461624). Functional studies indicate the p.Arg854Gln variant may affect protein function (PMID: 23636243; 23426949). Taken together, we interprete this variant as Pathogenic/Likely pathogenic. ACMG/AMP Criteria applied: PM3_Strong; PS3; PP4.
+(less)
+Observation: 1
+Collection method
+:
+curation
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+curation
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Pathogenic
+(-)
+N
+Not contributing to aggregate classification
+no assertion criteria provided
+not provided
+Department of Pathology and Laboratory Medicine, Sinai Health System
+Additional submitter:
+Franklin by Genoox
+Study: The Canadian Open Genetics Repository (COGR)
+Accession: SCV001552634.1
+First in ClinVar: Apr 13, 2021
+Last updated: Apr 13, 2021
+Comment
+:
+show
+The VWF p.R854Q variant was identified in multiple homozygous or compound heterozygous individuals with autosomal recessive Von Willebrand disease (VWD) type 2N (Casonato_2016_PMID:27532107; Casonato_2007_PMID:17456630; Rodgers_2002_PMID:12162689; Cabrera_2008_PMID:18712522). In one family study, two sisters with borderline VWD type 2N were compound heterozygotes for this variant and p.Q895H; the father and mother were asymptomatic carriers for p.Q895H and p.R854Q, respectively (Cabrera_2008_PMID:18712522). The variant was identified in dbSNP (ID: rs41276738) and ClinVar (classified as pathogenic by Laboratory for Molecular Medicine, GeneDx and 11 other laboratories). The variant was identified in control databases in 980 of 282824 chromosomes (5 homozygous) at a frequency of 0.003465 (Genome Aggregation Database March 6, 2019, v2.1.1). The variant was observed in the following populations: European (Finnish) in 143 of 25122 chromosomes (freq: 0.005692), European (non-Finnish) in 690 of 129142 chromosomes (freq: 0.005343), Other in 26 of 7226 chromosomes (freq: 0.003598), Latino in 74 of 35428 chromosomes (freq: 0.002089), Ashkenazi Jewish in 10 of 10370 chromosomes (freq: 0.000964), African in 21 of 24968 chromosomes (freq: 0.000841) and South Asian in 16 of 30614 chromosomes (freq: 0.000523), but was not observed in the East Asian population. The p.Arg854 residue is conserved in mammals and computational analyses (PolyPhen-2, SIFT, AlignGVGD, BLOSUM, MutationTaster) suggest that the variant may impact the protein. The VWF gene encodes Von Willebrand factor, which interacts with coagulation factor VIII (FVIII) for hemostasis. Functional studies reveal that this variant causes significantly decreased binding between VMF and FVIII compared to wild type (Kroner_1991_PMID:1918030; Rosenberg_2002_PMID:12176890; Dagil_2019_PMID: 31349985). The variant occurs outside of the splicing consensus sequence and 3 of 4 in silico or computational prediction software programs (SpliceSiteFinder, MaxEntScan, NNSPLICE, GeneSplicer) predict a greater than 10% difference in splicing and the creation of a new 3' splice site. However, this has not been confirmed by RNA analysis. In summary, based on the above information this variant meets our laboratoryâ€šÃ„Ã´s criteria to be classified as pathogenic.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+unknown
+Affected status
+:
+yes
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+unknown
+Affected status
+:
+yes
+Pathogenic
+(-)
+N
+Not contributing to aggregate classification
+no assertion criteria provided
+not provided
+Genome Diagnostics Laboratory, Amsterdam University Medical Center
+Study: VKGL Data-share Consensus
+Accession: SCV001808213.1
+First in ClinVar: Aug 25, 2021
+Last updated: Aug 25, 2021
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Pathogenic
+(-)
+N
+Not contributing to aggregate classification
+no assertion criteria provided
+not provided
+Diagnostic Laboratory, Department of Genetics, University Medical Center Groningen
+Study: VKGL Data-share Consensus
+Accession: SCV001740446.3
+First in ClinVar: Jul 07, 2021
+Last updated: Sep 08, 2021
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Pathogenic
+(-)
+N
+Not contributing to aggregate classification
+no assertion criteria provided
+not provided
+Joint Genome Diagnostic Labs from Nijmegen and Maastricht, Radboudumc and MUMC+
+Study: VKGL Data-share Consensus
+Accession: SCV001954827.1
+First in ClinVar: Oct 02, 2021
+Last updated: Oct 02, 2021
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Pathogenic
+(-)
+N
+Not contributing to aggregate classification
+no assertion criteria provided
+not provided
+Clinical Genetics DNA and cytogenetics Diagnostics Lab, Erasmus MC, Erasmus Medical Center
+Study: VKGL Data-share Consensus
+Accession: SCV001965898.1
+First in ClinVar: Oct 07, 2021
+Last updated: Oct 07, 2021
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Uncertain significance
+(Apr 26, 2022)
+N
+Not contributing to aggregate classification
+no assertion criteria provided
+von Willebrand disease type 2
+Angelo Bianchi Bonomi Hemophilia and Thrombosis Center, Fondazione IRCCS Ca Granda Ospedale Maggiore Policlinico
+Accession: SCV002513416.1
+First in ClinVar: May 21, 2022
+Last updated: May 21, 2022
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+not provided
+(-)
+N
+Not contributing to aggregate classification
+no classification provided
+not provided
+Academic Unit of Haematology, University of Sheffield
+Accession: SCV000118824.1
+First in ClinVar: Feb 21, 2014
+Last updated: Feb 21, 2014
+Observation: 1
+Collection method
+:
+not provided
+Allele origin
+:
+not provided
+Affected status
+:
+not provided
+Observation 1
+Collection method
+:
+not provided
+Allele origin
+:
+not provided
+Affected status
+:
+not provided
+not provided
+(-)
+N
+Not contributing to aggregate classification
+no classification provided
+von Willebrand disorder
+GeneReviews
+Accession: SCV002507237.2
+First in ClinVar: May 16, 2022
+Last updated: Oct 01, 2022
+Publications:
+BookShelf: NBK7014
+BookShelf: NBK7014
+Observation: 1
+Collection method
+:
+literature only
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+literature only
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Comment:
+The NM_000552.5(VWF):c.2561G>A variant in VWF is a missense variant predicted to cause substitution of arginine by glutamine at amino acid 854. The Grpmax filtering allele frequency in gnomAD v4.0 is 0.005857 (based on 7050/1180026 alleles, with 24 homozygotes) in the European non-Finnish population. This allele frequency is above the ClinGen VWD VCEP threshold for VWD Type 2N (<0.005) for PM2_Supporting but below the threshold (>0.01) for BS1 and therefore does not meet any population criterion. At least 9 patients with this variant displayed excessive mucocutaneous bleeding, low FVIII activity, and decreased VWF:FVIII binding, which is highly specific for VWD type 2N (PP4_Moderate, PMID: 28971901, PMID: 22875612). Four individuals were homozygous for the variant (PMID: 28971901, PMID: 22875612, PMID: 1832934) and one of those individuals was compound heterozygous for the variant and a pathogenic variant (p.Arg816Trp) confirmed in trans (PMID: 1832934), additional compound heterozygotes have been reported but were not considered here (PM3_Strong). In one family, the variant segregated with VWD type 2N in the proband and a second affected family member (PP1; PMID: 28971901). A hydrodynamic mouse model showed reduced factor VIII stability and impaired binding of factor VIII to VWF, indicating that this variant has a damaging effect on protein function (PMID: 28581694)(PS3). In summary, this variant meets the criteria to be classified as Pathogenic for von Willebrand disease type 2N. ACMG/AMP criteria applied as specified by the ClinGen von Willebrand disease Variant Curation Expert Panel: PS3, PM3_Strong, PP4_Moderate, PP1.
+OK
+Comment:
+DNA sequence analysis of the VWF gene demonstrated a sequence change, c.2561G>A, in exon 20 that results in an amino acid change, p.Arg854Gln. This pathogenic sequence change has previously been described in the bi-allelic state in several individuals with autosomal recessive Von Willebrand Disease type 2N and is the most common pathogenic variant associated with VWD type 2N (PMID: 21371195, 26207643, 15461624, 1832934). This sequence change has been described in the gnomAD database with a frequency of 0.35% in the overall population (dbSNP rs41276738).The p.Arg854Gln change affects a highly conserved amino acid residue located in a domain of the VWF protein that is known to be functional. Functional studies indicate that this sequence change results in decreased ability of the VWF protein to bind Factor VIII (PMID: 1906877, 15461624, 23426949, 12176890). In-silico pathogenicity prediction tools (SIFT, PolyPhen2, Align GVGD, REVEL) provide contradictory results for the p.Arg854Gln substitution. These collective evidences indicate that this sequence change is pathogenic.
+OK
+Comment:
+The c.2561G>A (p.Arg854Gln) variant is found specifically in patients with type 2N von Willebrand disease (VWD) which manifests as a mild form of VWD with only moderate bleeding in homozygotes. This variant is well-documented as disease-causing for this specific type of VWD, found in up to 73% of type 2N patients to date (Casonato et al. 2013). The variant is also common among Caucasians, being found in over 1% of the general population (Goodeve et al. 2010). Across a selection of the available literature, the p.Arg854Gln variant has been reported in seven studies and found in a total of 72 patients including in 26 in a homozygous state, 12 in a compound heterozygous state and 34 in a heterozygous state in whom a second variant as not been found (Gaucher et al. 1991; Cacheris et al. 1991; Peerlinck et al. 1992; Hilbert et al. 2004; Hilbert et al. 2006; Veyradier et al. 2011; Casonato et al. 2013). The variant was absent from 906 control alleles and is reported at a frequency of 0.014 in the Puerto Rican population of the 1000 Genomes Project. Functional studies have demonstrated that the p.Arg854Gln variant results in reduced binding of FVIII and proteolysis by ADAMTS13 with a normal multimer pattern (Gaucher et al. 1991; Cacheris et al. 1991; Peerlinck et al. 1992; Hilbert et al. 2004; Hilbert et al. 2006; Skipwith et al. 2013; Wang et al. 2013). Based on the collective evidence, the p.Arg854Gln variant is classified as pathogenic for von Willebrand disease.
+OK
+Comment:
+The missense variant VWF c.2561G>A, p.Arg854Gln (p.R854Q) in exon 20 changes amino acid arginine at codon 854 to glutamine. The arginine at this residue is highly conserved among species. This amino acid change occurs in the D'D3 domain of the VWF protein, a functional domain that binds factor VIII (Springer, 2014). Pathogenic variants in VWF are associated with autosomal dominant or autosomal recessive von Willebrand disease (VWD), characterized by quantitative or qualitative deficiencies in von Willebrand factor and resulting in prolonged bleeding. Pathogenic missense variants in the D'D3 domain have been shown to cause autosomal recessive type 2N VWD, characterized by low plasma factor VIII levels and a laboratory phenotype that can initially resemble hemophilia A. This sequence variant has is one of the most common reported variants in patients with type 2N VWD (Hilbert, 2004; Goodeve, 2007; Veyradier, 2011; van Meegeren, 2015; Borras, 2017). Functional studies of p.R854Q mutant in mamalian cells showed decreased FVIII binding (Hilbert, 2004; Swystun, 2017). The minor allele frequency of this variant in the general population is 0.003465 (gnomAD). In summary, the collective evidence supports VWF c.2561G>A, p.Arg854Gln as a pathogenic variant for type 2N von Willebrand disease.
+OK
+Comment:
+The (p.R854Q) variant in the VWF gene is the most frequent cause of VWD type 2N, which manifests as a mild form of VWD with only moderate bleeding in homozygotes (PMID: 20301765).
+OK
+Comment:
+The VWF c.2561G>A variant is classified as Pathogenic (PS3, PS4, PP1, PP2, PP3, PP5)
+OK
+Comment:
+The p.Arg854Gln has been reported in the homozygous or compound heterozygous state in >20 individuals with von Willebrand disease (VWD) type 2N (Gaucher 1991 PMID: 1832934, Peerlinck 1992 PMID: 1581215, Veyradier 2011 PMID: 21371195). This variant is a common disease-causing variant for type 2N VWD (Casonato 2013 PMID: 22875612). This variant has also been reported by other clinical laboratories in ClinVar (Variation ID: 296) and has been identified in 0.6% (7050/1180026) of European chromosomes, including 26 total homozygotes by gnomAD (http://gnomad.broadinstitute.org, v.4.0.0). This is consistent with a recessive carrier frequency and the clinical manifestations of type 2N VWD. In vitro functional studies indicate the p.Arg854Gln variant may affect protein function as it has been shown to decrease binding to factor VIII (Wang 2012 PMID: 23426949, Skipwith 2013 PMID: 23636243). In summary, this variant meets criteria to be classified as pathogenic for autosomal recessive type 2N von Willebrand disease. ACMG/AMP criteria applied: PM3_VeryStrong, PS3_Supporting, PM2_Supporting.
+OK
+Comment:
+The VWF c.2561G>A (p.Arg854Gln) variant has been reported in the published literature in multiple individuals with autosomal recessive Type 2N von Willebrand disease (Type 2N vWD) (PMIDs: 1832934 (1991), 9684781 (1998), 15461624 (2004), 20409624 (2010), 22875612 (2013), 35446929 (2022), 38947547 (2024)). Functional studies have shown that this variant greatly reduces the ability of the VWF protein to bind factor VIII (PMIDs: 1906877 (1991), 15461624 (2004)). The frequency of this variant in the general population, 0.007 (34/4834 chromosomes (Genome Aggregation Database, http://gnomad.broadinstitute.org)), is consistent with pathogenicity. Based on the available information, this variant is classified as pathogenic.
+OK
+Comment:
+Novel missense change at an amino acid residue where a different missense change determined to be pathogenic has been seen before.;Well-established in vitro or in vivo functional studies supportive of a damaging effect on the gene or gene product.;For recessive disorders, detected in trans with a pathogenic variant.;Patient's phenotype or family history is highly specific for a disease with a single genetic etiology.
+OK
+Comment:
+As part of Carrier Screening testing performed at First Genomix, this variant was identified in a heterozygous state in a patient who is not affected with this condition.
+OK
+Comment:
+c.2561G>A (p.Arg854Gln) has been reported in the literature associated with von Willebrand disease, type 2N and functional analysis supports the deleterious nature of this variant. Additionally, this variant (rs41276738) is more prevalent in affected individuals than the healthy population (gnomAD: 980/282824 total alleles; 0.3465%; 5 homozygotes). Sixteen submitters in ClinVar classify this variant as either pathogenic or likely pathogenic. We consider this variant to be pathogenic.
+OK
+Comment:
+PS1_moderate, PS3, PM1
+OK
+Comment:
+This is a nonsynonymous variant in the VWF gene (OMIM 613160). Pathogenic variants in this gene have been associated with autosomal dominant and autosomal recessive von Willebrand disease (VWD). This variant, also known as p.Arg91Gln, is the most common pathogenic variant associated with autosomal recessive VWD type 2N (VWD2N) (PMID: 15461624, 1832934, 21371195, 22875612, 26764160 31064749, 34355501) (PM3_Very Strong). Functional studies have shown that this variant alters VWF protein function (PMID: 12176890, 1918030, 31349985) (PS3). Multiple computational algorithms predict a deleterious effect for this substitution (PP3). This variant has a 0.6055% maximum allele frequency in non-founder control populations (https://gnomad.broadinstitute.org/). Based on the current evidence, this variant is classified as pathogenic for autosomal recessive VWD2N.
+OK
+Comment:
+PS3, PM1, PM3_Strong
+OK
+Comment:
+Variant summary: VWF c.2561G>A (p.Arg854Gln) results in a conservative amino acid change located in the VWFC domain (IPR001846) of the encoded protein sequence. Three of five in-silico tools predict a damaging effect of the variant on protein function. The variant allele was found at a frequency of 0.0034 in 251418 control chromosomes in the gnomAD database, including 5 homozygotes. c.2561G>A has been reported in the literature as a homozygous and compound heterozygous genotype in multiple individuals affected with Von Willebrand Disease type 2N (e.g. Casonato_2013, Fidalgo_2016) and is a common variant associated with type 2N VWD. These data indicate that the variant is very likely to be associated with disease. At least one publication reports experimental evidence evaluating an impact on protein function, showing that the variant affects protein function (Wang_2013, Skipwith_2013). The following publications have been ascertained in the context of this evaluation (PMID: 22875612, 26988807, 23636243, 23426949). ClinVar contains an entry for this variant (Variation ID: 296). Based on the evidence outlined above, the variant was classified as pathogenic.
+OK
+Comment:
+ACMG Criteria: PS3, PS4, PM3, PM5_P, PP4, PP5; Variant found in a heterozygous state
+OK
+Comment:
+This sequence variant is a single nucleotide substitution (G>A) at position 2561 of the coding sequence of the VWF gene that results in an arginine to glutamine amino acid change at residue 854 of the von Willebrand factor propeptide. This is a previously reported variant (ClinVar 296) that has been observed in and is the most frequent allele found in individuals affected by recessive type 2N von Willebrand disease (PMID: 1832934, 9684781, 12353087, 15461624, 22875612). This variant is present in 8000 of 1614214 alleles (0.4956%) in the gnomAD v4.0.0 population dataset. The Arg854 residue at this position is highly conserved across the vertebrate species examined. Studies examining the functional consequence of this variant demonstrate that it strongly inhibits Factor VIII binding (PMID: 1906877, 12588349, 23636243). Based upon the evidence, we consider this variant to be pathogenic. ACMG Criteria: PM5, PP1, PP2, PP5, PS3
+OK
+Comment:
+Based on the classification scheme VCGS_Germline_v1.3.4, this variant is classified as Pathogenic. Following criteria are met: 0103 - Dominant negative and loss of function are known mechanisms of disease in this gene and are associated with von Willebrand disease (OMIM). (I) 0108 - This gene is associated with both recessive and dominant disease. von Willebrand disease can be both dominantly and recessively inherited, and is categorised into six different types: 1 (MIM#193400), 2A, 2B, 2M, 2N (MIM#613554) and 3 (MIM#277480). (I) 0112 - The condition associated with this gene has incomplete penetrance (PMID: 19372260). (I) 0115 - Variants in this gene are known to have variable expressivity (PMID: 19372260). (I) 0200 - Variant is predicted to result in a missense amino acid change from arginine to glutamine. (I) 0251 - This variant is heterozygous. (I) 0304 - Variant is present in gnomAD (v2) <0.01 (970 heterozygotes, 5 homozygotes). (SP) 0309 - An alternative amino acid change at the same position has been observed in gnomAD (v2) (5 heterozygotes, 0 homozygotes). (I) 0502 - Missense variant with conflicting in silico predictions and high conservation. (I) 0604 - Variant is not located in an established domain, motif, hotspot or informative constraint region. (I) 0801 - This variant has very strong previous evidence of pathogenicity in unrelated individuals. This variant is most commonly reported in individuals with type 2N von Willebrand disease, primarily associated with autosomal recessive inheritance, however autosomal dominant inheritance and type 1 has also been reported (PMIDs: 28987708, 29115006). (SP) 1002 - This variant has moderate functional evidence supporting abnormal protein function. Murine mutant cDNA transfected into HEK293T cells demonstrated impaired VWF synthesis and secretion (PMID: 28581694). (SP) 1208 - Inheritance information for this variant is not currently available in this individual. (I) Legend: (SP) - Supporting pathogenic, (I) - Information, (SB) - Supporting benign
+OK
+Comment:
+Criteria applied: PM3_VSTR,PS3,PM5,PP1; Identified as compund heterozygous with NM_000552.5:c.2435del
+OK
+Comment:
+PS3_Strong; PM3_Strong; PP4_Moderate; PP1_Supporting
+OK
+Comment:
+PP1, PP5, PM3_strong, PS3, PS4
+OK
+Comment:
+The VWF c.2561G>A; p.Arg854Gln variant (also known as Arg91Gln) is published in the literature in individuals with von Willebrand disease (VWD) type 2N and is the most common VWD type 2N pathogenic variant (Casonato 2018, Veyradier 2011, Wang 2013). Functional analyses of the variant protein show decreased factor VIII binding, consistent with VWD type 2N (Veyradier 2011, Wang 2013). This variant is reported in ClinVar (Variation ID: 296). This variant is found in the general population with an overall allele frequency of .347% (980/ 282824 alleles, including 5 homozygotes) in the Genome Aggregation Database. The arginine at codon 854 is highly conserved, but computational analyses are uncertain whether this variant is neutral or deleterious (REVEL: 0.487). Considering available information, this variant is classified as pathogenic. References: Casonato A et al. Type 2N von Willebrand disease: Characterization and diagnostic difficulties. Haemophilia. 2018 Jan;24(1):134-140. Veyradier A et al. Validation of the first commercial ELISA for type 2N von Willebrand's disease diagnosis. Haemophilia. 2011. 17(6):944-51. Wang JW et al. Analysis of the storage and secretion of von Willebrand factor in blood outgrowth endothelial cells derived from patients with von Willebrand disease. Blood. 2013. 121(14):2762-72.
+OK
+Comment:
+In silico analysis supports that this missense variant has a deleterious effect on protein structure/function; This variant is associated with the following publications: (PMID: 38947547, 26207643, 26105150, 26764160, 31064749, 20981092, 21489050, 21371195, 22197721, 23636243, 22875612, 22995991, 24029428, 25649154, 16953269, 9684781, 24033266, 20409624, 1906877, 23426949, 1832934, 1581215, 15461624, 25212677, 28436749, 29115006, 29220693, 29431110, 30609409, 30431218, 30722078, 31019283, 32935436, 31980526, 34426522, 31589614, 8115998, 9692396, 33942438, 36920765, 33556167, 12588349, 20586924, 38523675, 37872709, 38992343)
+OK
+Comment:
+NM_000552.5(VWF):c.2561G>A (p.Arg854Gln) is a missense variant that results in the substitution of arginine with glutamine. The affected residue or protein region has prior evidence supporting clinical relevance. Segregation evidence has been reported in affected families. This variant has been observed in affected individuals with related phenotype in a genotype context consistent with recessive disease (PMID: 15461624; PMID: 28581694; PMID: 16953269; PMID: 20586924; PMID: 35189660). Functional evidence supports a deleterious effect on the gene or gene product (PMID: 15461624; PMID: 28581694; PMID: 16953269; PMID: 20586924; PMID: 35189660). This variant has been recurrently observed in individuals with related phenotype (PMID: 15461624; PMID: 28581694; PMID: 16953269; PMID: 20586924; PMID: 35189660). The variant is present at low frequency in population datasets. Based on the available data, this variant is classified as pathogenic.
+OK
+Comment:
+VWF: PP1:Strong, PM1, PM5, PS3:Moderate, BP4
+OK
+Comment:
+The VWF c.2561G>A variant is predicted to result in the amino acid substitution p.Arg854Gln. This variant (aka p.Arg91Gln) has been reported in the homozygous or compound heterozygous state in many patients with recessive von Willebrand disease (VWD) type 2N (van Meergeren et al. 2015. PubMed ID: 26207643; Castaman et al. 2010. PubMed ID: 20586924; Gaucher et al. 1991. PubMed ID: 1832934; Hilbert et al. 2004. PubMed ID: 15461624). This variant has also been reported in the compound heterozygous state in at least one individual with the type I version of Willebrand disease (Peerlinck et al. 1992. PubMed ID: 1581215). Different cellular and biochemical studies indicate the p.Arg854Gln change alters normal VWF protein function (Cacheris et al. 1991. PubMed ID: 1906877; Castaman et al. 2010. PubMed ID: 20586924; Wang et al. 2013. PubMed ID: 23426949; Hilbert et al. 2004. PubMed ID: 15461624). This variant is reported in 0.57% of alleles in individuals of European (Finnish) descent in gnomAD, including several homozygotes, indicating it is relatively common. This variant has been classified as pathogenic by the ClinGen von Willebrand Disease Variant Curation Expert Panel in ClinVar (Variation ID: 296). This variant is interpreted as pathogenic for autosomal recessive von Willebrand disease type 2N.
+OK
+Comment:
+NM_000552.3:c.2561G>A in the VWF gene has an allele frequency of 0.006 in European (Finnish) subpopulation in the gnomAD database. The p.Arg854Gln (NM_000552.3:c.2561G>A) variant in the VWF gene is the most frequent cause of von Willebrand disease (VWD) type 2N and has been reported previously in the homozygous state or in trans with another pathogenic variant in multiple unrelated individuals with autosomal recessive VWD type 2N (PMID: 1832934; 21371195; 15461624). Functional studies indicate the p.Arg854Gln variant may affect protein function (PMID: 23636243; 23426949). Taken together, we interprete this variant as Pathogenic/Likely pathogenic. ACMG/AMP Criteria applied: PM3_Strong; PS3; PP4.
+OK
+Comment:
+The VWF p.R854Q variant was identified in multiple homozygous or compound heterozygous individuals with autosomal recessive Von Willebrand disease (VWD) type 2N (Casonato_2016_PMID:27532107; Casonato_2007_PMID:17456630; Rodgers_2002_PMID:12162689; Cabrera_2008_PMID:18712522). In one family study, two sisters with borderline VWD type 2N were compound heterozygotes for this variant and p.Q895H; the father and mother were asymptomatic carriers for p.Q895H and p.R854Q, respectively (Cabrera_2008_PMID:18712522). The variant was identified in dbSNP (ID: rs41276738) and ClinVar (classified as pathogenic by Laboratory for Molecular Medicine, GeneDx and 11 other laboratories). The variant was identified in control databases in 980 of 282824 chromosomes (5 homozygous) at a frequency of 0.003465 (Genome Aggregation Database March 6, 2019, v2.1.1). The variant was observed in the following populations: European (Finnish) in 143 of 25122 chromosomes (freq: 0.005692), European (non-Finnish) in 690 of 129142 chromosomes (freq: 0.005343), Other in 26 of 7226 chromosomes (freq: 0.003598), Latino in 74 of 35428 chromosomes (freq: 0.002089), Ashkenazi Jewish in 10 of 10370 chromosomes (freq: 0.000964), African in 21 of 24968 chromosomes (freq: 0.000841) and South Asian in 16 of 30614 chromosomes (freq: 0.000523), but was not observed in the East Asian population. The p.Arg854 residue is conserved in mammals and computational analyses (PolyPhen-2, SIFT, AlignGVGD, BLOSUM, MutationTaster) suggest that the variant may impact the protein. The VWF gene encodes Von Willebrand factor, which interacts with coagulation factor VIII (FVIII) for hemostasis. Functional studies reveal that this variant causes significantly decreased binding between VMF and FVIII compared to wild type (Kroner_1991_PMID:1918030; Rosenberg_2002_PMID:12176890; Dagil_2019_PMID: 31349985). The variant occurs outside of the splicing consensus sequence and 3 of 4 in silico or computational prediction software programs (SpliceSiteFinder, MaxEntScan, NNSPLICE, GeneSplicer) predict a greater than 10% difference in splicing and the creation of a new 3' splice site. However, this has not been confirmed by RNA analysis. In summary, based on the above information this variant meets our laboratoryâ€šÃ„Ã´s criteria to be classified as pathogenic.
+OK
+Citations for germline classification of this variant
+Help
+Title
+Author
+Journal
+Year
+Link
+Variant p.Tyr1584Cys: a frequent von Willebrand factor variant in search of von Willebrand disease.
+Seidizadeh O
+Research and practice in thrombosis and haemostasis
+2024
+PMID:
+38947547
+Clinical relevance of genetic variants in the von Willebrand factor according to in-silico methods.
+Woods AI
+American journal of medical genetics. Part A
+2024
+PMID:
+37872709
+Von Willebrand Disease.
+Adam MP
+-
+2024
+PMID:
+20301765
+Desmopressin response depends on the presence and type of genetic variants in patients with type 1 and type 2 von Willebrand disease.
+Atiq F
+Blood advances
+2022
+PMID:
+35446929
+The Lesson Learned from the New c.2547-1G > T Mutation Combined with p.R854Q: When a Type 2N Mutation Reveals a Quantitative von Willebrand Factor Defect.
+Casonato A
+Thrombosis and haemostasis
+2022
+PMID:
+35189660
+GoldVariants, a resource for sharing rare genetic variants detected in bleeding, thrombotic, and platelet disorders: Communication from the ISTH SSC Subcommittee on Genomics in Thrombosis and Hemostasis.
+Megy K
+Journal of thrombosis and haemostasis : JTH
+2021
+PMID:
+34355501
+Von Willebrand disease type 2N: An update.
+Seidizadeh O
+Journal of thrombosis and haemostasis : JTH
+2021
+PMID:
+33497541
+Interaction Between the a3 Region of Factor VIII and the TIL'E' Domains of the von Willebrand Factor.
+Dagil L
+Biophysical journal
+2019
+PMID:
+31349985
+Diagnostic high-throughput sequencing of 2396 patients with bleeding, thrombotic, and platelet disorders.
+Downes K
+Blood
+2019
+PMID:
+31064749
+Type 2N von Willebrand disease: Characterization and diagnostic difficulties.
+Casonato A
+Haemophilia : the official journal of the World Federation of Hemophilia
+2018
+PMID:
+29115006
+Von Willebrand disease mutation spectrum and associated mutation mechanisms.
+de Jong A
+Thrombosis research
+2017
+PMID:
+28987708
+Molecular and clinical profile of von Willebrand disease in Spain (PCM-EVW-ES): comprehensive genetic analysis by next-generation sequencing of 480 patients.
+Borràs N
+Haematologica
+2017
+PMID:
+28971901
+Abnormal von Willebrand factor secretion, factor VIII stabilization and thrombus dynamics in type 2N von Willebrand disease mice.
+Swystun LL
+Journal of thrombosis and haemostasis : JTH
+2017
+PMID:
+28581694
+Genotype-phenotype correlation in a cohort of Portuguese patients comprising the entire spectrum of VWD types: impact of NGS.
+Fidalgo T
+Thrombosis and haemostasis
+2016
+PMID:
+26988807
+267 Spanish Exomes Reveal Population-Specific Differences in Disease-Related Genetic Variation.
+Dopazo J
+Molecular biology and evolution
+2016
+PMID:
+26764160
+Clinical phenotype in genetically confirmed von Willebrand disease type 2N patients reflects a haemophilia A phenotype.
+van Meegeren ME
+Haemophilia : the official journal of the World Federation of Hemophilia
+2015
+PMID:
+26207643
+von Willebrand factor, Jedi knight of the bloodstream.
+Springer TA
+Blood
+2014
+PMID:
+24928861
+Comprehensive genetic analysis of complement and coagulation genes in atypical hemolytic uremic syndrome.
+Bu F
+Journal of the American Society of Nephrology : JASN
+2014
+PMID:
+24029428
+Compromised shear-dependent cleavage of type 2N von Willebrand factor variants by ADAMTS13 in the presence of factor VIII.
+Skipwith CG
+Thrombosis and haemostasis
+2013
+PMID:
+23636243
+Analysis of the storage and secretion of von Willebrand factor in blood outgrowth endothelial cells derived from patients with von Willebrand disease.
+Wang JW
+Blood
+2013
+PMID:
+23426949
+A common ancestor more than 10,000 years old for patients with R854Q-related type 2N von Willebrand's disease in Italy.
+Casonato A
+Haematologica
+2013
+PMID:
+22875612
+VWF mutations and new sequence variations identified in healthy controls are more frequent in the African-American population.
+Bellissimo DB
+Blood
+2012
+PMID:
+22197721
+Validation of the first commercial ELISA for type 2N von Willebrand's disease diagnosis.
+Veyradier A
+Haemophilia : the official journal of the World Federation of Hemophilia
+2011
+PMID:
+21371195
+A map of human genome variation from population-scale sequencing.
+1000 Genomes Project Consortium
+Nature
+2010
+PMID:
+20981092
+Homozygous type 2N R854W von Willebrand factor is poorly secreted and causes a severe von Willebrand disease phenotype.
+Castaman G
+Journal of thrombosis and haemostasis : JTH
+2010
+PMID:
+20586924
+The genetic basis of von Willebrand disease.
+Goodeve AC
+Blood reviews
+2010
+PMID:
+20409624
+A novel deletion mutation is recurrent in von Willebrand disease types 1 and 3.
+Sutherland MS
+Blood
+2009
+PMID:
+19372260
+Intracellular cotrafficking of factor VIII and von Willebrand factor type 2N variants to storage organelles.
+van den Biggelaar M
+Blood
+2009
+PMID:
+19088379
+Novel missense mutation c.2685G>C (p.Q895H) in VWF gene associated with very low levels of VWF mRNA.
+Cabrera N
+Annals of hematology
+2009
+PMID:
+18712522
+Phenotype and genotype of a cohort of families historically diagnosed with type 1 von Willebrand disease in the European study, Molecular and Clinical Markers for the Diagnosis and Management of Type 1 von Willebrand Disease (MCMDM-1VWD).
+Goodeve A
+Blood
+2007
+PMID:
+16985174
+Type 2N von Willebrand disease due to compound heterozygosity for R854Q and a novel R763G mutation at the cleavage site of von Willebrand factor propeptide.
+Hilbert L
+Thrombosis and haemostasis
+2006
+PMID:
+16953269
+A practical approach to genetic testing for von Willebrand disease.
+Pruthi RK
+Mayo Clinic proceedings
+2006
+PMID:
+16706266
+Pregnancy and delivery in patients with homozygous or heterozygous R854Q type 2N von Willebrand disease.
+Castaman G
+Journal of thrombosis and haemostasis : JTH
+2005
+PMID:
+15670054
+Expression of two type 2N von Willebrand disease mutations identified in exon 18 of von Willebrand factor gene.
+Hilbert L
+British journal of haematology
+2004
+PMID:
+15461624
+Two novel mutations, Q1053H and C1060R, located in the D3 domain of von Willebrand factor, are responsible for decreased FVIII-binding capacity.
+Hilbert L
+British journal of haematology
+2003
+PMID:
+12588349
+First Italian families with homozygous R854Q type 2 N von Willebrand disease.
+Castaman G
+Thrombosis and haemostasis
+2002
+PMID:
+12353087
+ABO blood group also influences the von Willebrand factor (VWF) antigen level in heterozygous carriers of VWF null alleles, type 2N mutation Arg854GIn, and the missense mutation Cys2362Phe.
+Castaman G
+Blood
+2002
+PMID:
+12211196
+The role of the D1 domain of the von Willebrand factor propeptide in multimerization of VWF.
+Rosenberg JB
+Blood
+2002
+PMID:
+12176890
+Type 2N von Willebrand disease: clinical manifestations, pathophysiology, laboratory diagnosis and molecular biology.
+Mazurier C
+Best practice & research. Clinical haematology
+2001
+PMID:
+11686103
+Type 2N von Willebrand disease: rapid genetic diagnosis of G2811A (R854Q), C2696T (R816W), T2701A (H817Q) and G2823T (C858F)--detection of a novel candidate type 2N mutation: C2810T (R854W).
+Bowen DJ
+Thrombosis and haemostasis
+1998
+PMID:
+9684781
+Factor VIII binding assay of von Willebrand factor and the diagnosis of type 2N von Willebrand disease--results of an international survey. On behalf of the Subcommittee on von Willebrand Factor of the Scientific and Standardization Committee of the ISTH.
+Mazurier C
+Thrombosis and haemostasis
+1996
+PMID:
+8865544
+Autosomal recessive transmission of hemophilia A due to a von Willebrand factor mutation.
+Wise RJ
+Human genetics
+1993
+PMID:
+8500791
+A patient with von Willebrand's disease characterized by a compound heterozygosity for a substitution of Arg854 by Gln in the putative factor-VIII-binding domain of von Willebrand factor (vWF) on one allele and very low levels of mRNA from the second vWF allele.
+Peerlinck K
+British journal of haematology
+1992
+PMID:
+1581215
+Abnormal binding of factor VIII is linked with the substitution of glutamine for arginine 91 in von Willebrand factor in a variant form of von Willebrand disease.
+Kroner PA
+The Journal of biological chemistry
+1991
+PMID:
+1918030
+Molecular characterization of a unique von Willebrand disease variant. A novel mutation affecting von Willebrand factor/factor VIII interaction.
+Cacheris PM
+The Journal of biological chemistry
+1991
+PMID:
+1906877
+Identification of two point mutations in the von Willebrand factor gene of three families with the 'Normandy' variant of von Willebrand disease.
+Gaucher C
+British journal of haematology
+1991
+PMID:
+1832934
+http://www.egl-eurofins.com/emvclass/emvclass.php?approved_symbol=VWF
+-
+-
+-
+-
+https://erepo.clinicalgenome.org/evrepo/ui/interpretation/01c59bbd-0d03-488a-94f1-fa68f3b2e083
+-
+-
+-
+-
+click to load more citations
+click to collapse
+Text-mined citations for rs41276738
+...
+Help
+These citations are identified by LitVar using
+    the rs number, so they may include citations for more than one variant
+    at this location. Please review the LitVar results carefully for your
+    variant of interest.
+Record last updated Oct 04, 2026
+This date represents the last time this VCV record was updated. The 
+                        update may be due to an update to one of the included submitted 
+                        records (SCVs), or due to an update that ClinVar made to the variant 
+                        such as adding HGVS expressions or a rs number. So this date may be 
+                        different from the date of the “most recent submission” reported at the 
+                        top of this page.
+Help
+Modify your search
+Search (all fields optional)
+Clear all
+Variant
+Gene
+Genomic Location
+GRCh38
+GRCh37
+More search options
+Disease
+Other Terms
+Advanced Search
+Clear all
+Search
+Follow NCBI
+Twitter
+Facebook
+LinkedIn
+GitHub
+Connect with NLM
+Twitter
+SM-Facebook
+SM-Youtube
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+Help
+Accessibility
+Careers
+NLM
+NIH
+HHS
+USA.gov

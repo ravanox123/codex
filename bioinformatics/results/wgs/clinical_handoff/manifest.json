@@ -1,0 +1,22 @@
+{
+  "sample": "571566",
+  "status": "unsigned research handoff; no appointment or test ordered",
+  "preferred_clinic": "Genom Clinic; Baku branch assumed",
+  "clinical_history": "requester reports history unavailable; no negative findings inferred",
+  "files": {
+    "START_HERE.md": "291ddca8d9a61c7cdeb4d0b23dc090ebe084e0a6a5ce66c6133bdfdb949c85c2",
+    "START_HERE.html": "5684863b49d61b0c06bd7091fb16e7e3805949cf800fc804a375d56e68cc9989",
+    "clinical_history_form.csv": "7493bace535ee8c4a0e866f1082d4eeaa3c16ebf3b9e60b605e1105a276d05f6",
+    "CLINICAL_STYLE_REPORT.md": "a39a80d08a44d13b27f46846a62ee76e66a5843fb8ba520f5e17110059d90772",
+    "CLINICAL_STYLE_REPORT.html": "93ca3fbbaeb5df172655186a1c06b637a58d5aa8f2f3e5e61487eb2e617bd60e",
+    "REVIEW.md": "25ac2a321f9397424934b59ef30879493a2c08f2a90a8a01fd9149f3b0e71b50",
+    "CLINICAL_HANDOFF.md": "15fbe56e2b72478ba985b86bd410c9bcadabf5aab5199380afac9cdf53b58308",
+    "571566_variant_review.csv": "ab23fc38870e517c31c9dd464813521bee0f069167e8b18669fb7485900600b9",
+    "571566_variant_review.tsv": "455482d214a9db562c76b969d7a7f67bb9026bf6d609f7696a79e10374d83fc6",
+    "571566_variant_review.html": "3aadd6b12b903f22d75c47de4e58e8e180d6d578610ae2a848ff18df8323c45b",
+    "QUALITY_REPORT.md": "940442ed65f4106da9bd16969edccd911f5669d55073bc8687c324893ae85585",
+    "quality_summary.json": "ba067f3b53b66e90c0ef0f01f0c29ef4b7c09e0a480a5d79c62e2de5a1fbe469",
+    "report_findings_quality.tsv": "f455145bc450ef8233ee110255c7804fb82522dc751b4daa83c69c22d1aee36e",
+    "assertion_SNV_read_support.json": "580802967b15ef25379b790834eb8bd0e6bfcf5c1928c4fca94e5bce13d5b3f9"
+  }
+}

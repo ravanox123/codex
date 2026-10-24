@@ -1,0 +1,61 @@
+Using GATK jar /home/ravanox/codex/bioinformatics/tools/gatk-4.7.0.0/gatk-package-4.7.0.0-local.jar
+Running:
+    java -Dsamjdk.use_async_io_read_samtools=false -Dsamjdk.use_async_io_write_samtools=true -Dsamjdk.use_async_io_write_tribble=false -Dsamjdk.compression_level=2 -Xmx1500m -XX:ParallelGCThreads=2 -jar /home/ravanox/codex/bioinformatics/tools/gatk-4.7.0.0/gatk-package-4.7.0.0-local.jar HaplotypeCaller -R data/reference/GRCh38.fna -I results/wgs/571566.markdup.bam -L CM000684.2:20000000-20100000 --native-pair-hmm-threads 1 -O results/wgs/qc/pilot.unrecalibrated.vcf.gz
+11:55:05.706 INFO  NativeLibraryLoader - Loading libgkl_compression.so from jar:file:/home/ravanox/codex/bioinformatics/tools/gatk-4.7.0.0/gatk-package-4.7.0.0-local.jar!/com/intel/gkl/native/libgkl_compression.so
+WARNING: A restricted method in java.lang.System has been called
+WARNING: java.lang.System::load has been called by com.intel.gkl.NativeLibraryLoader in an unnamed module (file:/home/ravanox/codex/bioinformatics/tools/gatk-4.7.0.0/gatk-package-4.7.0.0-local.jar)
+WARNING: Use --enable-native-access=ALL-UNNAMED to avoid a warning for callers in this module
+WARNING: Restricted methods will be blocked in a future release unless native access is enabled
+
+11:55:06.308 INFO  HaplotypeCaller - ------------------------------------------------------------
+11:55:06.310 INFO  HaplotypeCaller - The Genome Analysis Toolkit (GATK) v4.7.0.0
+11:55:06.311 INFO  HaplotypeCaller - For support and documentation go to https://software.broadinstitute.org/gatk/
+11:55:06.311 INFO  HaplotypeCaller - Executing as ravanox@fedora on Linux v6.19.10-300.fc44.x86_64 amd64
+11:55:06.311 INFO  HaplotypeCaller - Java runtime: OpenJDK 64-Bit Server VM v25.0.2+10
+11:55:06.311 INFO  HaplotypeCaller - Start Date/Time: October 16, 2026, 11:55:05 AM GMT+04:00
+11:55:06.311 INFO  HaplotypeCaller - ------------------------------------------------------------
+11:55:06.311 INFO  HaplotypeCaller - ------------------------------------------------------------
+11:55:06.312 INFO  HaplotypeCaller - HTSJDK Version: 5.0.0
+11:55:06.312 INFO  HaplotypeCaller - Picard Version: 3.5.0
+11:55:06.312 INFO  HaplotypeCaller - Built for Spark Version: 3.5.0
+11:55:06.313 INFO  HaplotypeCaller - HTSJDK Defaults.COMPRESSION_LEVEL : 2
+11:55:06.313 INFO  HaplotypeCaller - HTSJDK Defaults.USE_ASYNC_IO_READ_FOR_SAMTOOLS : false
+11:55:06.313 INFO  HaplotypeCaller - HTSJDK Defaults.USE_ASYNC_IO_WRITE_FOR_SAMTOOLS : true
+11:55:06.313 INFO  HaplotypeCaller - HTSJDK Defaults.USE_ASYNC_IO_WRITE_FOR_TRIBBLE : false
+11:55:06.313 INFO  HaplotypeCaller - Deflater: IntelDeflater
+11:55:06.314 INFO  HaplotypeCaller - Inflater: IntelInflater
+11:55:06.314 INFO  HaplotypeCaller - GCS max retries/reopens: 20
+11:55:06.314 INFO  HaplotypeCaller - Requester pays: disabled
+11:55:06.314 INFO  HaplotypeCaller - Initializing engine
+11:55:06.559 INFO  IntervalArgumentCollection - Processing 100001 bp from intervals
+11:55:06.566 INFO  HaplotypeCaller - Done initializing engine
+11:55:06.597 INFO  NativeLibraryLoader - Loading libgkl_utils.so from jar:file:/home/ravanox/codex/bioinformatics/tools/gatk-4.7.0.0/gatk-package-4.7.0.0-local.jar!/com/intel/gkl/native/libgkl_utils.so
+11:55:06.616 INFO  NativeLibraryLoader - Loading libgkl_smithwaterman.so from jar:file:/home/ravanox/codex/bioinformatics/tools/gatk-4.7.0.0/gatk-package-4.7.0.0-local.jar!/com/intel/gkl/native/libgkl_smithwaterman.so
+11:55:06.617 INFO  SmithWatermanAligner - Using AVX accelerated SmithWaterman implementation
+11:55:06.620 INFO  HaplotypeCallerEngine - Disabling physical phasing, which is supported only for reference-model confidence output
+11:55:06.633 INFO  NativeLibraryLoader - Loading libgkl_pairhmm_omp.so from jar:file:/home/ravanox/codex/bioinformatics/tools/gatk-4.7.0.0/gatk-package-4.7.0.0-local.jar!/com/intel/gkl/native/libgkl_pairhmm_omp.so
+11:55:06.650 INFO  IntelPairHmm - Flush-to-zero (FTZ) is enabled when running PairHMM
+11:55:06.651 INFO  IntelPairHmm - Available threads: 8
+11:55:06.651 INFO  IntelPairHmm - Requested threads: 1
+11:55:06.651 INFO  PairHMM - Using the OpenMP multi-threaded AVX-accelerated native PairHMM implementation
+11:55:06.707 INFO  ProgressMeter - Starting traversal
+11:55:06.707 INFO  ProgressMeter -        Current Locus  Elapsed Minutes     Regions Processed   Regions/Minute
+11:55:08.093 WARN  InbreedingCoeff - InbreedingCoeff will not be calculated at position CM000684.2:20009306 and possibly subsequent; at least 10 samples must have called genotypes
+11:55:09.507 INFO  HaplotypeCaller - 9 read(s) filtered by: MappingQualityReadFilter 
+0 read(s) filtered by: MappingQualityAvailableReadFilter 
+0 read(s) filtered by: MappedReadFilter 
+0 read(s) filtered by: NotSecondaryAlignmentReadFilter 
+1094 read(s) filtered by: NotDuplicateReadFilter 
+0 read(s) filtered by: PassesVendorQualityCheckReadFilter 
+0 read(s) filtered by: NonZeroReferenceLengthAlignmentReadFilter 
+0 read(s) filtered by: GoodCigarReadFilter 
+0 read(s) filtered by: WellformedReadFilter 
+1103 total reads filtered out of 4161 reads processed
+11:55:09.507 INFO  ProgressMeter -  CM000684.2:20099136              0.0                   412           8831.7
+11:55:09.507 INFO  ProgressMeter - Traversal complete. Processed 412 total regions in 0.0 minutes.
+11:55:09.511 INFO  VectorLoglessPairHMM - Time spent in setup for JNI call : 0.0027423670000000003
+11:55:09.511 INFO  PairHMM - Total compute time in PairHMM computeLogLikelihoods() : 0.023536914000000003
+11:55:09.512 INFO  SmithWatermanAligner - Total compute time in native Smith-Waterman : 0.01 sec
+11:55:09.512 INFO  HaplotypeCaller - Shutting down engine
+[October 16, 2026, 11:55:09 AM GMT+04:00] org.broadinstitute.hellbender.tools.walkers.haplotypecaller.HaplotypeCaller done. Elapsed time: 0.07 minutes.
+Runtime.totalMemory()=156237824

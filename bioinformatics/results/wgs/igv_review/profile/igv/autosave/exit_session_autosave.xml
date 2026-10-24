@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Session genome="/home/ravanox/codex/bioinformatics/data/reference/GRCh38.fna" locus="CM000679.2:74854806-74855675" version="8">
+    <Resources>
+        <Resource name="Quality screen — retained" path="/home/ravanox/codex/bioinformatics/results/wgs/quality_review/571566.quality_accepted.vcf.gz" type="vcf"/>
+        <Resource name="Report findings" path="/home/ravanox/codex/bioinformatics/results/wgs/igv_review/review_sites.bed" type="bed"/>
+        <Resource name="571566 — recalibrated reads" path="/home/ravanox/codex/bioinformatics/results/wgs/571566.recal.bam" type="bam"/>
+        <Resource name="Quality screen — needs review" path="/home/ravanox/codex/bioinformatics/results/wgs/quality_review/571566.needs_quality_review.vcf.gz" type="vcf"/>
+    </Resources>
+    <Panel height="183" name="DataPanel" width="1131">
+        <Track attributeKey="Quality screen — retained" clazz="org.broad.igv.variant.VariantTrack" displayMode="EXPANDED" featureVisibilityWindow="100000" fontSize="10" groupByStrand="false" id="/home/ravanox/codex/bioinformatics/results/wgs/quality_review/571566.quality_accepted.vcf.gz" name="Quality screen — retained" siteColorMode="ALLELE_FREQUENCY" visible="true"/>
+        <Track attributeKey="Quality screen — needs review" clazz="org.broad.igv.variant.VariantTrack" displayMode="EXPANDED" featureVisibilityWindow="100000" fontSize="10" groupByStrand="false" id="/home/ravanox/codex/bioinformatics/results/wgs/quality_review/571566.needs_quality_review.vcf.gz" name="Quality screen — needs review" siteColorMode="ALLELE_FREQUENCY" visible="true"/>
+    </Panel>
+    <Panel height="1876" name="Panel1792479149490" width="1131">
+        <Track attributeKey="571566 — recalibrated reads Coverage" autoScale="true" clazz="org.broad.igv.sam.CoverageTrack" fontSize="10" id="/home/ravanox/codex/bioinformatics/results/wgs/571566.recal.bam_coverage" name="571566 — recalibrated reads Coverage" snpThreshold="0.2" visible="true">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="107.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track attributeKey="571566 — recalibrated reads Junctions" autoScale="true" clazz="org.broad.igv.sam.SpliceJunctionTrack" fontSize="10" groupByStrand="false" height="60" id="/home/ravanox/codex/bioinformatics/results/wgs/571566.recal.bam_junctions" maxdepth="50" name="571566 — recalibrated reads Junctions" visible="false"/>
+        <Track attributeKey="571566 — recalibrated reads" clazz="org.broad.igv.sam.AlignmentTrack" color="185,185,185" displayMode="EXPANDED" experimentType="OTHER" fontSize="10" id="/home/ravanox/codex/bioinformatics/results/wgs/571566.recal.bam" name="571566 — recalibrated reads" visible="true">
+            <RenderOptions duplicatesOption="FILTER"/>
+        </Track>
+    </Panel>
+    <Panel height="96" name="FeaturePanel" width="1131">
+        <Track attributeKey="Reference sequence" clazz="org.broad.igv.track.SequenceTrack" fontSize="10" id="Reference sequence" name="Reference sequence" sequenceTranslationStrandValue="+" shouldShowTranslation="true" visible="true"/>
+        <Track attributeKey="Report findings" clazz="org.broad.igv.track.FeatureTrack" colorScale="ContinuousColorScale;0.0;3.0;255,255,255;0,0,178" fontSize="10" groupByStrand="false" id="/home/ravanox/codex/bioinformatics/results/wgs/igv_review/review_sites.bed" name="Report findings" visible="true"/>
+    </Panel>
+    <PanelLayout dividerFractions="0.38065843621399176,0.808641975308642"/>
+    <HiddenAttributes>
+        <Attribute name="DATA FILE"/>
+        <Attribute name="DATA TYPE"/>
+        <Attribute name="NAME"/>
+    </HiddenAttributes>
+</Session>

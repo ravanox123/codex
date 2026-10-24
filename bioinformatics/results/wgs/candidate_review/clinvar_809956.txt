@@ -1,0 +1,552 @@
+VCV000809956.52 - ClinVar - NCBI
+An official website of the United States government
+Here's how you know
+Here's how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official
+                            government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you've safely
+                                connected to the .gov website. Share sensitive
+                                information only on official, secure websites.
+Log in
+Dashboard
+Publications
+Account settings
+Log out
+Primary site navigation
+Logged in as:
+Dashboard
+Publications
+Account settings
+Log in
+ClinVar Home
+About
+About ClinVar
+Statistics
+List of submitters
+Map of submitters
+Website overview
+FAQ
+Understand the Data
+Data authorities
+Preferred names
+Classification
+Review status and assertion criteria
+HGVS expressions
+Data validation
+Accessions and identifiers
+Release cycle
+Access the Data
+Web access
+How to search ClinVar
+VCV (variant) pages
+RCV (variant-condition) pages
+Downloads
+Programmatic access
+Linking to ClinVar
+Submit Data
+Submission overview
+Get started
+Submission instructions
+Expert panels and practice guidelines
+On this page
+Classification Summary
+Variant Details
+Genes
+Germline
+Conditions
+Submissions
+Text-mined Citations
+NM_001374736.1(DST):c.14495A>G (p.Glu4832Gly)
+Cite
+Following
+Follow
+⚠
+Print
+Download
+Cite this record
+Close
+National Center for Biotechnology Information. ClinVar; [VCV000809956.52], https://www.ncbi.nlm.nih.gov/clinvar/variation/VCV000809956.52 (accessed Oct. 20, 2026).
+Copy
+Germline
+Classification
+Help
+criteria provided, conflicting classifications.
+Learn more about how ClinVar calculates review status.
+Conflicting classifications of pathogenicity
+Uncertain significance (1); Likely benign (3)
+4 out of 5
+submissions contributed to this classification
+Help
+The aggregate germline classification for this variant, typically for a monogenic or Mendelian disorder as in
+the ACMG/AMP guidelines
+, or for response to a drug. This value is calculated by NCBI based on data from submitters.
+Read our rules for calculating the aggregate classification
+.
+5
+Somatic
+No data submitted for somatic clinical impact
+Somatic
+No data submitted for oncogenicity
+Variant Details
+Identifiers
+NM_001374736.1(DST):c.14495A>G (p.Glu4832Gly)
+Variation ID: 809956
+Accession: VCV000809956.52
+Type and length
+single nucleotide variant,
+1 bp
+Location
+Cytogenetic:
+6p12.1
+6:
+            
+            56557464
+(GRCh38)
+[
+NCBI
+UCSC
+]
+6:
+            
+            56422262
+(GRCh37)
+[
+NCBI
+UCSC
+]
+Timeline in ClinVar
+First in ClinVar
+Help
+The date this variant first appeared in ClinVar with each type of classification.
+Last submission
+Help
+The date of the most recent submission for each type of classification for this variant.
+Last evaluated
+Help
+The most recent date that a submitter evaluated this variant for each type of classification.
+Germline
+Feb 3, 2020
+Oct 3, 2026
+Dec 30, 2025
+HGVS
+Nucleotide
+Protein
+Molecular
+consequence
+NM_001374736.1:c.14495A>G
+MANE Select
+Help
+Transcripts from the Matched Annotation from the NCBI and EMBL-EBI (
+MANE
+) collaboration.
+NP_001361665.1:p.Glu4832Gly
+missense
+NM_001144769.5:c.8138A>G
+NP_001138241.1:p.Glu2713Gly
+missense
+NM_001144770.2:c.7724A>G
+NP_001138242.1:p.Glu2575Gly
+missense
+NM_001374722.1:c.14495A>G
+NP_001361651.1:p.Glu4832Gly
+missense
+NM_001374729.1:c.13862A>G
+NP_001361658.1:p.Glu4621Gly
+missense
+NM_001374730.1:c.7604A>G
+NP_001361659.1:p.Glu2535Gly
+missense
+NM_001374734.1:c.14522A>G
+NP_001361663.1:p.Glu4841Gly
+missense
+NM_015548.5:c.6626A>G
+NP_056363.2:p.Glu2209Gly
+missense
+NM_183380.4:c.7604A>G
+NP_899236.1:p.Glu2535Gly
+missense
+NC_000006.12:g.56557464T>C
+NC_000006.11:g.56422262T>C
+NG_029322.2:g.402165A>G
+...
+            more HGVS
+... less HGVS
+Protein change
+E2209G, 
+        
+          E2575G, 
+        
+          E4621G, 
+        
+          E4841G, 
+        
+          E2713G, 
+        
+          E4832G, 
+        
+          E2535G
+Other names
+-
+Canonical SPDI
+NC_000006.12:56557463:T:C
+Global minor allele
+frequency (GMAF)
+Help
+The global minor allele frequency calculated by the 1000 Genomes Project. The minor allele at this location is indicated in parentheses and may be different from the allele represented by this VCV record.
+0.00160 (C)
+Allele frequency
+Help
+The frequency of the allele represented by this VCV record.
+The Genome Aggregation Database (gnomAD) 0.00008
+Trans-Omics for Precision Medicine (TOPMed) 0.00010
+The Genome Aggregation Database (gnomAD) 0.00025
+The Genome Aggregation Database (gnomAD), exomes 0.00054
+Exome Aggregation Consortium (ExAC) 0.00063
+1000 Genomes Project 30x 0.00125
+1000 Genomes Project 0.00160
+Links
+ClinGen: CA3867998
+dbSNP: rs201437391
+VarSome
+Genes
+Gene
+OMIM
+ClinGen Gene Dosage Sensitivity Curation
+Variation Viewer
+Help
+Links to Variation Viewer, a genome browser to view variation data from NCBI databases.
+Related variants
+HI score
+Help
+The haploinsufficiency score for the gene, curated by ClinGen’s Dosage Sensitivity Curation task team.
+TS score
+Help
+The triplosensitivity score for the gene, curated by ClinGen’s Dosage Sensitivity Curation task team.
+Within gene
+Help
+The number of variants in ClinVar that are contained within this gene, with a link to view the list of variants.
+All
+Help
+The number of variants in ClinVar for this gene, including smaller variants within the gene and larger CNVs that overlap or fully contain the gene.
+DST
+-
+-
+GRCh38
+4140
+4235
+Conditions - Germline
+Condition
+Help
+The condition for this variant-condition (RCV) record in ClinVar.
+Classification
+Help
+The aggregate germline classification for this variant-condition (RCV) record in ClinVar. The number of submissions that contribute to this aggregate classification is shown in parentheses.
+(# of submissions)
+Review status
+Help
+The aggregate review status for this variant-condition (RCV) record in ClinVar. This value is calculated by NCBI based on data from submitters.
+Read our rules for calculating the review status
+.
+Last evaluated
+Help
+The most recent date that a submitter evaluated this variant for the condition.
+Variation/condition record
+Help
+The RCV accession number, with most recent version number, for the variant-condition record, with a link to the RCV web page.
+not provided
+Uncertain significance (1)
+criteria provided, single submitter
+Aug 1, 2017
+RCV000998633.35
+Epidermolysis bullosa simplex 3, localized or generalized intermediate, with BP230 deficiency
+Hereditary sensory and autonomic neuropathy type 6
+Likely benign (1)
+criteria provided, single submitter
+Dec 30, 2025
+RCV001452152.10
+Inborn genetic diseases
+Likely benign (1)
+criteria provided, single submitter
+Mar 11, 2020
+RCV002416283.3
+Multiple sclerosis
+Likely pathogenic (1)
+no assertion criteria provided
+Jun 10, 2024
+RCV005052823.1
+DST-related disorder
+Likely benign (1)
+criteria provided, single submitter
+Mar 7, 2025
+RCV007043387.1
+Submissions - Germline
+Classification
+Help
+The submitted germline classification for each SCV record.
+(Last evaluated)
+Review status
+Help
+Stars represent the review status, or the level of review supporting the submitted (SCV) record. This value is calculated by NCBI based on data from the submitter.
+Read our rules for calculating the review status
+. This column also includes a link to the submitter’s assertion criteria if provided, and the collection method.
+(Assertion criteria)
+Condition
+Help
+The condition for the classification, provided by the submitter for this submitted (SCV) record. This column also includes the affected status and allele origin of individuals observed with this variant.
+Submitter
+Help
+The submitting organization for this submitted (SCV) record. This column also includes the SCV accession and version number, the date this SCV first appeared in ClinVar, and the date that this SCV was last updated in ClinVar.
+Expand all rows
+Collapse all rows
+Help
+This column includes more information supporting the classification, including citations, the comment on classification, and detailed evidence provided as observations of the variant by the submitter.
+Likely benign
+(Mar 11, 2020)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+Ambry Variant Classification Scheme 2023
+)
+Inborn genetic diseases
+Ambry Genetics
+Accession: SCV002678804.2
+First in ClinVar: Nov 29, 2022
+Last updated: May 01, 2024
+Comment
+:
+show
+This alteration is classified as likely benign based on a combination of the following: seen in unaffected individuals, population frequency, intact protein function, lack of segregation with disease, co-occurrence, RNA analysis, in silico models, amino acid conservation, lack of disease association in case-control studies, and/or the mechanism of disease or impacted region is inconsistent with a known cause of pathogenicity.
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Likely benign
+(Dec 30, 2025)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+Invitae Variant Classification Sherloc (09022015)
+)
+Epidermolysis bullosa simplex 3, localized or generalized intermediate, with BP230 deficiency
+Hereditary sensory and autonomic neuropathy type 6
+Explanation for multiple conditions: Uncertain.
+The variant was classified for several related diseases, possibly a spectrum of disease; the variant may be associated with one or more the diseases.
+Labcorp Genetics (formerly Invitae), Labcorp
+Accession: SCV001655807.6
+First in ClinVar: Jun 08, 2021
+Last updated: Feb 23, 2026
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Uncertain significance
+(Aug 01, 2017)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+CeGaT Center For Human Genetics Tuebingen Variant Classification Criteria Version 2
+)
+not provided
+CeGaT Center for Human Genetics Tuebingen
+Accession: SCV001154791.40
+First in ClinVar: Feb 03, 2020
+Last updated: Jul 27, 2026
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+more
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Number of individuals with the variant
+:
+1
+Likely benign
+(Mar 07, 2025)
+C
+Contributing to aggregate classification
+criteria provided, single submitter
+(
+ACMG Guidelines, 2015
+)
+DST-related condition
+PreventionGenetics, part of Exact Sciences
+Accession: SCV008060070.1
+First in ClinVar: Oct 03, 2026
+Last updated: Oct 03, 2026
+Comment
+:
+show
+This variant is classified as likely benign based on ACMG/AMP sequence variant interpretation guidelines (Richards et al. 2015 PMID: 25741868, with internal and published modifications).
+(less)
+Observation: 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Observation 1
+Collection method
+:
+clinical testing
+Allele origin
+:
+germline
+Affected status
+:
+unknown
+Likely pathogenic
+(Jun 10, 2024)
+N
+Not contributing to aggregate classification
+no assertion criteria provided
+Multiple sclerosis
+Department of Molecular Biology and Genetics, Acibadem University
+Accession: SCV005686432.1
+First in ClinVar: Feb 01, 2025
+Last updated: Feb 01, 2025
+Observation: 1
+Collection method
+:
+research
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Observation 1
+Collection method
+:
+research
+Allele origin
+:
+germline
+Affected status
+:
+yes
+Comment:
+This alteration is classified as likely benign based on a combination of the following: seen in unaffected individuals, population frequency, intact protein function, lack of segregation with disease, co-occurrence, RNA analysis, in silico models, amino acid conservation, lack of disease association in case-control studies, and/or the mechanism of disease or impacted region is inconsistent with a known cause of pathogenicity.
+OK
+Comment:
+This variant is classified as likely benign based on ACMG/AMP sequence variant interpretation guidelines (Richards et al. 2015 PMID: 25741868, with internal and published modifications).
+OK
+Citations for germline classification of this variant
+Help
+There are no citations for germline classification of this variant in ClinVar. If you know of citations for this variation, please consider submitting that information to ClinVar.
+Text-mined citations for rs201437391
+...
+Help
+These citations are identified by LitVar using
+    the rs number, so they may include citations for more than one variant
+    at this location. Please review the LitVar results carefully for your
+    variant of interest.
+Record last updated Oct 04, 2026
+This date represents the last time this VCV record was updated. The 
+                        update may be due to an update to one of the included submitted 
+                        records (SCVs), or due to an update that ClinVar made to the variant 
+                        such as adding HGVS expressions or a rs number. So this date may be 
+                        different from the date of the “most recent submission” reported at the 
+                        top of this page.
+Help
+Modify your search
+Search (all fields optional)
+Clear all
+Variant
+Gene
+Genomic Location
+GRCh38
+GRCh37
+More search options
+Disease
+Other Terms
+Advanced Search
+Clear all
+Search
+Follow NCBI
+Twitter
+Facebook
+LinkedIn
+GitHub
+Connect with NLM
+Twitter
+SM-Facebook
+SM-Youtube
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+Help
+Accessibility
+Careers
+NLM
+NIH
+HHS
+USA.gov

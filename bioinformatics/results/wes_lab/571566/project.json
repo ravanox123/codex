@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "source": "/home/ravanox/codex/bioinformatics/results/wgs/571566.annotated.vcf.gz",
+  "sample": "571566",
+  "build": "GRCh38",
+  "vcf_reference": "Not declared",
+  "imported_at": "2026-10-20 09:56:59",
+  "counts": {
+    "input_records": 97174,
+    "imported_alleles": 97064,
+    "placeholder_alleles_skipped": 110
+  },
+  "sfari_snapshot": {
+    "source": "https://gene.sfari.org/wp-content/themes/sfari-gene/utilities/download-csv.php?api-endpoint=genes",
+    "local_snapshot": "2026-10-16",
+    "sha256": "ec3b830ab3f4e185d4d912b6e46a9bca79db39fafd107b37d8b48421be4772d2"
+  },
+  "representative_annotation": "Prefer matching MANE transcript, then predicted impact; all transcript annotations retained",
+  "source_sha256": "93191469fef5822cfb44e214f14b0afbe6876cb7a4aa6c99727e5460d6ed18d5"
+}

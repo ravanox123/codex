@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Bioinformatics Project
+Comment=Open the bioinformatics project folder
+Exec=/usr/bin/nautilus /home/ravanox/codex/bioinformatics
+Icon=/home/ravanox/codex/bioinformatics/desktop-shortcuts/icons/Bioinformatics.svg
+Terminal=false
+Categories=Science;
